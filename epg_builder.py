@@ -8,7 +8,7 @@ import os
 
 # 1. Lista de fuentes XMLTV públicas (puedes añadir o quitar las que quieras)
 FUENTES_XML = {
-    "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/EPG_dobleM.xml",
+    "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
     "Mexico": "https://iptv-org.github.io/epg/guides/mx.xml",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
