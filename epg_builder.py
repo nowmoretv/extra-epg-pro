@@ -21,9 +21,10 @@ FUENTES_XML = {
 
 # 2. Tus canales favoritos (deben coincidir con el 'id' exacto de la fuente)
 # TIP: Si no sabes el ID, puedes abrir la URL de la fuente en el navegador y buscar el canal.
-CANALES_FAVORITOS = [
+# MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE" : "ID_NUEVO_DESEADO"
+MAPEO_CANALES = [
     # España
-    "La 1 HD",
+    "La 1 HD": "La 1",
     "La 2",
     "Cuatro.es",
     "Telecinco.es",
@@ -79,7 +80,7 @@ def obtener_arbol_xml(url, archivo_temp):
     return tree
 
 def generar_epg_combinado():
-    root_combinado = ET.Element('tv', generator_info_name="Mi EPG Filtrada por Días")
+    root_combinado = ET.Element('tv', generator_info_name="Mi propia EPG")
     canales_agregados = set()
 
     # Definimos el rango de fechas (UTC)
@@ -105,17 +106,34 @@ def generar_epg_combinado():
             # 1. Copiar canales de la lista
             for channel in root.findall('channel'):
                 canal_id = channel.get('id')
-                if canal_id in CANALES_FAVORITOS and canal_id not in canales_agregados:
-                    root_combinado.append(channel)
-                    canales_agregados.add(canal_id)
+                
+                # Si el canal está en nuestra lista de interés
+                if id_original in MAPEO_CANALES:
+                    id_nuevo = MAPEO_CANALES[id_original]
+                    
+                    if id_nuevo not in canales_agregados:
+                        # Asignamos el nuevo ID al elemento <channel id="...">
+                        channel.set('id', id_nuevo)
+                        
+                        # (Opcional) Cambiar también el nombre visible <display-name> si se quiere
+                        display_name = channel.find('display-name')
+                        if display_name is not None:
+                            display_name.text = id_nuevo
+                            
+                        root_combinado.append(channel)
+                        canales_agregados.add(id_nuevo)
 
             # 2. Copiar programas solo si son de los canales elegidos Y están en el rango de días
             for programme in root.findall('programme'):
                 canal = programme.get('channel')
                 start_time = programme.get('start')
 
-                if canal in CANALES_FAVORITOS and start_time:
+                if canal in MAPEO_CANALES and start_time:
                     if es_programa_valido(start_time, fecha_limite_inicio, fecha_limite_fin):
+                        id_nuevo = MAPEO_CANALES[canal_original]
+                        
+                        # Actualizamos el atributo channel="..." del programa al nuevo ID
+                        programme.set('channel', id_nuevo)
                         root_combinado.append(programme)
 
             print(f"    ✔ Procesado {pais} con éxito.")
