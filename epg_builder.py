@@ -14,7 +14,7 @@ DIAS_FUTURO = 3
 # 1. Lista de fuentes XMLTV públicas (puedes añadir o quitar las que quieras)
 FUENTES_XML = {
     "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
-    "Mexico": "https://iptv-org.github.io/epg/guides/mx.xml",
+    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
 }
@@ -30,7 +30,7 @@ CANALES_FAVORITOS = [
     "LaSexta.es",
     
     # México
-    "AztecaUno.mx",
+    "LA 1.es",
     "LasEstrellas.mx",
     
     # Argentina
