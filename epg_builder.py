@@ -22,7 +22,7 @@ FUENTES_XML = {
 # 2. Tus canales favoritos (deben coincidir con el 'id' exacto de la fuente)
 # TIP: Si no sabes el ID, puedes abrir la URL de la fuente en el navegador y buscar el canal.
 # MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE" : "ID_NUEVO_DESEADO"
-MAPEO_CANALES = [
+MAPEO_CANALES = {
     # España
     "La 1 HD":"La 1",
     "La 2":"La 2",
@@ -41,7 +41,7 @@ MAPEO_CANALES = [
     # Colombia
     "CaracolTV.co":"Caracol TV",
     "RCNTV.co":"RCN"
-]
+}
 
 # ==============================================================================
 # LÓGICA DE FILTRADO POR FECHAS
