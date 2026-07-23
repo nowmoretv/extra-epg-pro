@@ -786,4 +786,110 @@
     <desc>Episodio 144, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
+  <channel id="Pluto TV Cine Estelar">
+    <display-name>Pluto TV Cine Estelar</display-name>
+    <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
+  </channel>
+  <programme channel="Pluto TV Cine Estelar" start="20260723172016 +0000" stop="20260723192251 +0000">
+    <title>Albert Nobbs</title>
+    <episode-num system="original-air-date">20110831000000 +0000</episode-num>
+    <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110831</date>
+    <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
+    <category>Independent Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260723192251 +0000" stop="20260723211635 +0000">
+    <title>Amor de ida y vuelta</title>
+    <episode-num system="original-air-date">20181107000000 +0000</episode-num>
+    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20181107</date>
+    <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260723211635 +0000" stop="20260723225918 +0000">
+    <title>Mátalos suavemente</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Un sicario es contratado para investigar un robo relacionado con la mafia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef4751a68b1a2a811c8917/poster_1777987081928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120101</date>
+    <series-id system="pluto">69ef4750a68b1a2a811c88f8</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260723225918 +0000" stop="20260724002838 +0000">
+    <title>Ceros y unos</title>
+    <episode-num system="original-air-date">20210714000000 +0000</episode-num>
+    <desc>Un soldado investiga una amenaza terrorista en una Roma en estado de emergencia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6f654c1064447fbd87fb/poster_1778085734850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210714</date>
+    <series-id system="pluto">69fb6f644c1064447fbd87db</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724002838 +0000" stop="20260724024138 +0000">
+    <title>Teniente Corrupto</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>El teniente Terence McDonough, adicto a las drogas por sus dolores crónicos de espalda, investiga el asesinato de cinco inmigrantes senegaleses en Nueva Orleans.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e1807fa72a5001a5fa314/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090101</date>
+    <series-id system="pluto">5f4e1806fa72a5001a5fa30c</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724024138 +0000" stop="20260724041629 +0000">
+    <title>3 generaciones</title>
+    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
+    <desc>Un adolescente trans quiere iniciar su transición, pero necesita el consentimiento de sus padres mientras su familia aprende a aceptar su identidad.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef45e9598bd1d6b49c66e9/poster_1777288715878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20150101</date>
+    <series-id system="pluto">69ef45e8598bd1d6b49c66ca</series-id>
+    <category>Independent Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724041629 +0000" stop="20260724062012 +0000">
+    <title>ISRA-88</title>
+    <episode-num system="original-air-date">20170207000000 +0000</episode-num>
+    <desc>Un científico y un piloto se ofrecen voluntarios para una misión de alto nivel destinada a llegar al fin del universo. Después de 13 años, la nave se estrella en el fin del universo y se adentra en lo desconocido.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a2827a5a87694f996fd4c17/poster_1781016486208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20170207</date>
+    <series-id system="pluto">6a2827a3a87694f996fd4bf7</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724062012 +0000" stop="20260724093312 +0000">
+    <title>Moby Dick</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>El Pequod es un barco ballenero cuyo objetivo principal es cazar a la mítica ballena blanca. Al mando de la nave está el tiránico capitán Ahab, que vive obsesionado con la idea de capturar al animal que consiguió escapar después de arrancarle una pierna.</desc>
+    <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100101</date>
+    <series-id system="pluto">627b5b7fe500b000135db308</series-id>
+    <category>Reality</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724093312 +0000" stop="20260724115425 +0000">
+    <title>Fahrenheit 11/9</title>
+    <episode-num system="original-air-date">20180906000000 +0000</episode-num>
+    <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b3a544a77e2cd15d917fa/poster_1779120725587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20180906</date>
+    <series-id system="pluto">6a0b3a534a77e2cd15d917da</series-id>
+    <category>Documentary</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260724115425 +0000" stop="20260724134810 +0000">
+    <title>El club de los incomprendidos</title>
+    <episode-num system="original-air-date">20141201000000 +0000</episode-num>
+    <desc>Basada en la novela de Francisco de Paula. Un grupo de adolescentes castigados en el instituto descubre la amistad y el amor mientras comparten sus problemas. En elenco podemos ver a Ivana Baquero, Patrick Criado, Aitana Sánchez-Gijón o Raúl Arévalo.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb677ddf4ded48bcb37e5c/poster_1778083710151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20141201</date>
+    <series-id system="pluto">69fb677cdf4ded48bcb37b40</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
 </tv>
