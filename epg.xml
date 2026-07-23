@@ -13,411 +13,319 @@
   </channel>
   <programme start="20260723070000 +0200" stop="20260723083000 +0200" channel="La 1 HD">
     <title>Telediario Matinal</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260723083000 +0200" stop="20260723103500 +0200" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad [COLOR tomato]T9 E144[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>La hora de La 1: La hora de la actualidad T9 E144</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4363190" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4363190" />
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260723103500 +0200" stop="20260723145500 +0200" channel="La 1 HD">
-    <title>Mañaneros 360 [COLOR tomato]T2[/COLOR] [COLOR goldenrod]Incluye entrevista a José Luis Rodríguez Zapatero[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
+    <title>Mañaneros 360 T2 · Incluye entrevista a José Luis Rodríguez Zapatero</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.4/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363192" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4363192" />
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260723145500 +0200" stop="20260723153000 +0200" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260723153000 +0200" stop="20260723153500 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260723153500 +0200" stop="20260723154000 +0200" channel="La 1 HD">
     <title>El tiempo</title>
-    <desc>[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260723154000 +0200" stop="20260723155000 +0200" channel="La 1 HD">
     <title>Informativo territorial 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
   </programme>
   <programme start="20260723155000 +0200" stop="20260723172000 +0200" channel="La 1 HD">
-    <title>Tour de Francia [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 18 - Voiron - Orcières Merlette[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
+    <title>Tour de Francia T2026 · Etapa 18 - Voiron - Orcières Merlette</title>
+    <desc>Deportes,Ciclismo | 2026
 · El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
-[COLOR teal]· País:[/COLOR] Francia</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4484844" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4484845" />
+· País: Francia</desc>
   </programme>
   <programme start="20260723172000 +0200" stop="20260723193500 +0200" channel="La 1 HD">
-    <title>Directo al grano [COLOR tomato]T2 E144[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <title>Directo al grano T2 E144</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.6/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Martín Barreiro, Gonzalo Miró.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363194" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4363194" />
+· País: España
+· Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260723193500 +0200" stop="20260723202500 +0200" channel="La 1 HD">
-    <title>Malas lenguas [COLOR tomato]T2 E216[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Malas lenguas T2 E216</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4363196" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4363196" />
+· País: España
+· Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260723202500 +0200" stop="20260723205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
 · Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4338882" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4338882" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260723205500 +0200" stop="20260723214000 +0200" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260723214000 +0200" stop="20260723214500 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260723214500 +0200" stop="20260723222000 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele [COLOR tomato]T14[/COLOR] [COLOR goldenrod]Versión española[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Viaje al centro de la tele T14 · Versión española</title>
+    <desc>Entretenimiento,Zapping | 2025 | TP | ★6.2/10
 · Un viaje musical por las canciones extranjeras que han sido versionadas en castellano.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4206486" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4206486" />
+· País: España
+· Dirección: Pedro Santos.</desc>
   </programme>
   <programme start="20260723222000 +0200" stop="20260723225500 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele [COLOR tomato]T15[/COLOR] [COLOR goldenrod]70 éxitos de los 80 express (1ª parte)[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <title>Viaje al centro de la tele T15 · 70 éxitos de los 80 express (1ª parte)</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | ★6.6/10
 · Primera parte de un viaje a través del archivo de TVE en su 70º aniversario, en el que podemos ver las mejores actuaciones emitidas en televisión española en la década de los 80,.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363198" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4363198" />
+· País: España
+· Dirección: Pedro Santos.</desc>
   </programme>
   <programme start="20260723225500 +0200" stop="20260724002500 +0200" channel="La 1 HD">
-    <title>El perro andaluz [COLOR tomato]T1[/COLOR] [COLOR goldenrod]José Mercé, Kiki Morente y Lagartija Nick[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Humor[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]
+    <title>El perro andaluz T1 · José Mercé, Kiki Morente y Lagartija Nick</title>
+    <desc>Entretenimiento,Humor | 2026 | ⑯ | ★4.0/10
 · José Mercé, leyenda del flamenco, visita esta semana el plató para repasar con Manu Sánchez los hitos de su trayectoria y compartir su visión sobre la actualidad. Y la música no para con la visita de Kiki Morente y Lagartija Nick.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Manu Sánchez.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363200" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4363200" />
+· País: España
+· Presenta: Manu Sánchez.</desc>
   </programme>
   <programme start="20260724002500 +0200" stop="20260724020000 +0200" channel="La 1 HD">
-    <title>El perro andaluz [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Rosa López y Boris Izaguirre[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Humor[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>El perro andaluz T1 · Rosa López y Boris Izaguirre</title>
+    <desc>Entretenimiento,Humor | 2026 | ⑯ | ★6.2/10
 · La cantante granadina y el escritor y comunicador venezolano compartirán escenario con Manu Sánchez en una noche en la que cualquier anécdota puede dar paso a una reflexión, una carcajada o un giro inesperado.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Manu Sánchez.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4355767" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4355767" />
+· País: España
+· Presenta: Manu Sánchez.</desc>
   </programme>
   <programme start="20260724020000 +0200" stop="20260724060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260724060000 +0200" stop="20260724070000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260724070000 +0200" stop="20260724083000 +0200" channel="La 1 HD">
     <title>Telediario Matinal</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260724083000 +0200" stop="20260724103500 +0200" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad [COLOR tomato]T9 E145[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]
+    <title>La hora de La 1: La hora de la actualidad T9 E145</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364535" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4364535" />
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260724103500 +0200" stop="20260724145500 +0200" channel="La 1 HD">
-    <title>Mañaneros 360 [COLOR tomato]T2 E230[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Mañaneros 360 T2 E230</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364537" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4364537" />
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260724145500 +0200" stop="20260724153000 +0200" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260724153000 +0200" stop="20260724153500 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260724153500 +0200" stop="20260724154000 +0200" channel="La 1 HD">
     <title>El tiempo</title>
-    <desc>[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260724154000 +0200" stop="20260724155000 +0200" channel="La 1 HD">
     <title>Informativo territorial 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
   </programme>
   <programme start="20260724155000 +0200" stop="20260724173000 +0200" channel="La 1 HD">
-    <title>DIRECTO Etapa 19 - Gap - Alpe d'Huez [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Tour de Francia[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>DIRECTO Etapa 19 - Gap - Alpe d'Huez T2026 · Tour de Francia</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | ★6.2/10
 · El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
-[COLOR teal]· País:[/COLOR] Francia</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4484844" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4484845" />
+· País: Francia</desc>
   </programme>
   <programme start="20260724173000 +0200" stop="20260724193500 +0200" channel="La 1 HD">
-    <title>Directo al grano [COLOR tomato]T2 E145[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]
+    <title>Directo al grano T2 E145</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Martín Barreiro, Gonzalo Miró.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364539" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4364539" />
+· País: España
+· Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260724193500 +0200" stop="20260724202500 +0200" channel="La 1 HD">
-    <title>Malas lenguas [COLOR tomato]T2 E217[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]
+    <title>Malas lenguas T2 E217</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364541" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4364541" />
+· País: España
+· Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260724202500 +0200" stop="20260724205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
 · Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4338882" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4338882" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260724205500 +0200" stop="20260724214000 +0200" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260724214000 +0200" stop="20260724214500 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260724214500 +0200" stop="20260724215000 +0200" channel="La 1 HD">
     <title>La suerte en tus manos</title>
-    <desc>[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207597" />
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260724215000 +0200" stop="20260724223500 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Tocata[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.2/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148175" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2148175" />
+· País: España</desc>
   </programme>
   <programme start="20260724223500 +0200" stop="20260724233500 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Aplauso Nacional[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★5.8/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148176" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2148176" />
+· País: España</desc>
   </programme>
   <programme start="20260724233500 +0200" stop="20260725002500 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Aplauso Internacional[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.6/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148177" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2148177" />
+· País: España</desc>
   </programme>
   <programme start="20260725002500 +0200" stop="20260725013000 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Música Si[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★3.0/10[/COLOR]
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★3.0/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2142456" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2142456" />
+· País: España</desc>
   </programme>
   <programme start="20260725013000 +0200" stop="20260725060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+· País: España</desc>
   </programme>
   <programme start="20260725060000 +0200" stop="20260725070000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260725070000 +0200" stop="20260725111500 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260725111500 +0200" stop="20260725114500 +0200" channel="La 1 HD">
     <title>Audiencia abierta</title>
-    <desc>[COLOR SlateBlue]Información,Política[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Política | 2012 | TP | ★6.0/10
 · Espacio semanal de servicio público sobre la Jefatura del Estado.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Miguel Ángel Sacaluga.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1065634" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF1065634" />
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
   <programme start="20260725114500 +0200" stop="20260725133000 +0200" channel="La 1 HD">
     <title>Viaje al centro de la tele</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2024[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3489218" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3489218" />
+· País: España
+· Dirección: Pedro Santos.</desc>
   </programme>
   <programme start="20260725133000 +0200" stop="20260725145500 +0200" channel="La 1 HD">
-    <title>D Corazón [COLOR tomato]T3[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Corazon y sociedad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>D Corazón T3</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4209646" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646" />
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
   </programme>
   <programme start="20260725145500 +0200" stop="20260725154500 +0200" channel="La 1 HD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★4.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114179" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179" />
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260725154500 +0200" stop="20260725155000 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260725155000 +0200" stop="20260725155500 +0200" channel="La 1 HD">
     <title>La suerte en tus manos</title>
-    <desc>[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207597" />
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260725155500 +0200" stop="20260725174000 +0200" channel="La 1 HD">
     <title>Cine</title>
@@ -429,42 +337,34 @@
   </programme>
   <programme start="20260725201500 +0200" stop="20260725205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260725205500 +0200" stop="20260725212500 +0200" channel="La 1 HD">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.0/10[/COLOR]
+    <desc>Información,Informativo | 2017 | TP | ★4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114180" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114180" />
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260725212500 +0200" stop="20260725213000 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260725213000 +0200" stop="20260725220500 +0200" channel="La 1 HD">
-    <title>Informe Semanal [COLOR tomato]T25/26[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Información,Reportaje[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>Informe Semanal T25/26</title>
+    <desc>Información,Reportaje | 2025 | ⑦ | ★5.8/10
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Lourdes Maldonado.
-[COLOR teal]· Dirección:[/COLOR] Jenaro Castro Muiña.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4116717" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4116717" />
+· País: España
+· Presenta: Lourdes Maldonado.
+· Dirección: Jenaro Castro Muiña.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260725220500 +0200" stop="20260725234000 +0200" channel="La 1 HD">
     <title>Cine</title>
@@ -480,91 +380,71 @@
   </programme>
   <programme start="20260726032500 +0200" stop="20260726060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726070000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260726070000 +0200" stop="20260726103000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260726103000 +0200" stop="20260726111000 +0200" channel="La 1 HD">
     <title>Viaje al centro de la tele exprés</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1920491" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1920491" />
+· País: España</desc>
   </programme>
   <programme start="20260726111000 +0200" stop="20260726120500 +0200" channel="La 1 HD">
-    <title>Viaje al centro de la tele [COLOR tomato]T8[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>Viaje al centro de la tele T8</title>
+    <desc>Entretenimiento,Zapping | 2019 | TP | ★5.8/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1713528" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1713528" />
+· País: España
+· Dirección: Pedro Santos.</desc>
   </programme>
   <programme start="20260726120500 +0200" stop="20260726130500 +0200" channel="La 1 HD">
     <title>Viaje al centro de la tele</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <desc>Entretenimiento,Zapping | 2016 | TP | ★6.6/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1341124" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1341124" />
+· País: España
+· Dirección: Pedro Santos.</desc>
   </programme>
   <programme start="20260726130500 +0200" stop="20260726145500 +0200" channel="La 1 HD">
-    <title>D Corazón [COLOR tomato]T3[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Corazon y sociedad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>D Corazón T3</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4209646" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646" />
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
   </programme>
   <programme start="20260726145500 +0200" stop="20260726154500 +0200" channel="La 1 HD">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | TP | ★4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114179" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179" />
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260726154500 +0200" stop="20260726155000 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260726155000 +0200" stop="20260726155500 +0200" channel="La 1 HD">
     <title>La suerte en tus manos</title>
-    <desc>[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
 · Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207597" />
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260726155500 +0200" stop="20260726172500 +0200" channel="La 1 HD">
     <title>Cine</title>
@@ -580,31 +460,25 @@
   </programme>
   <programme start="20260726203500 +0200" stop="20260726205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260726205500 +0200" stop="20260726215000 +0200" channel="La 1 HD">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR gold]★4.0/10[/COLOR]
+    <desc>Información,Informativo | 2017 | ★4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114180" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114180" />
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260726215000 +0200" stop="20260726220000 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260726220000 +0200" stop="20260726235500 +0200" channel="La 1 HD">
     <title>Cine</title>
@@ -620,332 +494,262 @@
   </programme>
   <programme start="20260727030500 +0200" stop="20260727060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260727060000 +0200" stop="20260727075000 +0200" channel="La 1 HD">
     <title>Telediario Matinal</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260727075000 +0200" stop="20260727103500 +0200" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad [COLOR tomato]T9[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4207595" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4207595" />
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260727103500 +0200" stop="20260727145500 +0200" channel="La 1 HD">
-    <title>Mañaneros 360 [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108659" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260727145500 +0200" stop="20260727153500 +0200" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260727153500 +0200" stop="20260727154000 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260727154000 +0200" stop="20260727154500 +0200" channel="La 1 HD">
     <title>El tiempo</title>
-    <desc>[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260727154500 +0200" stop="20260727155500 +0200" channel="La 1 HD">
     <title>Informativo territorial 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
   </programme>
   <programme start="20260727155500 +0200" stop="20260727174500 +0200" channel="La 1 HD">
-    <title>Directo al grano [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>Directo al grano T2</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marta Flich, Martín Barreiro, Gonzalo Miró.
-[COLOR teal]· Dirección:[/COLOR] Óscar Cornejo, Ana Isabel Peces.
-[COLOR teal]· Reparto:[/COLOR] Rosa Villacastín, Ada Colau, Marta Flich.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207599" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207599" />
+· País: España
+· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
+· Dirección: Óscar Cornejo, Ana Isabel Peces.
+· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
+· Productora: Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260727174500 +0200" stop="20260727183500 +0200" channel="La 1 HD">
-    <title>Valle Salvaje [COLOR tomato]T4[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Series,Telenovela[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4314916" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916" />
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20260727183500 +0200" stop="20260727193500 +0200" channel="La 1 HD">
-    <title>La Promesa [COLOR tomato]T1[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-[COLOR teal]· Guion:[/COLOR] Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2162814" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260727193500 +0200" stop="20260727202500 +0200" channel="La 1 HD">
-    <title>Malas lenguas [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4123276" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+· País: España
+· Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260727202500 +0200" stop="20260727205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260727205500 +0200" stop="20260727214000 +0200" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260727214000 +0200" stop="20260727214500 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260727214500 +0200" stop="20260727230000 +0200" channel="La 1 HD">
-    <title>El Grand Prix del Verano [COLOR tomato]T4[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Concurso[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>El Grand Prix del Verano T4</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.0/10
 · Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ramón García, Gorka Rodríguez, Lalachus.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MCLANTVP4351080" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4351080" />
+· País: España
+· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
+· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
   </programme>
   <programme start="20260727230000 +0200" stop="20260728020500 +0200" channel="La 1 HD">
     <title>MasterChef</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Concurso[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Concurso | 2026 | ⑦ | ★6.0/10
 · La cocina se convierte en el campo de batalla para quince aspirantes a chefs.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] ShineIberia.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4276355" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4276355" />
+· País: España
+· Productora: ShineIberia.</desc>
   </programme>
   <programme start="20260728020500 +0200" stop="20260728045500 +0200" channel="La 1 HD">
     <title>MasterChef</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Concurso[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Concurso | 2026 | ⑦ | ★6.0/10
 · La cocina se convierte en el campo de batalla para quince aspirantes a chefs.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] ShineIberia.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4276355" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4276355" />
+· País: España
+· Productora: ShineIberia.</desc>
   </programme>
   <programme start="20260728045500 +0200" stop="20260728060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4315171" />
+· País: España</desc>
   </programme>
   <programme start="20260728060000 +0200" stop="20260728075000 +0200" channel="La 1 HD">
     <title>Telediario Matinal</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260728075000 +0200" stop="20260728103500 +0200" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad [COLOR tomato]T9[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4207595" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4207595" />
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260728103500 +0200" stop="20260728145500 +0200" channel="La 1 HD">
-    <title>Mañaneros 360 [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108659" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260728145500 +0200" stop="20260728153500 +0200" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260728153500 +0200" stop="20260728154000 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260728154000 +0200" stop="20260728154500 +0200" channel="La 1 HD">
     <title>El tiempo</title>
-    <desc>[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260728154500 +0200" stop="20260728155500 +0200" channel="La 1 HD">
     <title>Informativo territorial 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
   </programme>
   <programme start="20260728155500 +0200" stop="20260728174500 +0200" channel="La 1 HD">
-    <title>Directo al grano [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Directo al grano T2</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marta Flich, Martín Barreiro, Gonzalo Miró.
-[COLOR teal]· Dirección:[/COLOR] Óscar Cornejo, Ana Isabel Peces.
-[COLOR teal]· Reparto:[/COLOR] Rosa Villacastín, Ada Colau, Marta Flich.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207599" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207599" />
+· País: España
+· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
+· Dirección: Óscar Cornejo, Ana Isabel Peces.
+· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
+· Productora: Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260728174500 +0200" stop="20260728183500 +0200" channel="La 1 HD">
-    <title>Valle Salvaje [COLOR tomato]T4[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Series,Telenovela[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4314916" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916" />
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20260728183500 +0200" stop="20260728193500 +0200" channel="La 1 HD">
-    <title>La Promesa [COLOR tomato]T1[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-[COLOR teal]· Guion:[/COLOR] Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2162814" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260728193500 +0200" stop="20260728202500 +0200" channel="La 1 HD">
-    <title>Malas lenguas [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4123276" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+· País: España
+· Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260728202500 +0200" stop="20260728205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260728205500 +0200" stop="20260728214000 +0200" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260728214000 +0200" stop="20260728214500 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260728214500 +0200" stop="20260728230000 +0200" channel="La 1 HD">
-    <title>El Grand Prix del Verano [COLOR tomato]T4[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Concurso[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>El Grand Prix del Verano T4</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
 · Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ramón García, Gorka Rodríguez, Lalachus.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MCLANTVP4351080" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4351080" />
+· País: España
+· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
+· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
   </programme>
   <programme start="20260728230000 +0200" stop="20260729004000 +0200" channel="La 1 HD">
     <title>Al cielo con ella</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Tertulia[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Tertulia | 2026 | ⑯ | ★6.0/10
 · Henar Álvarez presenta un programa de entrevistas gamberras y reivindicativas.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4281809" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVET4281809" />
+· País: España
+· Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
   </programme>
   <programme start="20260729004000 +0200" stop="20260729014000 +0200" channel="La 1 HD">
     <title>Cine</title>
@@ -953,189 +757,149 @@
   </programme>
   <programme start="20260729014000 +0200" stop="20260729041500 +0200" channel="La 1 HD">
     <title>La noche en 24 horas</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2025 | ★6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Xabier Fortes.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4108663" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4108663" />
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260729041500 +0200" stop="20260729060000 +0200" channel="La 1 HD">
     <title>Noticias 24H</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518403" />
+· País: España</desc>
   </programme>
   <programme start="20260729060000 +0200" stop="20260729075000 +0200" channel="La 1 HD">
     <title>Telediario Matinal</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404" />
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260729075000 +0200" stop="20260729103500 +0200" channel="La 1 HD">
-    <title>La hora de La 1: La hora de la actualidad [COLOR tomato]T9[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4207595" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4207595" />
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260729103500 +0200" stop="20260729145500 +0200" channel="La 1 HD">
-    <title>Mañaneros 360 [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108659" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108659" />
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260729145500 +0200" stop="20260729153500 +0200" channel="La 1 HD">
     <title>Telediario 1</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438" />
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260729153500 +0200" stop="20260729154000 +0200" channel="La 1 HD">
     <title>Deportes 1</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260729154000 +0200" stop="20260729154500 +0200" channel="La 1 HD">
     <title>El tiempo</title>
-    <desc>[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735" />
+· País: España
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260729154500 +0200" stop="20260729155500 +0200" channel="La 1 HD">
     <title>Informativo territorial 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999" />
   </programme>
   <programme start="20260729155500 +0200" stop="20260729174500 +0200" channel="La 1 HD">
-    <title>Directo al grano [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Directo al grano T2</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marta Flich, Martín Barreiro, Gonzalo Miró.
-[COLOR teal]· Dirección:[/COLOR] Óscar Cornejo, Ana Isabel Peces.
-[COLOR teal]· Reparto:[/COLOR] Rosa Villacastín, Ada Colau, Marta Flich.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207599" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4207599" />
+· País: España
+· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
+· Dirección: Óscar Cornejo, Ana Isabel Peces.
+· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
+· Productora: Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260729174500 +0200" stop="20260729183500 +0200" channel="La 1 HD">
     <title>Valle Salvaje</title>
-    <desc>[COLOR SlateBlue]Series,Telenovela[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4314916" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVET4314916" />
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20260729183500 +0200" stop="20260729193500 +0200" channel="La 1 HD">
-    <title>La Promesa [COLOR tomato]T1[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Series,Drama[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR yellow]⑫[/COLOR] | [COLOR gold]★6.8/10[/COLOR]
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Reparto:[/COLOR] Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-[COLOR teal]· Guion:[/COLOR] Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-[COLOR teal]· Productora:[/COLOR] Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2162814" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814" />
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
   </programme>
   <programme start="20260729193500 +0200" stop="20260729202500 +0200" channel="La 1 HD">
-    <title>Malas lenguas [COLOR tomato]T2[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4123276" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4123276" />
+· País: España
+· Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260729202500 +0200" stop="20260729205500 +0200" channel="La 1 HD">
     <title>Aquí la Tierra</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
 · Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661" />
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260729205500 +0200" stop="20260729214000 +0200" channel="La 1 HD">
     <title>Telediario 2</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466" />
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260729214000 +0200" stop="20260729214500 +0200" channel="La 1 HD">
     <title>Deportes 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386" />
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260729214500 +0200" stop="20260729230000 +0200" channel="La 1 HD">
-    <title>El Grand Prix del Verano [COLOR tomato]T4[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Concurso[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>El Grand Prix del Verano T4</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
 · Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ramón García, Gorka Rodríguez, Lalachus.
-[COLOR teal]· Productora:[/COLOR] Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MCLANTVP4351080" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4351080" />
+· País: España
+· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
+· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
   </programme>
   <programme start="20260729230000 +0200" stop="20260730001500 +0200" channel="La 1 HD">
     <title>Operación África</title>
-    <desc>[COLOR SlateBlue]Documentales,Documental[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Documentales,Documental | 2026 | TP | ★6.0/10
 · El doctor Pedro Cavadas viaja a Tanzania para afrontar uno de los mayores retos de su carrera: operar a más de 100 pacientes con apenas recursos y en condiciones muy precarias en 10 días.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4323250" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4323250" />
+· País: España</desc>
   </programme>
   <programme start="20260730001500 +0200" stop="20260730014500 +0200" channel="La 1 HD">
     <title>Operación África</title>
-    <desc>[COLOR SlateBlue]Documentales,Documental[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>Documentales,Documental | 2026 | TP | ★6.0/10
 · El doctor Pedro Cavadas viaja a Tanzania para afrontar uno de los mayores retos de su carrera: operar a más de 100 pacientes con apenas recursos y en condiciones muy precarias en 10 días.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4323250" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4323250" />
+· País: España</desc>
   </programme>
   <programme start="20260730014500 +0200" stop="20260730042000 +0200" channel="La 1 HD">
     <title>La noche en 24 horas</title>
-    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <desc>Información,Informativo | 2025 | ★6.2/10
 · Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Xabier Fortes.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4108663" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M24HF4108663" />
+· País: España
+· Dirección: Xabier Fortes.
+· Productora: Televisión Española (TVE).</desc>
   </programme>
 </tv>
