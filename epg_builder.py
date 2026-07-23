@@ -8,7 +8,7 @@ import os
 
 # 1. Lista de fuentes XMLTV públicas (puedes añadir o quitar las que quieras)
 FUENTES_XML = {
-    "Espana": "https://iptv-org.github.io/epg/guides/es.xml",
+    "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/EPG_dobleM.xml",
     "Mexico": "https://iptv-org.github.io/epg/guides/mx.xml",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
@@ -18,7 +18,7 @@ FUENTES_XML = {
 # TIP: Si no sabes el ID, puedes abrir la URL de la fuente en el navegador y buscar el canal.
 CANALES_FAVORITOS = [
     # España
-    "La1.es",
+    "La 1 HD",
     "Antena3.es",
     "Cuatro.es",
     "Telecinco.es",
