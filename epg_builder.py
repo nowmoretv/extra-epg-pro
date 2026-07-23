@@ -13,7 +13,7 @@ DIAS_FUTURO = 3
 FUENTES_XML = {
     "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
     "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
-    "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
+    "Argentina": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
 }
 
@@ -27,7 +27,8 @@ MAPEO_CANALES = {
     "AztecaUno.mx": "Azteca Uno",
     "LasEstrellas.mx": "Las Estrellas",
     "Telefe.ar": "Telefe",
-    "ElTrece.ar": "El Trece",
+    # Pluto TV
+    "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar",
     "CaracolTV.co": "Caracol TV",
     "RCNTV.co": "RCN TV"
 }
