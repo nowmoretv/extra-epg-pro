@@ -24,23 +24,23 @@ FUENTES_XML = {
 # MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE" : "ID_NUEVO_DESEADO"
 MAPEO_CANALES = [
     # España
-    "La 1 HD": "La 1",
-    "La 2",
-    "Cuatro.es",
-    "Telecinco.es",
-    "LaSexta.es",
+    "La 1 HD":"La 1",
+    "La 2":"La 2",
+    "Cuatro.es":"Cuatro",
+    "Telecinco.es":"Telecinco",
+    "LaSexta.es":"laSexta",
     
     # México
-    "LA 1.es",
-    "LasEstrellas.mx",
+    "LA 1.es":"La 1 Light",
+    "LasEstrellas.mx":"Las Estrellas",
     
     # Argentina
-    "Telefe.ar",
-    "ElTrece.ar",
+    "Telefe.ar":"Telefe",
+    "ElTrece.ar":"El Trece",
     
     # Colombia
-    "CaracolTV.co",
-    "RCNTV.co"
+    "CaracolTV.co":"Caracol TV",
+    "RCNTV.co":"RCN"
 ]
 
 # ==============================================================================
