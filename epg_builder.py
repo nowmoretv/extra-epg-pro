@@ -1,10 +1,14 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import os
+from datetime import datetime, timedelta, timezone
 
 # ==============================================================================
 # CONFIGURACIÓN DE FUENTES Y CANALES
 # ==============================================================================
+
+# ¿Cuántos días hacia el futuro quieres conservar? (1 es hoy y mañana, 3 es los próximos tres días y 7 toda la semana)
+DIAS_FUTURO = 3
 
 # 1. Lista de fuentes XMLTV públicas (puedes añadir o quitar las que quieras)
 FUENTES_XML = {
@@ -38,37 +42,62 @@ CANALES_FAVORITOS = [
 ]
 
 # ==============================================================================
-# LÓGICA DEL PROCESAMIENTO
+# LÓGICA DE FILTRADO POR FECHAS
 # ==============================================================================
 
+def es_programa_valido(fecha_inicio_str, fecha_limite_inicio, fecha_limite_fin):
+    """
+    Comprueba si la fecha del programa está dentro del rango deseado.
+    El formato XMLTV habitual de fecha es: YYYYMMDDHHMMSS +0000
+    """
+    try:
+        # Extraemos solo los primeros 14 caracteres (YYYYMMDDHHMMSS)
+        fecha_clean = fecha_inicio_str.split()[0][:14]
+        fecha_dt = datetime.strptime(fecha_clean, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
+        
+        # Debe ser posterior al inicio de hoy y anterior a la fecha límite futura
+        return fecha_limite_inicio <= fecha_dt <= fecha_limite_fin
+    except Exception:
+        # Si la fecha viene en un formato extraño, lo dejamos pasar por seguridad
+        return True
+
 def generar_epg_combinado():
-    # Creamos el contenedor XML principal para nuestro epg.xml unificado
-    root_combinado = ET.Element('tv', generator_info_name="Mi EPG Personalizada Unificada")
-    
-    # Conjuntos para controlar que no duplicamos datos
+    root_combinado = ET.Element('tv', generator_info_name="Mi EPG Filtrada por Días")
     canales_agregados = set()
+
+    # Definimos el rango de fechas (UTC)
+    ahora_utc = datetime.now(timezone.utc)
+    # Desde el inicio del día de hoy (00:00:00)
+    fecha_limite_inicio = ahora_utc.replace(hour=0, minute=0, second=0, microsecond=0)
+    # Hasta dentro de X días
+    fecha_limite_fin = fecha_limite_inicio + timedelta(days=DIAS_FUTURO + 1)
+
+    print(f"--> Filtrando programación desde {fecha_limite_inicio.strftime('%Y-%m-%d')} hasta {fecha_limite_fin.strftime('%Y-%m-%d')}...")
 
     for pais, url in FUENTES_XML.items():
         archivo_temp = f"temp_{pais}.xml"
         print(f"--> Descargando fuente de {pais}...")
         
         try:
-            # Descargamos el XML del país
             urllib.request.urlretrieve(url, archivo_temp)
             tree = ET.parse(archivo_temp)
             root = tree.getroot()
 
-            # 1. Filtrar y agregar las definiciones de los Canales
+            # 1. Copiar canales de la lista
             for channel in root.findall('channel'):
                 canal_id = channel.get('id')
                 if canal_id in CANALES_FAVORITOS and canal_id not in canales_agregados:
                     root_combinado.append(channel)
                     canales_agregados.add(canal_id)
 
-            # 2. Filtrar y agregar los Programas de esos canales
+            # 2. Copiar programas solo si son de los canales elegidos Y están en el rango de días
             for programme in root.findall('programme'):
-                if programme.get('channel') in CANALES_FAVORITOS:
-                    root_combinado.append(programme)
+                canal = programme.get('channel')
+                start_time = programme.get('start')
+
+                if canal in CANALES_FAVORITOS and start_time:
+                    if es_programa_valido(start_time, fecha_limite_inicio, fecha_limite_fin):
+                        root_combinado.append(programme)
 
             print(f"    ✔ Procesado {pais} con éxito.")
 
@@ -76,16 +105,14 @@ def generar_epg_combinado():
             print(f"    ❌ Error procesando {pais}: {e}")
         
         finally:
-            # Borramos el archivo temporal descargado para mantener todo limpio
             if os.path.exists(archivo_temp):
                 os.remove(archivo_temp)
 
-    # Guardamos el archivo epg.xml consolidado
-    print("--> Guardando epg.xml final...")
+    print("--> Guardando epg.xml recortado...")
     tree_final = ET.ElementTree(root_combinado)
     ET.indent(tree_final, space="  ", level=0)
     tree_final.write("epg.xml", encoding="utf-8", xml_declaration=True)
-    print("¡Proceso completado con éxito!")
+    print("¡Proceso completado!")
 
 if __name__ == "__main__":
     generar_epg_combinado()
