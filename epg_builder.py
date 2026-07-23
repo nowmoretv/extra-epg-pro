@@ -1,53 +1,44 @@
+import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
 
-def generar_xmltv():
-    # Creación de la estructura base XMLTV
-    tv = ET.Element('tv', generator_info_name="Mi EPG Autogenerada")
+# 1. URL de la fuente pública de EPG (por ejemplo, España en iptv-org)
+URL_FUENTE = "https://iptv-org.github.io/epg/guides/es.xml"
 
-    # 1. Lista de Canales Favoritos (id y nombre visible)
-    canales = [
-        {"id": "TVE1.es", "nombre": "La 1"},
-        {"id": "Antena3.es", "nombre": "Antena 3"},
-        {"id": "Telecinco.es", "nombre": "Telecinco"}
-    ]
+# 2. Tu lista de IDs de canales preferidos (deben coincidir con el ID de la fuente)
+MIS_CANALES_FAVORITOS = [
+    "La1.es",
+    "Antena3.es",
+    "Cuatro.es",
+    "Telecinco.es",
+    "LaSexta.es"
+]
 
-    for c in canales:
-        canal_elem = ET.SubElement(tv, 'channel', id=c["id"])
-        display_name = ET.SubElement(canal_elem, 'display-name')
-        display_name.text = c["nombre"]
-
-    # 2. Ejemplo de generación de programas (Aquí integrarías tus fuentes/scraping)
-    ahora = datetime.utcnow()
+def filtrar_epg():
+    print("Descargando EPG de la fuente...")
+    urllib.request.urlretrieve(URL_FUENTE, "fuente_temporal.xml")
     
-    for c in canales:
-        # Generamos 24h de programación de prueba paso a paso
-        hora_inicio = ahora
-        for i in range(12):
-            hora_fin = hora_inicio + timedelta(hours=2)
+    print("Filtrando programación...")
+    tree = ET.parse("fuente_temporal.xml")
+    root = tree.getroot()
+    
+    # Creamos un nuevo árbol XML solo con lo necesario
+    nuevo_tv = ET.Element('tv', generator_info_name="Mi EPG Filtrada")
+    
+    # Guardar solo la información de los canales seleccionados
+    for channel in root.findall('channel'):
+        if channel.get('id') in MIS_CANALES_FAVORITOS:
+            nuevo_tv.append(channel)
             
-            # Formato XMLTV requerido: YYYYMMDDHHMMSS +0000
-            start_str = hora_inicio.strftime('%Y%m%d%H%M%S +0000')
-            stop_str = hora_fin.strftime('%Y%m%d%H%M%S +0000')
-
-            prog = ET.SubElement(tv, 'programme', {
-                'start': start_str,
-                'stop': stop_str,
-                'channel': c["id"]
-            })
+    # Guardar solo los programas de los canales seleccionados
+    for programme in root.findall('programme'):
+        if programme.get('channel') in MIS_CANALES_FAVORITOS:
+            nuevo_tv.append(programme)
             
-            title = ET.SubElement(prog, 'title', lang="es")
-            title.text = f"Programa de prueba {i+1} en {c['nombre']}"
-            
-            desc = ET.SubElement(prog, 'desc', lang="es")
-            desc.text = "Descripción del evento de televisión emitido."
-
-            hora_inicio = hora_fin
-
-    # Guardar en archivo
-    tree = ET.ElementTree(tv)
-    ET.indent(tree, space="  ", level=0)
-    tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+    # Guardar el resultado final
+    nuevo_tree = ET.ElementTree(nuevo_tv)
+    ET.indent(nuevo_tree, space="  ", level=0)
+    nuevo_tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
+    print("¡epg.xml generado con éxito!")
 
 if __name__ == "__main__":
-    generar_xmltv()
+    filtrar_epg()
