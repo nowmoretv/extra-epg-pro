@@ -12,1308 +12,481 @@
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
   <programme start="20260723070000 +0200" stop="20260723083000 +0200" channel="La 1">
-    <title lang="en">Telediario Matinal</title>
-    <title lang="es">Telediario Matinal</title>
-    <sub-title lang="en">Información,Informativo | 2023 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723083000 +0200" stop="20260723103500 +0200" channel="La 1">
-    <title lang="en">La hora de La 1: La hora de la actualidad T9 E144</title>
-    <title lang="es">La hora de La 1: La hora de la actualidad [COLOR tomato]T9 E144[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+    <title>La hora de La 1: La hora de la actualidad T9 E144</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
-    <desc lang="es">· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4363190" />
-    <episode-num system="xmltv_ns">8.143.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723103500 +0200" stop="20260723145500 +0200" channel="La 1">
-    <title lang="en">Mañaneros 360 T2 · Incluye entrevista a José Luis Rodríguez Zapatero</title>
-    <title lang="es">Mañaneros 360 [COLOR tomato]T2[/COLOR] [COLOR goldenrod]Incluye entrevista a José Luis Rodríguez Zapatero[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯ | ★6.4/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.4/10[/COLOR]</sub-title>
-    <desc lang="en">· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+    <title>Mañaneros 360 T2 · Incluye entrevista a José Luis Rodríguez Zapatero</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.4/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
-    <desc lang="es">· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363192" />
-    <episode-num system="xmltv_ns">1..</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723145500 +0200" stop="20260723153000 +0200" channel="La 1">
-    <title lang="en">Telediario 1</title>
-    <title lang="es">Telediario 1</title>
-    <sub-title lang="en">Información,Informativo | 2014 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723153000 +0200" stop="20260723153500 +0200" channel="La 1">
-    <title lang="en">Deportes 1</title>
-    <title lang="es">Deportes 1</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723153500 +0200" stop="20260723154000 +0200" channel="La 1">
-    <title lang="en">El tiempo</title>
-    <title lang="es">El tiempo</title>
-    <sub-title lang="en">Información,Meteorología | 2014 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Información sobre la previsión meteorológica.
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.2/10
+· Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Weather report</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723154000 +0200" stop="20260723155000 +0200" channel="La 1">
-    <title lang="en">Informativo territorial 2</title>
-    <title lang="es">Informativo territorial 2</title>
-    <sub-title lang="en">Información,Informativo | 2023 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <desc lang="es">· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
   <programme start="20260723155000 +0200" stop="20260723172000 +0200" channel="La 1">
-    <title lang="en">Tour de Francia T2026 · Etapa 18 - Voiron - Orcières Merlette</title>
-    <title lang="es">Tour de Francia [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 18 - Voiron - Orcières Merlette[/COLOR]</title>
-    <sub-title lang="en">Deportes,Ciclismo | 2026</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]</sub-title>
-    <desc lang="en">· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
+    <title>Tour de Francia T2026 · Etapa 18 - Voiron - Orcières Merlette</title>
+    <desc>Deportes,Ciclismo | 2026
+· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
 · País: Francia</desc>
-    <desc lang="es">· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
-[COLOR teal]· País:[/COLOR] Francia</desc>
-    <category>Sports</category>
-    <category>Team sports (excluding football)</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4484844" />
-    <episode-num system="xmltv_ns">2025..</episode-num>
   </programme>
   <programme start="20260723172000 +0200" stop="20260723193500 +0200" channel="La 1">
-    <title lang="en">Directo al grano T2 E144</title>
-    <title lang="es">Directo al grano [COLOR tomato]T2 E144[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯ | ★5.6/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★5.6/10[/COLOR]</sub-title>
-    <desc lang="en">· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+    <title>Directo al grano T2 E144</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.6/10
+· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
-    <desc lang="es">· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Martín Barreiro, Gonzalo Miró.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363194" />
-    <episode-num system="xmltv_ns">1.143.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723193500 +0200" stop="20260723202500 +0200" channel="La 1">
-    <title lang="en">Malas lenguas T2 E216</title>
-    <title lang="es">Malas lenguas [COLOR tomato]T2 E216[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+    <title>Malas lenguas T2 E216</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
-    <desc lang="es">· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4363196" />
-    <episode-num system="xmltv_ns">1.215.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723202500 +0200" stop="20260723205500 +0200" channel="La 1">
-    <title lang="en">Aquí la Tierra</title>
-    <title lang="es">Aquí la Tierra</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <desc lang="es">· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4338882" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723205500 +0200" stop="20260723214000 +0200" channel="La 1">
-    <title lang="en">Telediario 2</title>
-    <title lang="es">Telediario 2</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723214000 +0200" stop="20260723214500 +0200" channel="La 1">
-    <title lang="en">Deportes 2</title>
-    <title lang="es">Deportes 2</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723214500 +0200" stop="20260723222000 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele T14 · Versión española</title>
-    <title lang="es">Viaje al centro de la tele [COLOR tomato]T14[/COLOR] [COLOR goldenrod]Versión española[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2025 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Un viaje musical por las canciones extranjeras que han sido versionadas en castellano.
+    <title>Viaje al centro de la tele T14 · Versión española</title>
+    <desc>Entretenimiento,Zapping | 2025 | TP | ★6.2/10
+· Un viaje musical por las canciones extranjeras que han sido versionadas en castellano.
 · País: España
 · Dirección: Pedro Santos.</desc>
-    <desc lang="es">· Un viaje musical por las canciones extranjeras que han sido versionadas en castellano.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4206486" />
-    <episode-num system="xmltv_ns">13..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723222000 +0200" stop="20260723225500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele T15 · 70 éxitos de los 80 express (1ª parte)</title>
-    <title lang="es">Viaje al centro de la tele [COLOR tomato]T15[/COLOR] [COLOR goldenrod]70 éxitos de los 80 express (1ª parte)[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2026 | TP | ★6.6/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="en">· Primera parte de un viaje a través del archivo de TVE en su 70º aniversario, en el que podemos ver las mejores actuaciones emitidas en televisión española en la década de los 80,.
+    <title>Viaje al centro de la tele T15 · 70 éxitos de los 80 express (1ª parte)</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | ★6.6/10
+· Primera parte de un viaje a través del archivo de TVE en su 70º aniversario, en el que podemos ver las mejores actuaciones emitidas en televisión española en la década de los 80,.
 · País: España
 · Dirección: Pedro Santos.</desc>
-    <desc lang="es">· Primera parte de un viaje a través del archivo de TVE en su 70º aniversario, en el que podemos ver las mejores actuaciones emitidas en televisión española en la década de los 80,.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363198" />
-    <episode-num system="xmltv_ns">14..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
   </programme>
   <programme start="20260723225500 +0200" stop="20260724002500 +0200" channel="La 1">
-    <title lang="en">El perro andaluz T1 · José Mercé, Kiki Morente y Lagartija Nick</title>
-    <title lang="es">El perro andaluz [COLOR tomato]T1[/COLOR] [COLOR goldenrod]José Mercé, Kiki Morente y Lagartija Nick[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Humor | 2026 | ⑯ | ★4.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Humor[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
-    <desc lang="en">· José Mercé, leyenda del flamenco, visita esta semana el plató para repasar con Manu Sánchez los hitos de su trayectoria y compartir su visión sobre la actualidad. Y la música no para con la visita de Kiki Morente y Lagartija Nick.
+    <title>El perro andaluz T1 · José Mercé, Kiki Morente y Lagartija Nick</title>
+    <desc>Entretenimiento,Humor | 2026 | ⑯ | ★4.0/10
+· José Mercé, leyenda del flamenco, visita esta semana el plató para repasar con Manu Sánchez los hitos de su trayectoria y compartir su visión sobre la actualidad. Y la música no para con la visita de Kiki Morente y Lagartija Nick.
 · País: España
 · Presenta: Manu Sánchez.</desc>
-    <desc lang="es">· José Mercé, leyenda del flamenco, visita esta semana el plató para repasar con Manu Sánchez los hitos de su trayectoria y compartir su visión sobre la actualidad. Y la música no para con la visita de Kiki Morente y Lagartija Nick.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Manu Sánchez.</desc>
-    <category>Variety show</category>
-    <category>Comedy</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4363200" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724002500 +0200" stop="20260724020000 +0200" channel="La 1">
-    <title lang="en">El perro andaluz T1 · Rosa López y Boris Izaguirre</title>
-    <title lang="es">El perro andaluz [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Rosa López y Boris Izaguirre[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Humor | 2026 | ⑯ | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Humor[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· La cantante granadina y el escritor y comunicador venezolano compartirán escenario con Manu Sánchez en una noche en la que cualquier anécdota puede dar paso a una reflexión, una carcajada o un giro inesperado.
+    <title>El perro andaluz T1 · Rosa López y Boris Izaguirre</title>
+    <desc>Entretenimiento,Humor | 2026 | ⑯ | ★6.2/10
+· La cantante granadina y el escritor y comunicador venezolano compartirán escenario con Manu Sánchez en una noche en la que cualquier anécdota puede dar paso a una reflexión, una carcajada o un giro inesperado.
 · País: España
 · Presenta: Manu Sánchez.</desc>
-    <desc lang="es">· La cantante granadina y el escritor y comunicador venezolano compartirán escenario con Manu Sánchez en una noche en la que cualquier anécdota puede dar paso a una reflexión, una carcajada o un giro inesperado.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Manu Sánchez.</desc>
-    <category>Variety show</category>
-    <category>Comedy</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4355767" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724020000 +0200" stop="20260724060000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724060000 +0200" stop="20260724070000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724070000 +0200" stop="20260724083000 +0200" channel="La 1">
-    <title lang="en">Telediario Matinal</title>
-    <title lang="es">Telediario Matinal</title>
-    <sub-title lang="en">Información,Informativo | 2023 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724083000 +0200" stop="20260724103500 +0200" channel="La 1">
-    <title lang="en">La hora de La 1: La hora de la actualidad T9 E145</title>
-    <title lang="es">La hora de La 1: La hora de la actualidad [COLOR tomato]T9 E145[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="en">· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+    <title>La hora de La 1: La hora de la actualidad T9 E145</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
-    <desc lang="es">· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Silvia Intxaurrondo.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364535" />
-    <episode-num system="xmltv_ns">8.144.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
   </programme>
   <programme start="20260724103500 +0200" stop="20260724145500 +0200" channel="La 1">
-    <title lang="en">Mañaneros 360 T2 E230</title>
-    <title lang="es">Mañaneros 360 [COLOR tomato]T2 E230[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+    <title>Mañaneros 360 T2 E230</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
-    <desc lang="es">· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Adela González, Javier Ruiz.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364537" />
-    <episode-num system="xmltv_ns">1.229.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724145500 +0200" stop="20260724153000 +0200" channel="La 1">
-    <title lang="en">Telediario 1</title>
-    <title lang="es">Telediario 1</title>
-    <sub-title lang="en">Información,Informativo | 2014 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Alejandra Herranz.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724153000 +0200" stop="20260724153500 +0200" channel="La 1">
-    <title lang="en">Deportes 1</title>
-    <title lang="es">Deportes 1</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724153500 +0200" stop="20260724154000 +0200" channel="La 1">
-    <title lang="en">El tiempo</title>
-    <title lang="es">El tiempo</title>
-    <sub-title lang="en">Información,Meteorología | 2014 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Meteorología[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Información sobre la previsión meteorológica.
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.2/10
+· Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Información sobre la previsión meteorológica.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Weather report</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP332735" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724154000 +0200" stop="20260724155000 +0200" channel="La 1">
-    <title lang="en">Informativo territorial 2</title>
-    <title lang="es">Informativo territorial 2</title>
-    <sub-title lang="en">Información,Informativo | 2023 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <desc lang="es">· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2189999" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
   <programme start="20260724155000 +0200" stop="20260724173000 +0200" channel="La 1">
-    <title lang="en">DIRECTO Etapa 19 - Gap - Alpe d'Huez T2026 · Tour de Francia</title>
-    <title lang="es">DIRECTO Etapa 19 - Gap - Alpe d'Huez [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Tour de Francia[/COLOR]</title>
-    <sub-title lang="en">Deportes,Ciclismo | 2026 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
+    <title>DIRECTO Etapa 19 - Gap - Alpe d'Huez T2026 · Tour de Francia</title>
+    <desc>Deportes,Ciclismo | 2026 | TP | ★6.2/10
+· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
 · País: Francia</desc>
-    <desc lang="es">· El Tour de Francia es la gran carrera ciclista por etapas del calendario internacional.
-[COLOR teal]· País:[/COLOR] Francia</desc>
-    <category>Sports</category>
-    <category>Team sports (excluding football)</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4484844" />
-    <episode-num system="xmltv_ns">2025..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724173000 +0200" stop="20260724193500 +0200" channel="La 1">
-    <title lang="en">Directo al grano T2 E145</title>
-    <title lang="es">Directo al grano [COLOR tomato]T2 E145[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="en">· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+    <title>Directo al grano T2 E145</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
+· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
-    <desc lang="es">· Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Martín Barreiro, Gonzalo Miró.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364539" />
-    <episode-num system="xmltv_ns">1.144.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
   </programme>
   <programme start="20260724193500 +0200" stop="20260724202500 +0200" channel="La 1">
-    <title lang="en">Malas lenguas T2 E217</title>
-    <title lang="es">Malas lenguas [COLOR tomato]T2 E217[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | ⑯</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR orange]⑯[/COLOR]</sub-title>
-    <desc lang="en">· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+    <title>Malas lenguas T2 E217</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯
+· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
-    <desc lang="es">· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Jesús Cintora.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4364541" />
-    <episode-num system="xmltv_ns">1.216.</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
   </programme>
   <programme start="20260724202500 +0200" stop="20260724205500 +0200" channel="La 1">
-    <title lang="en">Aquí la Tierra</title>
-    <title lang="es">Aquí la Tierra</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2026 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <desc lang="es">· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4338882" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724205500 +0200" stop="20260724214000 +0200" channel="La 1">
-    <title lang="en">Telediario 2</title>
-    <title lang="es">Telediario 2</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Pepa Bueno.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724214000 +0200" stop="20260724214500 +0200" channel="La 1">
-    <title lang="en">Deportes 2</title>
-    <title lang="es">Deportes 2</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724214500 +0200" stop="20260724215000 +0200" channel="La 1">
-    <title lang="en">La suerte en tus manos</title>
-    <title lang="es">La suerte en tus manos</title>
-    <sub-title lang="en">Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
 · País: España
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>Leisure hobbies</category>
-    <category>Game show / Quiz / Contest</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724215000 +0200" stop="20260724223500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
-    <title lang="es">Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Tocata[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2022 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Tocata</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148175" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724223500 +0200" stop="20260724233500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
-    <title lang="es">Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Aplauso Nacional[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2022 | TP | ★5.8/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Nacional</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★5.8/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148176" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
   </programme>
   <programme start="20260724233500 +0200" stop="20260725002500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
-    <title lang="es">Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Aplauso Internacional[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2022 | TP | ★6.6/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Aplauso Internacional</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.6/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2148177" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725002500 +0200" stop="20260725013000 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
-    <title lang="es">Viaje al centro de la tele: La noche temática [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Todo Música Si[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2022 | TP | ★3.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★3.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele: La noche temática T1 · Todo Música Si</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★3.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP2142456" />
-    <episode-num system="xmltv_ns">0..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725013000 +0200" stop="20260725060000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725060000 +0200" stop="20260725070000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725070000 +0200" stop="20260725111500 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725111500 +0200" stop="20260725114500 +0200" channel="La 1">
-    <title lang="en">Audiencia abierta</title>
-    <title lang="es">Audiencia abierta</title>
-    <sub-title lang="en">Información,Política | 2012 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Política[/COLOR] | [COLOR cadetblue]2012[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Espacio semanal de servicio público sobre la Jefatura del Estado.
+    <title>Audiencia abierta</title>
+    <desc>Información,Política | 2012 | TP | ★6.0/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
 · País: España
 · Dirección: Miguel Ángel Sacaluga.</desc>
-    <desc lang="es">· Espacio semanal de servicio público sobre la Jefatura del Estado.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Miguel Ángel Sacaluga.</desc>
-    <category>News magazine</category>
-    <category>Social / Political issues / Economics</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1065634" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725114500 +0200" stop="20260725133000 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele</title>
-    <title lang="es">Viaje al centro de la tele</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2024 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2024[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3489218" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725133000 +0200" stop="20260725145500 +0200" channel="La 1">
-    <title lang="en">D Corazón T3</title>
-    <title lang="es">D Corazón [COLOR tomato]T3[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Corazon y sociedad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+    <title>D Corazón T3</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <desc lang="es">· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <category>Variety show</category>
-    <category>Remarkable people</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4209646" />
-    <episode-num system="xmltv_ns">2..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725145500 +0200" stop="20260725154500 +0200" channel="La 1">
-    <title lang="en">Telediario 1 Fin de Semana</title>
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★4.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★4.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+    <title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | ★4.2/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114179" />
-    <star-rating system="ES">
-      <value>4.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725154500 +0200" stop="20260725155000 +0200" channel="La 1">
-    <title lang="en">Deportes 1</title>
-    <title lang="es">Deportes 1</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725155000 +0200" stop="20260725155500 +0200" channel="La 1">
-    <title lang="en">La suerte en tus manos</title>
-    <title lang="es">La suerte en tus manos</title>
-    <sub-title lang="en">Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
 · País: España
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>Leisure hobbies</category>
-    <category>Game show / Quiz / Contest</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725155500 +0200" stop="20260725174000 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260725174000 +0200" stop="20260725201500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260725201500 +0200" stop="20260725205500 +0200" channel="La 1">
-    <title lang="en">Aquí la Tierra</title>
-    <title lang="es">Aquí la Tierra</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2025 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <desc lang="es">· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725205500 +0200" stop="20260725212500 +0200" channel="La 1">
-    <title lang="en">Telediario 2 Fin de Semana</title>
-    <title lang="es">Telediario 2 Fin de Semana</title>
-    <sub-title lang="en">Información,Informativo | 2017 | TP | ★4.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+    <title>Telediario 2 Fin de Semana</title>
+    <desc>Información,Informativo | 2017 | TP | ★4.0/10
+· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114180" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725212500 +0200" stop="20260725213000 +0200" channel="La 1">
-    <title lang="en">Deportes 2</title>
-    <title lang="es">Deportes 2</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725213000 +0200" stop="20260725220500 +0200" channel="La 1">
-    <title lang="en">Informe Semanal T25/26</title>
-    <title lang="es">Informe Semanal [COLOR tomato]T25/26[/COLOR]</title>
-    <sub-title lang="en">Información,Reportaje | 2025 | ⑦ | ★5.8/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Reportaje[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc lang="en">· Cuatro reportajes de media hora de la actualidad nacional e internacional.
+    <title>Informe Semanal T25/26</title>
+    <desc>Información,Reportaje | 2025 | ⑦ | ★5.8/10
+· Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Presenta: Lourdes Maldonado.
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Cuatro reportajes de media hora de la actualidad nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Lourdes Maldonado.
-[COLOR teal]· Dirección:[/COLOR] Jenaro Castro Muiña.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4116717" />
-    <episode-num system="xmltv_ns">24..</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
   </programme>
   <programme start="20260725220500 +0200" stop="20260725234000 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260725234000 +0200" stop="20260726015500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726015500 +0200" stop="20260726032500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726032500 +0200" stop="20260726060000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726060000 +0200" stop="20260726070000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726070000 +0200" stop="20260726103000 +0200" channel="La 1">
-    <title lang="en">Noticias 24H</title>
-    <title lang="es">Noticias 24H</title>
-    <sub-title lang="en">Información,Informativo | 2021 | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
-    <desc lang="es">· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4315170" />
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726103000 +0200" stop="20260726111000 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele exprés</title>
-    <title lang="es">Viaje al centro de la tele exprés</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2021 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele exprés</title>
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1920491" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726111000 +0200" stop="20260726120500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele T8</title>
-    <title lang="es">Viaje al centro de la tele [COLOR tomato]T8[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2019 | TP | ★5.8/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele T8</title>
+    <desc>Entretenimiento,Zapping | 2019 | TP | ★5.8/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1713528" />
-    <episode-num system="xmltv_ns">7..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726120500 +0200" stop="20260726130500 +0200" channel="La 1">
-    <title lang="en">Viaje al centro de la tele</title>
-    <title lang="es">Viaje al centro de la tele</title>
-    <sub-title lang="en">Entretenimiento,Zapping | 2016 | TP | ★6.6/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Zapping[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]</sub-title>
-    <desc lang="en">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+    <title>Viaje al centro de la tele</title>
+    <desc>Entretenimiento,Zapping | 2016 | TP | ★6.6/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
-    <desc lang="es">· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Pedro Santos.</desc>
-    <category>Variety show</category>
-    <category>Variety show</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1341124" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726130500 +0200" stop="20260726145500 +0200" channel="La 1">
-    <title lang="en">D Corazón T3</title>
-    <title lang="es">D Corazón [COLOR tomato]T3[/COLOR]</title>
-    <sub-title lang="en">Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Corazon y sociedad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+    <title>D Corazón T3</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <desc lang="es">· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <category>Variety show</category>
-    <category>Remarkable people</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4209646" />
-    <episode-num system="xmltv_ns">2..</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726145500 +0200" stop="20260726154500 +0200" channel="La 1">
-    <title lang="en">Telediario 1 Fin de Semana</title>
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <sub-title lang="en">Información,Informativo | 2021 | TP | ★4.2/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2021[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.2/10[/COLOR]</sub-title>
-    <desc lang="en">· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+    <title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | TP | ★4.2/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114179" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.2/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726154500 +0200" stop="20260726155000 +0200" channel="La 1">
-    <title lang="en">Deportes 1</title>
-    <title lang="es">Deportes 1</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921384" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726155000 +0200" stop="20260726155500 +0200" channel="La 1">
-    <title lang="en">La suerte en tus manos</title>
-    <title lang="es">La suerte en tus manos</title>
-    <sub-title lang="en">Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Ocio y Aficiones,Juegos[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2026 | TP | ★6.0/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
 · País: España
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Salgado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>Leisure hobbies</category>
-    <category>Game show / Quiz / Contest</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4207597" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726155500 +0200" stop="20260726172500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726172500 +0200" stop="20260726190500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726190500 +0200" stop="20260726203500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726203500 +0200" stop="20260726205500 +0200" channel="La 1">
-    <title lang="en">Aquí la Tierra</title>
-    <title lang="es">Aquí la Tierra</title>
-    <sub-title lang="en">Entretenimiento,Magacín | 2025 | TP | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <desc lang="es">· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Jacob Petrus, Marc Santandreu.</desc>
-    <category>Variety show</category>
-    <category>Magazines / Reports / Documentary</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108661" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726205500 +0200" stop="20260726215000 +0200" channel="La 1">
-    <title lang="en">Telediario 2 Fin de Semana</title>
-    <title lang="es">Telediario 2 Fin de Semana</title>
-    <sub-title lang="en">Información,Informativo | 2017 | ★4.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR gold]★4.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+    <title>Telediario 2 Fin de Semana</title>
+    <desc>Información,Informativo | 2017 | ★4.0/10
+· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
-    <desc lang="es">· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Marc Sala, Lourdes Maldonado.
-[COLOR teal]· Productora:[/COLOR] Televisión Española (TVE).</desc>
-    <category>News magazine</category>
-    <category>News / Current affairs</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1114180" />
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726215000 +0200" stop="20260726220000 +0200" channel="La 1">
-    <title lang="en">Deportes 2</title>
-    <title lang="es">Deportes 2</title>
-    <sub-title lang="en">Deportes,Programa deportes | 2025 | ★6.0/10</sub-title>
-    <sub-title lang="es">[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.0/10[/COLOR]</sub-title>
-    <desc lang="en">· Actualidad deportiva diaria nacional e internacional.
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <desc lang="es">· Actualidad deportiva diaria nacional e internacional.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Sports</category>
-    <category>Sports magazines</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP3921386" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20260726220000 +0200" stop="20260726235500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260726235500 +0200" stop="20260727012500 +0200" channel="La 1">
-    <title lang="en">Cine</title>
-    <title lang="es">Cine</title>
-    <desc lang="en">· Programa por determinar...</desc>
-    <desc lang="es">· Programa por determinar...</desc>
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
   </programme>
   <channel id="La 1 Light">
     <display-name>La 1 Light</display-name>
