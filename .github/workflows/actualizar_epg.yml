@@ -1,0 +1,36 @@
+name: Actualizador Automatico EPG
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas (a las 00:00 y a las 12:00 UTC)
+    - cron: '0 */12 * * *'
+  # Permite ejecutarlo manualmente desde GitHub si quieres probar
+  workflow_dispatch:
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Copia el código de tu repositorio al servidor temporal
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    # 2. Prepara Python en la máquina virtual
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    # 3. Ejecuta el código que crea el archivo epg.xml
+    - name: Generar archivo EPG
+      run: python epg_builder.py
+
+    # 4. Guarda y sube el epg.xml de vuelta a GitHub
+    - name: Guardar cambios en GitHub
+      run: |
+        git config --global user.name "EPG AutoBot"
+        git config --global user.email "bot@github.com"
+        git add epg.xml
+        git commit -m "Auto-actualización de guía EPG [skip ci]" || exit 0
+        git push
