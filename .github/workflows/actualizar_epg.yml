@@ -1,36 +1,43 @@
-name: Actualizador Automatico EPG
+name: Actualizador Directo EPG (iptv-org)
 
 on:
   schedule:
-    # Se ejecuta cada 12 horas (a las 00:00 y a las 12:00 UTC)
     - cron: '0 */12 * * *'
-  # Permite ejecutarlo manualmente desde GitHub si quieres probar
   workflow_dispatch:
 
 jobs:
-  build-and-update:
+  build-epg:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Copia el código de tu repositorio al servidor temporal
-    - name: Descargar repositorio
+    - name: Descargar tu repositorio
       uses: actions/checkout@v4
 
-    # 2. Prepara Python en la máquina virtual
-    - name: Configurar Python
-      uses: actions/setup-python@v5
+    # Descargar la herramienta de scraping oficial
+    - name: Clonar scraper iptv-org
+      run: git clone --depth 1 https://github.com/iptv-org/epg.git scraper
+
+    - name: Instalar Node.js
+      uses: actions/setup-node@v4
       with:
-        python-version: '3.x'
+        node-version: '18'
 
-    # 3. Ejecuta el código que crea el archivo epg.xml
-    - name: Generar archivo EPG
-      run: python epg_builder.py
+    - name: Instalar dependencias del scraper
+      run: |
+        cd scraper
+        npm install
 
-    # 4. Guarda y sube el epg.xml de vuelta a GitHub
-    - name: Guardar cambios en GitHub
+    # Ejecutar el scraper especificando las webs fuente que quieres arañar
+    # Ejemplo: movistarplus.es (España), mi.tv (Latam), directv.com (USA/Latam)
+    - name: Scraping de canales
+      run: |
+        cd scraper
+        npm run grab -- --sites=movistarplus.es,mi.tv --output=../epg.xml
+
+    - name: Subir cambios a tu repositorio
       run: |
         git config --global user.name "EPG AutoBot"
         git config --global user.email "bot@github.com"
         git add epg.xml
-        git commit -m "Auto-actualización de guía EPG [skip ci]" || exit 0
+        git commit -m "EPG Real Autogenerada [skip ci]" || exit 0
         git push
