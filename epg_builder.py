@@ -11,8 +11,8 @@ from datetime import datetime, timedelta, timezone
 DIAS_FUTURO = 3
 
 FUENTES_XML = {
-    "Espana": "https://iptv-org.github.io/epg/guides/es.xml",
-    "Mexico": "https://iptv-org.github.io/epg/guides/mx.xml",
+    "Espana": "https://github.com/davidmuma/EPG_dobleM/raw/refs/heads/master/guiatv.xml.gz",
+    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
 }
@@ -20,7 +20,7 @@ FUENTES_XML = {
 # MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE": "ID_NUEVO_DESEADO"
 MAPEO_CANALES = {
     "La 1 HD": "La 1",
-    "Antena3.es": "Antena 3",
+    "LA 1.es": "La 1 Light",
     "Cuatro.es": "Cuatro",
     "Telecinco.es": "Telecinco",
     "LaSexta.es": "La Sexta",
