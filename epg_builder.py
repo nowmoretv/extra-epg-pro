@@ -11,7 +11,7 @@ from datetime import datetime, timedelta, timezone
 DIAS_FUTURO = 3
 
 FUENTES_XML = {
-    "Espana": "https://github.com/davidmuma/EPG_dobleM/raw/refs/heads/master/guiatv.xml.gz",
+    "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
     "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
