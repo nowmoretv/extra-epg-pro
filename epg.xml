@@ -488,4 +488,302 @@
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
   </programme>
+  <channel id="LA 1.es">
+    <display-name>LA 1.es</display-name>
+    <icon src="https://images.open-epg.com/12901077.png" />
+  </channel>
+  <programme start="20260723010000 +0000" stop="20260723050000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Noticias 24H</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723060000 +0000" stop="20260723073000 +0000" channel="LA 1.es">
+    <title>Telediario Matinal</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723073000 +0000" stop="20260723093500 +0000" channel="LA 1.es">
+    <title>La hora de La 1: La hora de la actualidad</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723093500 +0000" stop="20260723135500 +0000" channel="LA 1.es">
+    <title>Mañaneros 360</title>
+    <sub-title />
+    <desc>Incluye entrevista a José Luis Rodríguez Zapatero, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723135500 +0000" stop="20260723145000 +0000" channel="LA 1.es">
+    <title>Telediario 1</title>
+    <sub-title />
+    <desc>Deportes</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723145000 +0000" stop="20260723162000 +0000" channel="LA 1.es">
+    <title>Tour de Francia (T2026)</title>
+    <sub-title />
+    <desc>Etapa 18 - Voiron - Orcières Merlette, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723162000 +0000" stop="20260723183500 +0000" channel="LA 1.es">
+    <title>Directo al grano</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723183500 +0000" stop="20260723192500 +0000" channel="LA 1.es">
+    <title>Malas lenguas</title>
+    <sub-title />
+    <desc>Episodio 216, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723192500 +0000" stop="20260723195500 +0000" channel="LA 1.es">
+    <title>Aquí la Tierra</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723195500 +0000" stop="20260723204500 +0000" channel="LA 1.es">
+    <title>Telediario 2</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723204500 +0000" stop="20260723212000 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>Versión española, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723212000 +0000" stop="20260723215500 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>70 éxitos de los 80 express (1ª parte), Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723215500 +0000" stop="20260723232500 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>José Mercé, Kiki Morente y Lagartija Nick, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260723232500 +0000" stop="20260724010000 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>Rosa López y Boris Izaguirre, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724010000 +0000" stop="20260724050000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Noticias 24H</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724060000 +0000" stop="20260724073000 +0000" channel="LA 1.es">
+    <title>Telediario Matinal</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724073000 +0000" stop="20260724093500 +0000" channel="LA 1.es">
+    <title>La hora de La 1: La hora de la actualidad</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724093500 +0000" stop="20260724135500 +0000" channel="LA 1.es">
+    <title>Mañaneros 360</title>
+    <sub-title />
+    <desc>Incluye entrevista a José Luis Rodríguez Zapatero, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724135500 +0000" stop="20260724145000 +0000" channel="LA 1.es">
+    <title>Telediario 1</title>
+    <sub-title />
+    <desc>Deportes</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724145000 +0000" stop="20260724162000 +0000" channel="LA 1.es">
+    <title>Tour de Francia (T2026)</title>
+    <sub-title />
+    <desc>Etapa 18 - Voiron - Orcières Merlette, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724162000 +0000" stop="20260724183500 +0000" channel="LA 1.es">
+    <title>Directo al grano</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724183500 +0000" stop="20260724192500 +0000" channel="LA 1.es">
+    <title>Malas lenguas</title>
+    <sub-title />
+    <desc>Episodio 216, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724192500 +0000" stop="20260724195500 +0000" channel="LA 1.es">
+    <title>Aquí la Tierra</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724195500 +0000" stop="20260724204500 +0000" channel="LA 1.es">
+    <title>Telediario 2</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724204500 +0000" stop="20260724212000 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>Versión española, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724212000 +0000" stop="20260724215500 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>70 éxitos de los 80 express (1ª parte), Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724215500 +0000" stop="20260724232500 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>José Mercé, Kiki Morente y Lagartija Nick, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260724232500 +0000" stop="20260725010000 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>Rosa López y Boris Izaguirre, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725010000 +0000" stop="20260725050000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Noticias 24H</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725060000 +0000" stop="20260725073000 +0000" channel="LA 1.es">
+    <title>Telediario Matinal</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725073000 +0000" stop="20260725093500 +0000" channel="LA 1.es">
+    <title>La hora de La 1: La hora de la actualidad</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725093500 +0000" stop="20260725135500 +0000" channel="LA 1.es">
+    <title>Mañaneros 360</title>
+    <sub-title />
+    <desc>Incluye entrevista a José Luis Rodríguez Zapatero, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725135500 +0000" stop="20260725145000 +0000" channel="LA 1.es">
+    <title>Telediario 1</title>
+    <sub-title />
+    <desc>Deportes</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725145000 +0000" stop="20260725162000 +0000" channel="LA 1.es">
+    <title>Tour de Francia (T2026)</title>
+    <sub-title />
+    <desc>Etapa 18 - Voiron - Orcières Merlette, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725162000 +0000" stop="20260725183500 +0000" channel="LA 1.es">
+    <title>Directo al grano</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725183500 +0000" stop="20260725192500 +0000" channel="LA 1.es">
+    <title>Malas lenguas</title>
+    <sub-title />
+    <desc>Episodio 216, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725192500 +0000" stop="20260725195500 +0000" channel="LA 1.es">
+    <title>Aquí la Tierra</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725195500 +0000" stop="20260725204500 +0000" channel="LA 1.es">
+    <title>Telediario 2</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725204500 +0000" stop="20260725212000 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>Versión española, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725212000 +0000" stop="20260725215500 +0000" channel="LA 1.es">
+    <title>Viaje al centro de la tele</title>
+    <sub-title />
+    <desc>70 éxitos de los 80 express (1ª parte), Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725215500 +0000" stop="20260725232500 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>José Mercé, Kiki Morente y Lagartija Nick, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260725232500 +0000" stop="20260726010000 +0000" channel="LA 1.es">
+    <title>El perro andaluz</title>
+    <sub-title />
+    <desc>Rosa López y Boris Izaguirre, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260726010000 +0000" stop="20260726050000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Noticias 24H</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260726050000 +0000" stop="20260726060000 +0000" channel="LA 1.es">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260726060000 +0000" stop="20260726073000 +0000" channel="LA 1.es">
+    <title>Telediario Matinal</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260726073000 +0000" stop="20260726093500 +0000" channel="LA 1.es">
+    <title>La hora de La 1: La hora de la actualidad</title>
+    <sub-title />
+    <desc>Episodio 144, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
 </tv>
