@@ -11,31 +11,23 @@ from datetime import datetime, timedelta, timezone
 DIAS_FUTURO = 3
 
 FUENTES_XML = {
-    "Espana": "https://github.com/davidmuma/EPG_dobleM/raw/refs/heads/master/guiatv.xml.gz",
-    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
+    "Espana": "https://iptv-org.github.io/epg/guides/es.xml",
+    "Mexico": "https://iptv-org.github.io/epg/guides/mx.xml",
     "Argentina": "https://iptv-org.github.io/epg/guides/ar.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
 }
 
-# MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE" : "ID_NUEVO_DESEADO"
-# Si no quieres cambiar el ID de un canal, pon el mismo nombre en ambos lados.
+# MAPEO DE CANALES: "ID_ORIGINAL_EN_FUENTE": "ID_NUEVO_DESEADO"
 MAPEO_CANALES = {
-    # España (Ejemplo de renombrado: de 'La 1 HD' a 'La 1')
     "La 1 HD": "La 1",
-    "LA 1.es": "La 1 Light",
+    "Antena3.es": "Antena 3",
     "Cuatro.es": "Cuatro",
     "Telecinco.es": "Telecinco",
     "LaSexta.es": "La Sexta",
-    
-    # México
     "AztecaUno.mx": "Azteca Uno",
     "LasEstrellas.mx": "Las Estrellas",
-    
-    # Argentina
     "Telefe.ar": "Telefe",
     "ElTrece.ar": "El Trece",
-    
-    # Colombia
     "CaracolTV.co": "Caracol TV",
     "RCNTV.co": "RCN TV"
 }
@@ -84,15 +76,14 @@ def generar_epg_combinado():
             for channel in root.findall('channel'):
                 id_original = channel.get('id')
                 
-                # Si el canal está en nuestra lista de interés
                 if id_original in MAPEO_CANALES:
                     id_nuevo = MAPEO_CANALES[id_original]
                     
                     if id_nuevo not in canales_agregados:
-                        # Asignamos el nuevo ID al elemento <channel id="...">
+                        # Cambiamos el id original por el nuevo id
                         channel.set('id', id_nuevo)
                         
-                        # (Opcional) Cambiar también el nombre visible <display-name> si se quiere
+                        # Cambiamos el nombre visible <display-name>
                         display_name = channel.find('display-name')
                         if display_name is not None:
                             display_name.text = id_nuevo
@@ -108,8 +99,6 @@ def generar_epg_combinado():
                 if canal_original in MAPEO_CANALES and start_time:
                     if es_programa_valido(start_time, fecha_limite_inicio, fecha_limite_fin):
                         id_nuevo = MAPEO_CANALES[canal_original]
-                        
-                        # Actualizamos el atributo channel="..." del programa al nuevo ID
                         programme.set('channel', id_nuevo)
                         root_combinado.append(programme)
 
