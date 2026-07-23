@@ -1,6 +1,7 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import os
+import gzip
 from datetime import datetime, timedelta, timezone
 
 # ==============================================================================
@@ -61,6 +62,22 @@ def es_programa_valido(fecha_inicio_str, fecha_limite_inicio, fecha_limite_fin):
         # Si la fecha viene en un formato extraño, lo dejamos pasar por seguridad
         return True
 
+def obtener_arbol_xml(url, archivo_temp):
+    """
+    Descarga la URL. Si es un archivo .gz, lo descomprime primero.
+    Retorna el objeto ElementTree parseado.
+    """
+    urllib.request.urlretrieve(url, archivo_temp)
+    
+    # Comprobamos si la fuente es un archivo comprimido .gz
+    if url.endswith('.gz'):
+        with gzip.open(archivo_temp, 'rb') as f_in:
+            tree = ET.parse(f_in)
+    else:
+        tree = ET.parse(archivo_temp)
+        
+    return tree
+
 def generar_epg_combinado():
     root_combinado = ET.Element('tv', generator_info_name="Mi EPG Filtrada por Días")
     canales_agregados = set()
@@ -75,12 +92,14 @@ def generar_epg_combinado():
     print(f"--> Filtrando programación desde {fecha_limite_inicio.strftime('%Y-%m-%d')} hasta {fecha_limite_fin.strftime('%Y-%m-%d')}...")
 
     for pais, url in FUENTES_XML.items():
-        archivo_temp = f"temp_{pais}.xml"
+        # Asignamos la extensión temporal adecuada
+        ext = ".xml.gz" if url.endswith('.gz') else ".xml"
+        archivo_temp = f"temp_{pais}{ext}"
         print(f"--> Descargando fuente de {pais}...")
         
         try:
-            urllib.request.urlretrieve(url, archivo_temp)
-            tree = ET.parse(archivo_temp)
+            # Parseamos el archivo (sea normal o .gz)
+            tree = obtener_arbol_xml(url, archivo_temp)
             root = tree.getroot()
 
             # 1. Copiar canales de la lista
