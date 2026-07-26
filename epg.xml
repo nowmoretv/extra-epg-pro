@@ -11,32 +11,9 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260726013000 +0200" stop="20260726030500 +0200" channel="La 1">
-    <title>Carola de día, Carola de noche</title>
-    <desc>Cine,Comedia | 1969 | TP | ★5.8/10
-· Carola, princesa exiliada, escapa del encierro, descubre la libertad y se enamora de un joven español. Empieza a trabajar como artista.
-· País: España
-· Dirección: Jaime de Armiñán.
-· Reparto: Emilio Gutiérrez Caba, José Sazatornil 'Saza', José Luis Coll, Rafael Alonso, Tony Isbert, Amparo Baró, Narciso Ibáñez Serrador, Fernando Fernán Gómez, Lili Muráti, Marisol.
-· Guion: Jaime de Armiñán, Leo Anchóriz.
-· Música: Juan Carlos Calderón.
-· Productora: Guión Producciones Cinematográficas.</desc>
-  </programme>
-  <programme start="20260726030500 +0200" stop="20260726060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260726060000 +0200" stop="20260726070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260726070000 +0200" stop="20260726101000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -184,7 +161,7 @@
   </programme>
   <programme start="20260727031000 +0200" stop="20260727060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -196,7 +173,7 @@
   </programme>
   <programme start="20260727070000 +0200" stop="20260727083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | ★6.0/10
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -204,21 +181,21 @@
   </programme>
   <programme start="20260727083000 +0200" stop="20260727103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 E146</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★8.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260727103500 +0200" stop="20260727145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Mañaneros 360 T2 E231</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★4.0/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20260727145500 +0200" stop="20260727153000 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | ★6.2/10
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -245,14 +222,14 @@
   </programme>
   <programme start="20260727155000 +0200" stop="20260727174500 +0200" channel="La 1">
     <title>Directo al grano T2 E146</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260727174500 +0200" stop="20260727183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E32</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.0/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★5.6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -260,7 +237,7 @@
   </programme>
   <programme start="20260727183500 +0200" stop="20260727193500 +0200" channel="La 1">
     <title>La Promesa T1 E874</title>
-    <desc>Series,Drama | 2026 | ⑫
+    <desc>Series,Drama | 2026 | ⑫ | ★7.4/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -268,22 +245,22 @@
 · Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260727193500 +0200" stop="20260727202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E218</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★2.0/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260727202500 +0200" stop="20260727205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra T15</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260727205500 +0200" stop="20260727214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -811,65 +788,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260726011502 +0000" stop="20260726030034 +0000">
-    <title>Ojos que te acechan</title>
-    <episode-num system="original-air-date">19990101000000 +0000</episode-num>
-    <desc>"El Ojo" es un agente especial del Servicio Británico, cuya misión es seguir a Joanna Eris, una mujer sospechosa de chantajear a un miembro del gobierno</desc>
-    <icon src="https://images.pluto.tv/episodes/65436c1aa61c2a001bc5e7fb/poster_1768605845951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19990101</date>
-    <series-id system="pluto">65436c18a61c2a001bc5e7dc</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260726030034 +0000" stop="20260726044119 +0000">
-    <title>Dredd</title>
-    <episode-num system="original-air-date">20120731000000 +0000</episode-num>
-    <desc>Una prostituta convertida en traficante de drogas pretende apoderarse de la ciudad futurista de Mega City One. El Juez Dredd, miembro destacado de una fuerza policial de élite, es la última esperanza de la ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/67613d934bf27b00137538bb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120731</date>
-    <series-id system="pluto">67613d914bf27b0013753899</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-    <category>Comic Books and Superheroes</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260726044119 +0000" stop="20260726062816 +0000">
-    <title>Juana de Arco</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">68ef5cf4393a03f3e39a6df5</episode-num>
-    <episode-num system="original-air-date">19990518000000 +0000</episode-num>
-    <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
-    <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19990518</date>
-    <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
-    <sub-title>Parte 2</sub-title>
-    <category>Action</category>
-    <category>Adventure</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260726062816 +0000" stop="20260726080916 +0000">
-    <title>Hitler: El ascenso del mal - Parte 1</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6135c117dc29d20013b97dbe</episode-num>
-    <episode-num system="original-air-date">20030518000000 +0000</episode-num>
-    <desc>Una perspectiva única, que perfila la vida de Adolf Hitler como un niño y su ascenso a través de las filas del Partido Nacional Alemán de los Trabajadores antes de la Segunda Guerra Mundial.</desc>
-    <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20030518</date>
-    <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260726080916 +0000" stop="20260726095016 +0000">
-    <title>Hitler: El ascenso del mal - Parte 2</title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <episode-num system="pluto">6135c116dc29d20013b97d90</episode-num>
-    <episode-num system="original-air-date">20030518000000 +0000</episode-num>
-    <desc>Una perspectiva única, que perfila la vida de Adolf Hitler como un niño y su ascenso a través de las filas del Partido Nacional Alemán de los Trabajadores antes de la Segunda Guerra Mundial.</desc>
-    <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20030518</date>
-    <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260726095016 +0000" stop="20260726120616 +0000">
     <title>El Lute II: Mañana seré libre</title>
     <episode-num system="original-air-date">19880101000000 +0000</episode-num>
@@ -877,9 +795,9 @@
     <icon src="https://images.pluto.tv/episodes/62a9e1ec65c30400136adbbd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19880101</date>
     <series-id system="pluto">62a9e1ea65c30400136adbb6</series-id>
-    <category>Drama</category>
     <category>Movie</category>
     <category>Biographical Drama</category>
+    <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260726120616 +0000" stop="20260726145016 +0000">
     <title>La decisión de Sophie</title>
@@ -888,9 +806,9 @@
     <icon src="https://images.pluto.tv/episodes/62384c84ff21e500131cb334/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19820101</date>
     <series-id system="pluto">62384c82ff21e500131cb32d</series-id>
-    <category>Drama</category>
     <category>Movie</category>
     <category>Biographical Drama</category>
+    <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260726145016 +0000" stop="20260726165516 +0000">
     <title>El Lute: Camina o revienta</title>
@@ -899,9 +817,9 @@
     <icon src="https://images.pluto.tv/episodes/62a9e1e965c30400136adae4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19870101</date>
     <series-id system="pluto">62a9e1e665c30400136adadd</series-id>
-    <category>Drama</category>
     <category>Movie</category>
     <category>Biographical Drama</category>
+    <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260726165516 +0000" stop="20260726190916 +0000">
     <title>El tren de las 3:10 de James Mangold</title>
@@ -912,5 +830,57 @@
     <series-id system="pluto">5f4e17f0fa72a5001a5fa18d</series-id>
     <category>Movie</category>
     <category>Western</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260726190916 +0000" stop="20260726210516 +0000">
+    <title>Lejos de la tierra quemada</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Cuatro intensas historias en torno al amor, las relaciones clandestinas, los accidentes y la muerte que se cruzan entre sí y que transcurren en diferentes momentos del espacio y el tiempo.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cdbfa72a5001a5fd899/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">5f4f5cdafa72a5001a5fd891</series-id>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260726210516 +0000" stop="20260726233132 +0000">
+    <title>Brimstone. La hija del predicador</title>
+    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
+    <desc>A finales del siglo XIX, Liz es una madre joven que intenta huir de su pasado mientras es perseguida por un diabólico predicador, que ha llegado al pueblo donde vive ella.</desc>
+    <icon src="https://images.pluto.tv/episodes/675aa8f35548db4d15b70eab/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160101</date>
+    <series-id system="pluto">675aa8f15548db4d15b70e87</series-id>
+    <category>Movie</category>
+    <category>Western</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260726233132 +0000" stop="20260727013641 +0000">
+    <title>Hannibal: El origen del mal</title>
+    <episode-num system="original-air-date">20070207000000 +0000</episode-num>
+    <desc>El joven Hannibal empieza a tramar una venganza después de que su hermanita sea asesinada durante la Segunda Guerra Mundial. Basada en la novela de Thomas Harris.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dc93da7fde50013c2e961/poster_1769190483169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20070207</date>
+    <series-id system="pluto">672dc93ba7fde50013c2e941</series-id>
+    <category>Movie</category>
+    <category>Slashers and Serial Killers</category>
+    <category>Horror</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727013641 +0000" stop="20260727031641 +0000">
+    <title>Concursante</title>
+    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
+    <desc>Martín Circo Martín, joven profesor, acaba de convertirse en el ganador del mayor premio jamás concedido en la Historia de la Televisión, valorado en más de 3 millones de euros. Sin embargo, Martín se ve en una trampa sin salida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f6207fcfb35bf001af7bef9/poster_1769034610504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20060101</date>
+    <series-id system="pluto">5f6207fafb35bf001af7bef1</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727031641 +0000" stop="20260727050218 +0000">
+    <title>The Ledge</title>
+    <episode-num system="original-air-date">20101201000000 +0000</episode-num>
+    <desc>Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía.</desc>
+    <icon src="https://images.pluto.tv/episodes/68fb4cbe0966c2fd46ce8c9d/poster_1761329348029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20101201</date>
+    <series-id system="pluto">68fb4cbd0966c2fd46ce8c7c</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
   </programme>
 </tv>
