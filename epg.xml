@@ -11,29 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260727013500 +0200" stop="20260727031000 +0200" channel="La 1">
-    <title>La playa de los ahogados</title>
-    <desc>Cine,Thriller | 2015 | ⑫ | ★7.6/10
-· En la playa de Panxón, en Galicia, ha aparecido el cadáver del pescador de bajura Justo Castelo. El inspector Leo Caldas será el encargado de investigar la muerte del marinero.
-· País: España
-· Dirección: Gerardo Herrero.
-· Reparto: Carmelo Gómez, Antonio Garrido, Luis Zahera, Celso Bugallo, Pedro Alonso, Fernando Morán, Celia Freijeiro, Tamar Novas, Marta Larralde, Carlos Blanco.
-· Guion: Felipe Vega, Domingo Villar.
-· Producción: Gerardo Herrero.
-· Productora: Foresta Films.</desc>
-  </programme>
-  <programme start="20260727031000 +0200" stop="20260727060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260727070000 +0200" stop="20260727083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
@@ -51,7 +28,7 @@
   </programme>
   <programme start="20260727103500 +0200" stop="20260727145500 +0200" channel="La 1">
     <title>Mañaneros 360 T2 E231</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★4.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★2.6/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
@@ -73,7 +50,7 @@
   </programme>
   <programme start="20260727153500 +0200" stop="20260727154000 +0200" channel="La 1">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | ★6.2/10
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -92,7 +69,7 @@
   </programme>
   <programme start="20260727174500 +0200" stop="20260727183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E32</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★5.6/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.2/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -109,7 +86,7 @@
   </programme>
   <programme start="20260727193500 +0200" stop="20260727202500 +0200" channel="La 1">
     <title>Malas lenguas T2 E218</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★2.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★4.6/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -138,7 +115,7 @@
   </programme>
   <programme start="20260727214500 +0200" stop="20260728004500 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Balanegra vs Zumárraga</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★5.6/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★5.8/10
 · Balanegra, con el desparpajo de 'Torito', y Zumarraga, respaldada por Garbiñe Muguruza, se enfrentan en un duelo lleno de emoción, caídas espectaculares y diversión. ¿Qué pueblo cantará victoria?
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -160,7 +137,7 @@
   </programme>
   <programme start="20260728060000 +0200" stop="20260728075000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | ★6.0/10
+    <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -182,7 +159,7 @@
   </programme>
   <programme start="20260728145500 +0200" stop="20260728153500 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -219,7 +196,7 @@
   </programme>
   <programme start="20260728174500 +0200" stop="20260728183500 +0200" channel="La 1">
     <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.2/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -265,7 +242,7 @@
   </programme>
   <programme start="20260728214500 +0200" stop="20260728230000 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.0/10
 · Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -776,58 +753,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260727013641 +0000" stop="20260727031641 +0000">
-    <title>Concursante</title>
-    <episode-num system="original-air-date">20060101000000 +0000</episode-num>
-    <desc>Martín Circo Martín, joven profesor, acaba de convertirse en el ganador del mayor premio jamás concedido en la Historia de la Televisión, valorado en más de 3 millones de euros. Sin embargo, Martín se ve en una trampa sin salida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f6207fcfb35bf001af7bef9/poster_1769034610504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20060101</date>
-    <series-id system="pluto">5f6207fafb35bf001af7bef1</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260727031641 +0000" stop="20260727050218 +0000">
-    <title>The Ledge</title>
-    <episode-num system="original-air-date">20101201000000 +0000</episode-num>
-    <desc>Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía.</desc>
-    <icon src="https://images.pluto.tv/episodes/68fb4cbe0966c2fd46ce8c9d/poster_1761329348029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20101201</date>
-    <series-id system="pluto">68fb4cbd0966c2fd46ce8c7c</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260727050218 +0000" stop="20260727064718 +0000">
-    <title>Cuatro vidas</title>
-    <episode-num system="original-air-date">20070101000000 +0000</episode-num>
-    <desc>La película se Basa en un proverbio chino según el cual la existencia humana se divide en cuatro emociones: felicidad, placer, pena y amor. Estas emociones acaban cruzándose a través de cuatro personajes.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f5cd8fa72a5001a5fd861/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20070101</date>
-    <series-id system="pluto">5f4f5cd7fa72a5001a5fd859</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260727064718 +0000" stop="20260727085018 +0000">
-    <title>La carretera</title>
-    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
-    <desc>Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20090101</date>
-    <series-id system="pluto">5f4f5ce4fa72a5001a5fd93d</series-id>
-    <category>Movie</category>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260727085018 +0000" stop="20260727104918 +0000">
-    <title>Two Lovers</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Leonard (Joaquin Phoenix) empieza a salir con Sandra (Vinessa Shaw), una joven encantadora con la que el matrimonio parece cercano. Pero aparece en su vida una nueva vecina, Michelle (Gwyneth Paltrow),  lo que no hace sino empezar a complicar su vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c16db45a1001a79aac9/poster_1779885889185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20080101</date>
-    <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Inspirational Drama</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260727104918 +0000" stop="20260727130118 +0000">
     <title>Valkiria</title>
     <episode-num system="original-air-date">20080101000000 +0000</episode-num>
@@ -835,9 +760,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4f5cf0fa72a5001a5fda18/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20080101</date>
     <series-id system="pluto">5f4f5ceffa72a5001a5fda10</series-id>
-    <category>Action</category>
-    <category>Military &amp; War Action</category>
     <category>Movie</category>
+    <category>Military &amp; War Action</category>
+    <category>Action</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260727130118 +0000" stop="20260727145318 +0000">
     <title>Darkness</title>
@@ -846,9 +771,9 @@
     <icon src="https://images.pluto.tv/episodes/5f4e182efa72a5001a5fa5d8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20020101</date>
     <series-id system="pluto">5f4e182dfa72a5001a5fa5d0</series-id>
-    <category>Movie</category>
     <category>Horror Classics</category>
     <category>Horror</category>
+    <category>Movie</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260727145318 +0000" stop="20260727163318 +0000">
     <title>Un hombre solitario</title>
@@ -857,7 +782,80 @@
     <icon src="https://images.pluto.tv/episodes/5f523c66db45a1001a79add1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20090101</date>
     <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727163318 +0000" stop="20260727181618 +0000">
+    <title>Doble identidad</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Un médico estadounidense es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá ingeniárselas para sobrevivir en un país en el que no puede acudir a nadie en busca de ayuda.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e183cfa72a5001a5fa6dd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090101</date>
+    <series-id system="pluto">5f4e183bfa72a5001a5fa6d5</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727181618 +0000" stop="20260727195918 +0000">
+    <title>Nunca es tarde para enamorarse</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
+    <category>African-American Romance</category>
+    <category>Movie</category>
+    <category>Romance</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727195918 +0000" stop="20260727214426 +0000">
+    <title>El intruso</title>
+    <episode-num system="original-air-date">20040101000000 +0000</episode-num>
+    <desc>Tras un trágico accidente, un hombre se convierte en el objetivo de la peligrosa obsesión de otro testigo.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef7e5024d9b7beb5b68be7/poster_1777303140286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20040101</date>
+    <series-id system="pluto">69ef7e4f24d9b7beb5b68bc8</series-id>
+    <category>Independent Drama</category>
+    <category>Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727214426 +0000" stop="20260727231932 +0000">
+    <title>Código fuente</title>
+    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
+    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110420</date>
+    <series-id system="pluto">672dcc122678a50014518e37</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260727231932 +0000" stop="20260728010157 +0000">
+    <title>Headhunters</title>
+    <episode-num system="original-air-date">20110101000000 +0000</episode-num>
+    <desc>Un reclutador corporativo, quien también se dedica a robar arte, planea robar una pintura valiosa del candidato perfecto para un trabajo vacante.</desc>
+    <icon src="https://images.pluto.tv/episodes/64fafebbf6f05d00134d83fe/poster_1770746522519.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110101</date>
+    <series-id system="pluto">64fafebaf6f05d00134d83e0</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260728010157 +0000" stop="20260728032430 +0000">
+    <title>El gran golpe</title>
+    <episode-num system="original-air-date">20120725000000 +0000</episode-num>
+    <desc>Una banda liderada por Macao Park planea un gran golpe en un casino. Pero sin honor entre ladrones, cada uno trama su propio plan para quedarse con el botín.</desc>
+    <icon src="https://images.pluto.tv/episodes/698b0658aa2e52840230d770/poster_1770718837379.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120725</date>
+    <series-id system="pluto">698b0656aa2e52840230d750</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260728032430 +0000" stop="20260728051229 +0000">
+    <title>Diferencias irreconciliables</title>
+    <episode-num system="original-air-date">19840928000000 +0000</episode-num>
+    <desc>Alternando entre el pasado y el presente, una niña precoz demanda a sus padres egoístas la emancipación, sorprendiéndolos a ambos.</desc>
+    <icon src="https://images.pluto.tv/episodes/69a061598c539e794a9239d7/poster_1772118362154.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19840928</date>
+    <series-id system="pluto">69a061588c539e794a9239b6</series-id>
+    <category>Comedy</category>
+    <category>Movie</category>
   </programme>
 </tv>
