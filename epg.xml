@@ -11,25 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260731002500 +0200" stop="20260731020000 +0200" channel="La 1">
-    <title>El perro andaluz T1 · José Mercé</title>
-    <desc>Entretenimiento,Humor | 2026 | ⑯ | ★6.0/10
-· José Mercé, leyenda del flamenco, visita esta semana el plató para repasar con Manu Sánchez los hitos de su trayectoria y compartir su visión sobre la actualidad. Y la música no para con la visita de Kiki Morente y Lagartija Nick.
-· País: España
-· Presenta: Manu Sánchez.</desc>
-  </programme>
-  <programme start="20260731020000 +0200" stop="20260731060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260731060000 +0200" stop="20260731070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260731070000 +0200" stop="20260731083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
@@ -40,14 +21,14 @@
   </programme>
   <programme start="20260731083000 +0200" stop="20260731103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 · Especial incendios</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Programa especial dedicado a la ola de incendios que afecta a distintos puntos de España.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260731103500 +0200" stop="20260731145500 +0200" channel="La 1">
     <title>Mañaneros 360 T2 E235</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
@@ -81,14 +62,14 @@
   </programme>
   <programme start="20260731155000 +0200" stop="20260731174500 +0200" channel="La 1">
     <title>Directo al grano T2 E150</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.0/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260731174500 +0200" stop="20260731183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E36</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★5.8/10
 · Petra confiesa a Pura que ha tomado una decisión definitiva sobre el hijo de Adriana. Mientras, en la Casa Pequeña, Dámaso y Victoria quedan desconcertados ante la inesperada transformación de Mercedes. ¿Qué ha pasado con la duquesa de Miramar?
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -96,7 +77,7 @@
   </programme>
   <programme start="20260731183500 +0200" stop="20260731193500 +0200" channel="La 1">
     <title>La Promesa T1 E878</title>
-    <desc>Series,Drama | 2026 | ⑫ | ★6.0/10
+    <desc>Series,Drama | 2026 | ⑫ | ★5.8/10
 · Ciro sigue insistiendo en cobrar por el manual, pero Manuel no da su brazo a torcer.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -105,7 +86,7 @@
   </programme>
   <programme start="20260731193500 +0200" stop="20260731202500 +0200" channel="La 1">
     <title>Malas lenguas T2 E222</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -119,7 +100,7 @@
   </programme>
   <programme start="20260731205500 +0200" stop="20260731214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -158,7 +139,7 @@
   </programme>
   <programme start="20260801011000 +0200" stop="20260801060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -168,32 +149,46 @@
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260801070000 +0200" stop="20260801111500 +0200" channel="La 1">
+  <programme start="20260801070000 +0200" stop="20260801100000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260801111500 +0200" stop="20260801114500 +0200" channel="La 1">
+  <programme start="20260801100000 +0200" stop="20260801103000 +0200" channel="La 1">
     <title>Audiencia abierta</title>
     <desc>Información,Política | 2012 | TP | ★6.0/10
 · Espacio semanal de servicio público sobre la Jefatura del Estado.
 · País: España
 · Dirección: Miguel Ángel Sacaluga.</desc>
   </programme>
-  <programme start="20260801114500 +0200" stop="20260801133000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele T14</title>
+  <programme start="20260801103000 +0200" stop="20260801110000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T14 · Más Íñigo</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.2/10
+· Un viaje de la mano de José María Íñigo y su talento para elegir a grupos y solistas.
+· País: España
+· Dirección: Pedro Santos.</desc>
+  </programme>
+  <programme start="20260801110000 +0200" stop="20260801120000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T14 · Me siento bien</title>
     <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
+· Capítulo dedicado a canciones que invitan al optimismo, a la superación, a ir de fiesta y bailar.
+· País: España
+· Dirección: Pedro Santos.</desc>
+  </programme>
+  <programme start="20260801120000 +0200" stop="20260801130500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T13 · Euroversiones</title>
+    <desc>Entretenimiento,Zapping | 2023 | TP | ★6.0/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260801133000 +0200" stop="20260801145500 +0200" channel="La 1">
-    <title>D Corazón T3</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.0/10
+  <programme start="20260801130500 +0200" stop="20260801145500 +0200" channel="La 1">
+    <title>D Corazón T3 E61</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
   <programme start="20260801145500 +0200" stop="20260801154500 +0200" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
@@ -218,20 +213,48 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260801155500 +0200" stop="20260801174000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260801155500 +0200" stop="20260801173000 +0200" channel="La 1">
+    <title>Tres mujeres y un plan</title>
+    <desc>Cine,Comedia | 2008 | ⑫ | ★6.2/10
+· El marido de Bridget pierde su empleo y ella se pone a trabajar como conserje en el Banco de la Reserva Federal. Allí conoce a dos mujeres con las que participará en un plan para apropiarse de algo del dinero destinado a ser destruido.
+· País: Estados Unidos
+· Dirección: Callie Khouri.
+· Reparto: Katie Holmes, Queen Latifah, Diane Keaton.
+· Guion: John Mister, Glenn Gers.
+· Productora: Big City Pictures, Granada Entertainment USA, Grand Army Entertainment.</desc>
   </programme>
-  <programme start="20260801174000 +0200" stop="20260801201500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260801173000 +0200" stop="20260801192000 +0200" channel="La 1">
+    <title>Crazy, Stupid, Love</title>
+    <desc>Cine,Comedia romántica | 2011 | ⑯ | ★7.2/10
+· La vida de Cal da un vuelco cuando su mujer le pide el divorcio tras haberle engañado. Mientras trata de superarlo, Cal conoce a Jacob, un hombre joven, atractivo y mujeriego que se ofrece a ayudarle a redescubrir su masculinidad enseñándole a ligar.
+· País: Estados Unidos
+· Dirección: Glenn Ficarra, John Requa.
+· Reparto: Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Analeigh Tipton, Jonah Bobo, Kevin Bacon, Josh Groban, Marisa Tomei.
+· Guion: Dan Fogelman.
+· Música: Christophe Beck, Nick Urata.
+· Producción: Steve Carell, Denise Di Novi.
+· Productora: Carousel Productions.</desc>
   </programme>
-  <programme start="20260801201500 +0200" stop="20260801205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+  <programme start="20260801192000 +0200" stop="20260801194000 +0200" channel="La 1">
+    <title>Cine de barrio</title>
+    <desc>Cine,Programa de cine | 1995 | TP | ★6.0/10
+· Proyección de una película española y tertulia relajada y amistosa con los protagonistas de la misma. Los invitados son actores de la gran pantalla de toda la vida, que a parte de presentar el filme, informan de sus planes profesionales.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Inés Ballester.
+· Dirección: Francisco Quintanar.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260801194000 +0200" stop="20260801205500 +0200" channel="La 1">
+    <title>La dinamita está servida</title>
+    <desc>Cine,Comedia | 1968 | ⑫ | ★6.0/10
+· El viaje secreto de un rey a la Costa Brava desata el caos entre espías, asesinos, ladrones de joyas y una pareja de luna de miel ajena a todo.
+· País: España
+· Dirección: Fernando Merino.
+· Reparto: Alfredo Landa, Laura Valenzuela, Tony Leblanc, Manolo Gómez Bur, Rafael Alonso, María Silva.
+· Guion: Noel Clarasó, José Luis Dibildos.
+· Música: Antón García Abril.
+· Producción: José Luis Dibildos.
+· Productora: Ágata Films S.A.</desc>
   </programme>
   <programme start="20260801205500 +0200" stop="20260801212500 +0200" channel="La 1">
     <title>Telediario 2 Fin de Semana</title>
@@ -250,26 +273,49 @@
   </programme>
   <programme start="20260801213000 +0200" stop="20260801220500 +0200" channel="La 1">
     <title>Informe Semanal T25/26</title>
-    <desc>Información,Reportaje | 2025 | ⑦ | ★6.0/10
+    <desc>Información,Reportaje | 2025 | ⑦ | ★5.8/10
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Presenta: Lourdes Maldonado.
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260801220500 +0200" stop="20260801234000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260801220500 +0200" stop="20260801234500 +0200" channel="La 1">
+    <title>Shall We Dance? (¿Bailamos?)</title>
+    <desc>Cine,Comedia romántica | 2004 | TP | ★6.4/10
+· Pese a tener una vida estable, un abogado de Chicago siente que algo le falta. La danza le dará el efecto que deseaba.
+· País: Estados Unidos
+· Dirección: Peter Chelsom.
+· Reparto: Susan Sarandon, Richard Gere, Jennifer Lopez, Richard Jenkins, Lisa Ann Walter, Anita Gillette, Stanley Tucci.
+· Guion: Masayuki Suo, Audrey Wells.
+· Música: Gabriel Yared, John Altman.
+· Producción: Simon Fields.
+· Productora: Miramax Films.</desc>
   </programme>
-  <programme start="20260801234000 +0200" stop="20260802015500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260801234500 +0200" stop="20260802012500 +0200" channel="La 1">
+    <title>El padre de la novia</title>
+    <desc>Cine,Comedia | 1991 | TP | ★6.0/10
+· Georges Banks no puede soportar la idea de que la niña de sus ojos, Annie, que ya tiene 22 años, sea lo suficientemente mayor como para salir con chicos e, incluso, casarse con uno de ellos.
+· País: Estados Unidos
+· Dirección: Charles Shyer.
+· Reparto: Steve Martin, Diane Keaton, Kimberly Williams-Paisley, Kieran Culkin, George Newbern.
+· Guion: María Pujalte, Albert Hackett.
+· Música: Alan Silvestri.
+· Productora: Buena Vista Televisión.</desc>
   </programme>
-  <programme start="20260802015500 +0200" stop="20260802032500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260802012500 +0200" stop="20260802031000 +0200" channel="La 1">
+    <title>Fred Claus, el hermano gamberro de Santa Claus</title>
+    <desc>Cine,Comedia | 2007 | TP | ★6.6/10
+· Fred Claus ha vivido toda su vida a la sombra de su hermano pequeño Santa Claus. El día en que decide ayudar a su hermano en los quehaceres navideños pone en peligro la celebración más alegre de todo el año.
+· País: Estados Unidos
+· Dirección: David Dobkin.
+· Reparto: Vince Vaughn, Paul Giamatti, Kathy Bates, Kevin Spacey, Miranda Richardson, Rachel Weisz, Elizabeth Banks.
+· Guion: Jessie Nelson, Dan Fogelman.
+· Música: Christophe Beck.
+· Producción: Jessie Nelson, David Dobkin, Joel Silver.
+· Productora: Silver Pictures, Warner Bros. Pictures, David Dobkin Productions, Jessie Nelson Productions.</desc>
   </programme>
-  <programme start="20260802032500 +0200" stop="20260802060000 +0200" channel="La 1">
+  <programme start="20260802031000 +0200" stop="20260802060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -733,111 +779,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260731012743 +0000" stop="20260731032404 +0000">
-    <title>Dorian Gray</title>
-    <episode-num system="original-air-date">20090911000000 +0000</episode-num>
-    <desc>Un joven corrupto logra conservar eternamente su belleza juvenil, pero un cuadro especial revela gradualmente a todos su fealdad interior.</desc>
-    <icon src="https://images.pluto.tv/episodes/6729fd82c394bf0013295e33/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20090911</date>
-    <series-id system="pluto">6729fd80c394bf0013295e12</series-id>
-    <category>Movie</category>
-    <category>Crime</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731032404 +0000" stop="20260731032704 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E107</episode-num>
-    <episode-num system="pluto">685bc059156c3ca040eaeb9e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731032704 +0000" stop="20260731033504 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E105</episode-num>
-    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731033504 +0000" stop="20260731052804 +0000">
-    <title>Mi pie izquierdo</title>
-    <episode-num system="original-air-date">19890101000000 +0000</episode-num>
-    <desc>Ganadora de Oscars (1989): Mejor Actor y Actriz secundaria. Basada en la biografía de Christy Brown. Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió su integración en la sociedad.</desc>
-    <icon src="https://images.pluto.tv/episodes/62384c89ff21e500131cb453/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19890101</date>
-    <series-id system="pluto">62384c88ff21e500131cb44c</series-id>
-    <category>Movie</category>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731052804 +0000" stop="20260731053104 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E107</episode-num>
-    <episode-num system="pluto">685bc059156c3ca040eaeb9e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731053104 +0000" stop="20260731053604 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731053604 +0000" stop="20260731074004 +0000">
-    <title>Viaje a Italia</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Steve Coogan y Rob Brydon reciben el encargo de un nuevo viaje gastronómico, esta vez por Italia. Estos dos improbables amigos conducen por todo el país mientras vuelven a discutir sobre la vida, el amor y el cine.</desc>
-    <icon src="https://images.pluto.tv/episodes/618263c1b5d0e9001a8ca993/poster_1768603331067.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20140101</date>
-    <series-id system="pluto">618263bfb5d0e9001a8ca98d</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731074004 +0000" stop="20260731105304 +0000">
-    <title>Moby Dick</title>
-    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
-    <desc>El Pequod es un barco ballenero cuyo objetivo principal es cazar a la mítica ballena blanca. Al mando de la nave está el tiránico capitán Ahab, que vive obsesionado con la idea de capturar al animal que consiguió escapar después de arrancarle una pierna.</desc>
-    <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20100101</date>
-    <series-id system="pluto">627b5b7fe500b000135db308</series-id>
-    <category>Movie</category>
-    <category>Reality</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260731105304 +0000" stop="20260731124102 +0000">
-    <title>La sombra del cazador</title>
-    <episode-num system="original-air-date">20070921000000 +0000</episode-num>
-    <desc>Un joven periodista, un cámara y un desacreditado corresponsal de guerra emprenden una misión no autorizada para encontrar al delincuente de guerra más buscado de Bosnia.</desc>
-    <icon src="https://images.pluto.tv/episodes/67582a8b091e240013522ebd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20070921</date>
-    <series-id system="pluto">67582a89091e240013522e9c</series-id>
-    <category>Movie</category>
-    <category>Action</category>
-    <category>Action Comedies</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260731124102 +0000" stop="20260731144002 +0000">
     <title>Two Lovers</title>
     <episode-num system="original-air-date">20080101000000 +0000</episode-num>
@@ -857,8 +798,8 @@
     <date>20180101</date>
     <series-id system="pluto">64fb001e3b20050013642ad1</series-id>
     <category>Movie</category>
-    <category>Drama</category>
     <category>War Drama</category>
+    <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260731163139 +0000" stop="20260731181339 +0000">
     <title>Un vecino con pocas luces</title>
@@ -869,5 +810,80 @@
     <series-id system="pluto">6076b668235736001ac44373</series-id>
     <category>Movie</category>
     <category>Comedy</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260731181339 +0000" stop="20260731203017 +0000">
+    <title>Cazadores de sombras: Ciudad de hueso</title>
+    <episode-num system="original-air-date">20130811000000 +0000</episode-num>
+    <desc>Basada en la saga literaria, Lily Collins (Emily en París) interpreta a Clary, una adolescente que una noche conoce al misterioso Jace, un cazador de sombras. A Collins le acompañan Lena Headey (Juego de Tronos) y Jaime Campbell (Stranger Things).</desc>
+    <icon src="https://images.pluto.tv/episodes/68e8b76d393a03f3e3200ce4/poster_1779201008346.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20130811</date>
+    <series-id system="pluto">68e8b76c393a03f3e3200cc4</series-id>
+    <category>Movie</category>
+    <category>Fantasy</category>
+    <category>Science fiction</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260731203017 +0000" stop="20260731225017 +0000">
+    <title>El Jurado</title>
+    <episode-num system="original-air-date">20031009000000 +0000</episode-num>
+    <desc>En este thriller lleno de suspense, un "asesor" del jurado despiadado y de alto precio no se detendrá ante nada para asegurar un veredicto en un juicio explosivo.</desc>
+    <icon src="https://images.pluto.tv/episodes/6065a148f3fd5d001b808033/poster_1778886002735.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20031009</date>
+    <series-id system="pluto">6065a143f3fd5d001b80802d</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260731225017 +0000" stop="20260801004617 +0000">
+    <title>Réquiem Por Un Sueño</title>
+    <episode-num system="original-air-date">20001006000000 +0000</episode-num>
+    <desc>Cuatro personas luchan contra drogadicciones cada vez más insaciables, y a pesar de sus buenas intenciones, las drogas ganan y sus vidas entran en una espiral sin control.</desc>
+    <icon src="https://images.pluto.tv/episodes/61dec51c635aeb001ac7d792/poster_1753115707031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20001006</date>
+    <series-id system="pluto">61dec51a635aeb001ac7d78c</series-id>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260801004617 +0000" stop="20260801022217 +0000">
+    <title>Policías de Queens</title>
+    <episode-num system="original-air-date">20110709000000 +0000</episode-num>
+    <desc>Al Pacino, Channing Tatum y Ray Liotta protagonizan un thriller criminal. Un joven policía (Channing Tatum) es destinado a una comisaría del barrio en el que se crio, donde un antiguo secreto amenaza con destruir a su familia.</desc>
+    <icon src="https://images.pluto.tv/episodes/6729fd85c394bf0013295ea4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110709</date>
+    <series-id system="pluto">6729fd84c394bf0013295e82</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260801022217 +0000" stop="20260801040219 +0000">
+    <title>Sin rastro (Gone)</title>
+    <episode-num system="original-air-date">20120221000000 +0000</episode-num>
+    <desc>La policía no la cree, así que una mujer (Amanda Seyfried) emprende en solitario la búsqueda del asesino en serie del que escapó en el pasado y que ahora cree que ha secuestrado a su hermana.</desc>
+    <icon src="https://images.pluto.tv/episodes/6729fab5b7ea5e0013fbd796/poster_1776174482126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120221</date>
+    <series-id system="pluto">6729fab3b7ea5e0013fbd775</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260801040219 +0000" stop="20260801040719 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260801040719 +0000" stop="20260801055419 +0000">
+    <title>Siempre a tu lado Hachiko</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Basada en una historia real, la película narra la historia de amistad entre un profesor universitario y Hachi, el perro de Akita. Hachi, símbolo de la lealtad y la amistad, esperará en la estación pacientemente a un dueño que puede que no vuelva nunca.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cccfa72a5001a5fd796/poster_1769032801832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">5f4f5ccafa72a5001a5fd78e</series-id>
+    <category>Movie</category>
+    <category>Drama</category>
   </programme>
 </tv>
