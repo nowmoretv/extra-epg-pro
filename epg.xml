@@ -11,30 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260802012500 +0200" stop="20260802031000 +0200" channel="La 1">
-    <title>Fred Claus, el hermano gamberro de Santa Claus</title>
-    <desc>Cine,Comedia | 2007 | TP | ★6.6/10
-· Fred Claus ha vivido toda su vida a la sombra de su hermano pequeño Santa Claus. El día en que decide ayudar a su hermano en los quehaceres navideños pone en peligro la celebración más alegre de todo el año.
-· País: Estados Unidos
-· Dirección: David Dobkin.
-· Reparto: Vince Vaughn, Paul Giamatti, Kathy Bates, Kevin Spacey, Miranda Richardson, Rachel Weisz, Elizabeth Banks.
-· Guion: Jessie Nelson, Dan Fogelman.
-· Música: Christophe Beck.
-· Producción: Jessie Nelson, David Dobkin, Joel Silver.
-· Productora: Silver Pictures, Warner Bros. Pictures, David Dobkin Productions, Jessie Nelson Productions.</desc>
-  </programme>
-  <programme start="20260802031000 +0200" stop="20260802060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260802060000 +0200" stop="20260802070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260802070000 +0200" stop="20260802101000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
@@ -112,7 +88,7 @@
   </programme>
   <programme start="20260802172000 +0200" stop="20260802180000 +0200" channel="La 1">
     <title>La trampa del amor T1 E3</title>
-    <desc>Series,Drama | 2024 | ⑫ | ★4.8/10
+    <desc>Series,Drama | 2024 | ⑫ | ★4.6/10
 · El romance encantador de Emma con Niko acaba súbitamente cuando él le roba todo su dinero.
 · País: Reino Unido
 · Dirección: Steve Hughes.
@@ -121,7 +97,7 @@
   </programme>
   <programme start="20260802180000 +0200" stop="20260802184500 +0200" channel="La 1">
     <title>La trampa del amor T1 E4</title>
-    <desc>Series,Drama | 2024 | ⑫ | ★5.6/10
+    <desc>Series,Drama | 2024 | ⑫ | ★5.4/10
 · El romance encantador de Emma con Niko acaba súbitamente cuando él le roba todo su dinero.
 · País: Reino Unido
 · Dirección: Steve Hughes.
@@ -198,14 +174,14 @@
   </programme>
   <programme start="20260803083000 +0200" stop="20260803103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 E151</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260803103500 +0200" stop="20260803145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+    <title>Mañaneros 360 T2 E236</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★4.8/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
@@ -227,7 +203,7 @@
   </programme>
   <programme start="20260803153500 +0200" stop="20260803154000 +0200" channel="La 1">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | ★6.2/10
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -239,14 +215,14 @@
   </programme>
   <programme start="20260803155000 +0200" stop="20260803174500 +0200" channel="La 1">
     <title>Directo al grano T2 E151</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260803174500 +0200" stop="20260803183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E37</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★5.6/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★5.2/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -262,16 +238,16 @@
 · Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260803193500 +0200" stop="20260803202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E223</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260803202500 +0200" stop="20260803205500 +0200" channel="La 1">
     <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
@@ -805,75 +781,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260802031308 +0000" stop="20260802031808 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260802031808 +0000" stop="20260802050108 +0000">
-    <title>Nunca es tarde para enamorarse</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20080101</date>
-    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
-    <category>African-American Romance</category>
-    <category>Romance</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260802050108 +0000" stop="20260802063559 +0000">
-    <title>3 generaciones</title>
-    <episode-num system="original-air-date">20150101000000 +0000</episode-num>
-    <desc>Un adolescente trans quiere iniciar su transición, pero necesita el consentimiento de sus padres mientras su familia aprende a aceptar su identidad.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef45e9598bd1d6b49c66e9/poster_1777288715878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20150101</date>
-    <series-id system="pluto">69ef45e8598bd1d6b49c66ca</series-id>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260802063559 +0000" stop="20260802083304 +0000">
-    <title>Algo Prestado</title>
-    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
-    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
-    <icon src="https://images.pluto.tv/episodes/675824d22678a500143c745a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110420</date>
-    <series-id system="pluto">675824d02678a500143c7439</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-    <category>Science fiction</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260802083304 +0000" stop="20260802101241 +0000">
-    <title>Irrational Man</title>
-    <episode-num system="original-air-date">20150709000000 +0000</episode-num>
-    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
-    <icon src="https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster_1779180383436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20150709</date>
-    <series-id system="pluto">67371fe5a7fde5001326ba9b</series-id>
-    <category>Comedy</category>
-    <category>Romantic comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260802101241 +0000" stop="20260802115341 +0000">
-    <title>Hitler: El ascenso del mal - Parte 1</title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="pluto">6135c117dc29d20013b97dbe</episode-num>
-    <episode-num system="original-air-date">20030518000000 +0000</episode-num>
-    <desc>Una perspectiva única, que perfila la vida de Adolf Hitler como un niño y su ascenso a través de las filas del Partido Nacional Alemán de los Trabajadores antes de la Segunda Guerra Mundial.</desc>
-    <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20030518</date>
-    <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260802115341 +0000" stop="20260802133441 +0000">
     <title>Hitler: El ascenso del mal - Parte 2</title>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -883,8 +790,8 @@
     <icon src="https://images.pluto.tv/series/6135c115dc29d20013b97d86/tile_1769571361977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20030518</date>
     <series-id system="pluto">6135c115dc29d20013b97d86</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260802133441 +0000" stop="20260802161541 +0000">
     <title>1492: La conquista del paraíso</title>
@@ -894,8 +801,8 @@
     <date>19920101</date>
     <series-id system="pluto">636e431e576be6001373af88</series-id>
     <category>Adventure</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260802161541 +0000" stop="20260802182741 +0000">
     <title>Valkiria</title>
@@ -905,7 +812,82 @@
     <date>20080101</date>
     <series-id system="pluto">5f4f5ceffa72a5001a5fda10</series-id>
     <category>Military &amp; War Action</category>
-    <category>Movie</category>
     <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260802182741 +0000" stop="20260802202710 +0000">
+    <title>Tucker: El hombre y su sueño</title>
+    <episode-num system="original-air-date">19880812000000 +0000</episode-num>
+    <desc>Un diseñador de coches se enfrenta a toda la industria automovilística con sus revolucionarios diseños.</desc>
+    <icon src="https://images.pluto.tv/episodes/68beec318eef10068fe24025/poster_1760453258351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19880812</date>
+    <series-id system="pluto">68beec308eef10068fe24005</series-id>
+    <category>Drama</category>
+    <category>Dramedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260802202710 +0000" stop="20260802220720 +0000">
+    <title>MS1: Máxima seguridad</title>
+    <episode-num system="original-air-date">20120413000000 +0000</episode-num>
+    <desc>MS1 es una prisión en el espacio donde los 500 criminales más peligrosos se encuentran retenidos. El agente Snow deberá resolver una situación de rehénes en la prisión. Protagonizan Guy Pearce (Memento) y Maggie Grace (Perdidos).</desc>
+    <icon src="https://images.pluto.tv/episodes/68f0dcdaf1f80c815160ac38/poster_1760644436986.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120413</date>
+    <series-id system="pluto">68f0dcd8f1f80c815160ac1a</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260802220720 +0000" stop="20260803000020 +0000">
+    <title>Los Mercenarios</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>Barney Ross (Stallone) es un veterano de guerra que ha reunido a un grupo de mercenarios de élite para operaciones puntuales de rescate. No dudan en matar para conseguir sus objetivos, si bien tienen un lema muy claro: "sólo a quienes lo merezcan".</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ce0fa72a5001a5fd8f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100101</date>
+    <series-id system="pluto">5f4f5cdffa72a5001a5fd8e8</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803000020 +0000" stop="20260803014405 +0000">
+    <title>Buenos Vecinos</title>
+    <episode-num system="original-air-date">20110729000000 +0000</episode-num>
+    <desc>Víctor intenta hacer amigos en Montreal mientras un asesino acecha.</desc>
+    <icon src="https://images.pluto.tv/episodes/68ff959bd70c07ace88be079/poster_1761585069352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110729</date>
+    <series-id system="pluto">68ff959bd70c07ace88be05b</series-id>
+    <category>Comedy</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803014405 +0000" stop="20260803031325 +0000">
+    <title>Ceros y unos</title>
+    <episode-num system="original-air-date">20210714000000 +0000</episode-num>
+    <desc>Un soldado investiga una amenaza terrorista en una Roma en estado de emergencia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6f654c1064447fbd87fb/poster_1778085734850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210714</date>
+    <series-id system="pluto">69fb6f644c1064447fbd87db</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803031325 +0000" stop="20260803031825 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803031825 +0000" stop="20260803045625 +0000">
+    <title>Tipos Legales</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876b04e26cc40014b2b7e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120101</date>
+    <series-id system="pluto">62876b03e26cc40014b2b7de</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
   </programme>
 </tv>
