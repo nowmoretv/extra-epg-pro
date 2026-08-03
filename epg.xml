@@ -11,26 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260803005500 +0200" stop="20260803035500 +0200" channel="La 1">
-    <title>El Grand Prix del Verano T4 · Balanegra vs Zumárraga</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.0/10
-· Balanegra, con el desparpajo de 'Torito', y Zumarraga, respaldada por Garbiñe Muguruza, se enfrentan en un duelo lleno de emoción, caídas espectaculares y diversión. ¿Qué pueblo cantará victoria?
-· País: España
-· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
-· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
-  </programme>
-  <programme start="20260803035500 +0200" stop="20260803060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260803060000 +0200" stop="20260803070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260803070000 +0200" stop="20260803083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
@@ -70,7 +50,7 @@
   </programme>
   <programme start="20260803153500 +0200" stop="20260803154000 +0200" channel="La 1">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | ★6.2/10
+    <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -82,14 +62,14 @@
   </programme>
   <programme start="20260803155000 +0200" stop="20260803174500 +0200" channel="La 1">
     <title>Directo al grano T2 E151</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Magacín conducido por Martín Barreiro y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Gonzalo Miró.</desc>
   </programme>
   <programme start="20260803174500 +0200" stop="20260803183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E37</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★5.2/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★5.8/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -106,8 +86,8 @@
   </programme>
   <programme start="20260803193500 +0200" stop="20260803202500 +0200" channel="La 1">
     <title>Malas lenguas T2 E223</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
-· Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
+· Gonzalo Miró presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
@@ -120,7 +100,7 @@
   </programme>
   <programme start="20260803205500 +0200" stop="20260803214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -135,7 +115,7 @@
   </programme>
   <programme start="20260803214500 +0200" stop="20260804004000 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Altura vs Pradejón</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.0/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★5.8/10
 · ¡Cuarto programa de El grand prix del verano 2026! Altura, con camiseta azul, salta a la pista de juegos con Fonsi Nieto como padrino. El equipo amarillo, Pradejón, cuenta con la energía de la cantante Soraya como madrina.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -143,7 +123,7 @@
   </programme>
   <programme start="20260804004000 +0200" stop="20260804034000 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · San Juan de la Rambla vs Quintanar del Rey</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.4/10
 · ¡Llega el tercer programa de El grand prix del verano 2026! San Juan de la Rambla (Tenerife) contará con la atleta paralímpica Desirée Vila como madrina, mientras que Quintanar del Rey (Cuenca) tendrá el apoyo del actor Secun de la Rosa.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -247,7 +227,7 @@
   </programme>
   <programme start="20260804205500 +0200" stop="20260804214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -779,104 +759,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260803000020 +0000" stop="20260803014405 +0000">
-    <title>Buenos Vecinos</title>
-    <episode-num system="original-air-date">20110729000000 +0000</episode-num>
-    <desc>Víctor intenta hacer amigos en Montreal mientras un asesino acecha.</desc>
-    <icon src="https://images.pluto.tv/episodes/68ff959bd70c07ace88be079/poster_1761585069352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110729</date>
-    <series-id system="pluto">68ff959bd70c07ace88be05b</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-    <category>Romantic comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803014405 +0000" stop="20260803031325 +0000">
-    <title>Ceros y unos</title>
-    <episode-num system="original-air-date">20210714000000 +0000</episode-num>
-    <desc>Un soldado investiga una amenaza terrorista en una Roma en estado de emergencia.</desc>
-    <icon src="https://images.pluto.tv/episodes/69fb6f654c1064447fbd87fb/poster_1778085734850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20210714</date>
-    <series-id system="pluto">69fb6f644c1064447fbd87db</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803031325 +0000" stop="20260803031825 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803031825 +0000" stop="20260803045625 +0000">
-    <title>Tipos Legales</title>
-    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
-    <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876b04e26cc40014b2b7e5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120101</date>
-    <series-id system="pluto">62876b03e26cc40014b2b7de</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803045625 +0000" stop="20260803050125 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803050125 +0000" stop="20260803064825 +0000">
-    <title>Siempre a tu lado Hachiko</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Basada en una historia real, la película narra la historia de amistad entre un profesor universitario y Hachi, el perro de Akita. Hachi, símbolo de la lealtad y la amistad, esperará en la estación pacientemente a un dueño que puede que no vuelva nunca.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f4f5cccfa72a5001a5fd796/poster_1769032801832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20080101</date>
-    <series-id system="pluto">5f4f5ccafa72a5001a5fd78e</series-id>
-    <category>Drama</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803064825 +0000" stop="20260803085208 +0000">
-    <title>ISRA-88</title>
-    <episode-num system="original-air-date">20170207000000 +0000</episode-num>
-    <desc>Un científico y un piloto se ofrecen voluntarios para una misión de alto nivel destinada a llegar al fin del universo. Después de 13 años, la nave se estrella en el fin del universo y se adentra en lo desconocido.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a2827a5a87694f996fd4c17/poster_1781016486208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20170207</date>
-    <series-id system="pluto">6a2827a3a87694f996fd4bf7</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803085208 +0000" stop="20260803102714 +0000">
-    <title>Código fuente</title>
-    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
-    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
-    <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110420</date>
-    <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Science fiction</category>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260803102714 +0000" stop="20260803124158 +0000">
-    <title>The Ghost Writer</title>
-    <episode-num system="original-air-date">20100218000000 +0000</episode-num>
-    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
-    <icon src="https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster_1781251202413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20100218</date>
-    <series-id system="pluto">6735d3fdb7ea5e0013a6a2c0</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260803124158 +0000" stop="20260803141158 +0000">
     <title>Tapas</title>
     <episode-num system="original-air-date">20050101000000 +0000</episode-num>
@@ -884,8 +766,8 @@
     <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20050101</date>
     <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
-    <category>Comedy</category>
     <category>Movie</category>
+    <category>Comedy</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260803141158 +0000" stop="20260803165558 +0000">
     <title>La decisión de Sophie</title>
@@ -894,8 +776,8 @@
     <icon src="https://images.pluto.tv/episodes/62384c84ff21e500131cb334/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19820101</date>
     <series-id system="pluto">62384c82ff21e500131cb32d</series-id>
-    <category>Biographical Drama</category>
     <category>Drama</category>
+    <category>Biographical Drama</category>
     <category>Movie</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260803165558 +0000" stop="20260803183146 +0000">
@@ -907,5 +789,105 @@
     <series-id system="pluto">68ff8ea569032f4edf06e0c7</series-id>
     <category>Drama</category>
     <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803183146 +0000" stop="20260803202746 +0000">
+    <title>Transsiberian</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Tras una temporada en Pekín, Roy y Jessie deciden viajar a Moscú en el Transiberiano, el ferrocarril que une la Rusia europea con las provincias rusas del Lejano Oriente.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">62876ae4e26cc40014b29aa5</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803202746 +0000" stop="20260803225105 +0000">
+    <title>Resistencia</title>
+    <episode-num system="original-air-date">20081231000000 +0000</episode-num>
+    <desc>Bielorrusia, 1941. Tres hermanos judíos logran escapar de una muerte segura y se refugian en los bosques, que conocen desde su infancia. Protagonizada por Daniel Craig (Casino Royale) y dirigida por Edward Zwick (Diamante de sangre).</desc>
+    <icon src="https://images.pluto.tv/episodes/68ef4d8733c9798391251735/poster_1776683794470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20081231</date>
+    <series-id system="pluto">68ef4d8533c9798391251717</series-id>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260803225105 +0000" stop="20260804003437 +0000">
+    <title>Movie 43</title>
+    <episode-num system="original-air-date">20121216000000 +0000</episode-num>
+    <desc>Antología de historias cómicas y absurdas protagonizadas por numerosos actores famosos: Hugh Jackman, Richard Gere, Emma Stone, Halle Berry, Kate Winslet o Naomi Watts.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6c89a3d970fa62b0f773/poster_1778085002652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20121216</date>
+    <series-id system="pluto">69fb6c88a3d970fa62b0f753</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804003437 +0000" stop="20260804020357 +0000">
+    <title>Ceros y unos</title>
+    <episode-num system="original-air-date">20210714000000 +0000</episode-num>
+    <desc>Un soldado investiga una amenaza terrorista en una Roma en estado de emergencia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69fb6f654c1064447fbd87fb/poster_1778085734850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210714</date>
+    <series-id system="pluto">69fb6f644c1064447fbd87db</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804020357 +0000" stop="20260804020857 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804020857 +0000" stop="20260804035212 +0000">
+    <title>El último hijo</title>
+    <episode-num system="original-air-date">20210813000000 +0000</episode-num>
+    <desc>El forajido Isaac LeMay está en las últimas, perseguido como un perro. Está dispuesto a acabar con todo, pero su maldición permanece. Su hijo Cal es aún peor que él, y deja un reguero de sangre y destrucción por donde pasa.</desc>
+    <icon src="https://images.pluto.tv/episodes/685297f9b66727eb74e9e7f5/poster_1750243323978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210813</date>
+    <series-id system="pluto">685297f8b66727eb74e9e7d5</series-id>
+    <category>Action</category>
+    <category>Adventure</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804035212 +0000" stop="20260804035512 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E107</episode-num>
+    <episode-num system="pluto">685bc059156c3ca040eaeb9e</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV ES</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804035512 +0000" stop="20260804040012 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
+    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
+    <desc>Fillers Pluto TV</desc>
+    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
+    <sub-title>Disponible en Pluto TV</sub-title>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260804040012 +0000" stop="20260804053012 +0000">
+    <title>Tapas</title>
+    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
+    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20050101</date>
+    <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
+    <category>Movie</category>
+    <category>Comedy</category>
   </programme>
 </tv>
