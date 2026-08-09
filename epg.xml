@@ -11,30 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260809010500 +0200" stop="20260809024500 +0200" channel="La 1">
-    <title>Las ovejas no pierden el tren</title>
-    <desc>Cine,Comedia | 2014 | ⑫ | ★6.6/10
-· Luisa y Alberto se han visto obligados a irse a vivir al campo, pero la idílica vida rural enseguida empieza a mostrar su cara menos amable. A pesar de que la pareja no atraviesa por sus mejores momentos, Luisa está obsesionada con tener un segundo hijo,.
-· País: España
-· Dirección: Álvaro Fernández Armero.
-· Reparto: Raúl Arévalo, Inma Cuesta, Alberto San Juan, Candela Peña, Jorge Bosch, Irene Escolar, Kiti Mánver.
-· Guion: Álvaro Fernández Armero.
-· Música: Mikel Salas.
-· Producción: Juan Gordon.
-· Productora: Morena Films S.L, Televisión Española (TVE), Canal+ España.</desc>
-  </programme>
-  <programme start="20260809024500 +0200" stop="20260809060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260809060000 +0200" stop="20260809070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260809070000 +0200" stop="20260809094000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
@@ -73,7 +49,7 @@
   </programme>
   <programme start="20260809145500 +0200" stop="20260809154500 +0200" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | ★4.2/10
+    <desc>Información,Informativo | 2021 | TP | ★4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -96,7 +72,7 @@
   </programme>
   <programme start="20260809155500 +0200" stop="20260809180000 +0200" channel="La 1">
     <title>El guardaespaldas</title>
-    <desc>Cine,Drama romántico | 1992 | ⑫ | ★7.4/10
+    <desc>Cine,Drama romántico | 1992 | ⑯ | ★7.4/10
 · Rachel Marron es una famosa cantante y actriz que recibe amenazas de muerte a través de cartas anónimas, sin ella saberlo. Su entorno contrata al experto guardaespaldas, Frank Farmer, para que la proteja.
 · País: Estados Unidos
 · Dirección: Mick Jackson.
@@ -127,7 +103,7 @@
   </programme>
   <programme start="20260809205500 +0200" stop="20260809215000 +0200" channel="La 1">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | ★4.0/10
+    <desc>Información,Informativo | 2017 | TP | ★4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -188,7 +164,7 @@
   </programme>
   <programme start="20260810070000 +0200" stop="20260810083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | ★6.0/10
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -202,15 +178,15 @@
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260810103500 +0200" stop="20260810145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+    <title>Mañaneros 360 T2 E241</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+· Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
+· Presenta: Adela González, Aida Bao.</desc>
   </programme>
   <programme start="20260810145500 +0200" stop="20260810153000 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | ★6.2/10
+    <desc>Información,Informativo | 2014 | TP | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -260,16 +236,16 @@
 · Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260810193500 +0200" stop="20260810202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E228</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260810202500 +0200" stop="20260810205500 +0200" channel="La 1">
     <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
@@ -283,14 +259,14 @@
   </programme>
   <programme start="20260810214000 +0200" stop="20260810214500 +0200" channel="La 1">
     <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | ★6.0/10
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260810214500 +0200" stop="20260811004000 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Pravia vs Serraniillos del Valle</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.0/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.6/10
 · La quinta entrega enfrenta a Pravia (Asturias) y Serranillos del Valle (Madrid). La influencer Ivana Rodríguez es la madrina de los asturianos, mientras que el cómico Raúl Pérez es el padrino de los madrileños.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -803,63 +779,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260809011410 +0000" stop="20260809034026 +0000">
-    <title>Brimstone. La hija del predicador</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>A finales del siglo XIX, Liz es una madre joven que intenta huir de su pasado mientras es perseguida por un diabólico predicador, que ha llegado al pueblo donde vive ella.</desc>
-    <icon src="https://images.pluto.tv/episodes/675aa8f35548db4d15b70eab/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160101</date>
-    <series-id system="pluto">675aa8f15548db4d15b70e87</series-id>
-    <category>Movie</category>
-    <category>Western</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260809034026 +0000" stop="20260809034526 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260809034526 +0000" stop="20260809053943 +0000">
-    <title>La felicidad nunca viene sola</title>
-    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
-    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120627</date>
-    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260809053943 +0000" stop="20260809054443 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260809054443 +0000" stop="20260809074718 +0000">
-    <title>Albert Nobbs</title>
-    <episode-num system="original-air-date">20110831000000 +0000</episode-num>
-    <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110831</date>
-    <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Drama</category>
-    <category>Movie</category>
-    <category>Independent Drama</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260809074718 +0000" stop="20260809093516 +0000">
     <title>La sombra del cazador</title>
     <episode-num system="original-air-date">20070921000000 +0000</episode-num>
@@ -878,9 +797,9 @@
     <icon src="https://images.pluto.tv/episodes/6735c484b7ea5e0013a68055/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20061213</date>
     <series-id system="pluto">6735c483b7ea5e0013a68033</series-id>
-    <category>Drama</category>
     <category>Movie</category>
     <category>Historical Drama</category>
+    <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260809115210 +0000" stop="20260809132453 +0000">
     <title>Aprendiz de gigoló</title>
@@ -899,8 +818,8 @@
     <icon src="https://images.pluto.tv/episodes/6062dc43a224c9001bb829d3/poster_1778510522199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20140804</date>
     <series-id system="pluto">6062dc41a224c9001bb829c0</series-id>
-    <category>Drama</category>
     <category>Movie</category>
+    <category>Drama</category>
     <category>Independent Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260809153553 +0000" stop="20260809184853 +0000">
@@ -912,5 +831,47 @@
     <series-id system="pluto">627b5b7fe500b000135db308</series-id>
     <category>Movie</category>
     <category>Reality</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260809184853 +0000" stop="20260809204453 +0000">
+    <title>Transsiberian</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Tras una temporada en Pekín, Roy y Jessie deciden viajar a Moscú en el Transiberiano, el ferrocarril que une la Rusia europea con las provincias rusas del Lejano Oriente.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">62876ae4e26cc40014b29aa5</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260809204453 +0000" stop="20260809224053 +0000">
+    <title>Réquiem Por Un Sueño</title>
+    <episode-num system="original-air-date">20001006000000 +0000</episode-num>
+    <desc>Cuatro personas luchan contra drogadicciones cada vez más insaciables, y a pesar de sus buenas intenciones, las drogas ganan y sus vidas entran en una espiral sin control.</desc>
+    <icon src="https://images.pluto.tv/episodes/61dec51c635aeb001ac7d792/poster_1753115707031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20001006</date>
+    <series-id system="pluto">61dec51a635aeb001ac7d78c</series-id>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260809224053 +0000" stop="20260810002055 +0000">
+    <title>Sin rastro (Gone)</title>
+    <episode-num system="original-air-date">20120221000000 +0000</episode-num>
+    <desc>La policía no la cree, así que una mujer (Amanda Seyfried) emprende en solitario la búsqueda del asesino en serie del que escapó en el pasado y que ahora cree que ha secuestrado a su hermana.</desc>
+    <icon src="https://images.pluto.tv/episodes/6729fab5b7ea5e0013fbd796/poster_1776174482126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120221</date>
+    <series-id system="pluto">6729fab3b7ea5e0013fbd775</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260810002055 +0000" stop="20260810020052 +0000">
+    <title>Arturo y Merlín: Caballeros de Camelot</title>
+    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
+    <desc>El rey Arturo regresa tras la guerra y descubre que su hijo ilegítimo ha usurpado el trono de Camelot, por lo que deberá reunirse con Merlín y los Caballeros de la Mesa Redonda para recuperarlo.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a0b4159df4ded48bc7d9931/poster_1779122522381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20200101</date>
+    <series-id system="pluto">6a0b4158df4ded48bc7d9912</series-id>
+    <category>Movie</category>
+    <category>Adventure</category>
+    <category>Action</category>
   </programme>
 </tv>
