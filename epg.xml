@@ -11,33 +11,9 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260810020500 +0200" stop="20260810040500 +0200" channel="La 1">
-    <title>Judas y el mesías negro</title>
-    <desc>Cine,Drama | 2021 | ⑯ | ★6.6/10
-· Chicago, 1968. Tras hacerse pasar por agente federal y robar un coche, Bill O'Neal, un delincuente de poca monta, es arrestado. Ahora tiene dos opciones: pasar más de 5 años en la cárcel o aceptar la oferta del FBI de infiltrarse en los Panteras Negras.
-· País: Estados Unidos
-· Dirección: Shaka King.
-· Reparto: Daniel Kaluuya, LaKeith Stanfield, Jesse Plemons, Dominique Fishback, Ashton Sanders, Algee Smith, Martin Sheen.
-· Guion: Shaka King, Keith Lucas, Will Berson, Kenny Lucas.
-· Música: Craig Harris, Mark Isham.
-· Producción: Shaka King, Ryan Coogler.
-· Productora: BRON Studios, Participant Productions, MACRO.</desc>
-  </programme>
-  <programme start="20260810040500 +0200" stop="20260810060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260810060000 +0200" stop="20260810070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260810070000 +0200" stop="20260810083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | ★6.0/10
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -52,7 +28,7 @@
   </programme>
   <programme start="20260810103500 +0200" stop="20260810145500 +0200" channel="La 1">
     <title>Mañaneros 360 T2 E241</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
@@ -93,7 +69,7 @@
   </programme>
   <programme start="20260810174500 +0200" stop="20260810183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E42</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★5.4/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★5.6/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -147,7 +123,7 @@
   </programme>
   <programme start="20260811004000 +0200" stop="20260811031500 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Altura vs Pradejón</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.4/10
 · ¡Cuarto programa de El grand prix del verano 2026! Altura, con camiseta azul, salta a la pista de juegos con Fonsi Nieto como padrino. El equipo amarillo, Pradejón, cuenta con la energía de la cantante Soraya como madrina.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -161,7 +137,7 @@
   </programme>
   <programme start="20260811060000 +0200" stop="20260811075000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | ★6.0/10
+    <desc>Información,Informativo | 2023 | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -177,9 +153,9 @@
   <programme start="20260811103500 +0200" stop="20260811145500 +0200" channel="La 1">
     <title>Mañaneros 360 T2</title>
     <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
-· Presenta: Adela González, Javier Ruiz.</desc>
+· Presenta: Adela González, Aida Bao.</desc>
   </programme>
   <programme start="20260811145500 +0200" stop="20260811153500 +0200" channel="La 1">
     <title>Telediario 1</title>
@@ -251,7 +227,7 @@
   </programme>
   <programme start="20260811205500 +0200" stop="20260811214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -266,7 +242,7 @@
   </programme>
   <programme start="20260811214500 +0200" stop="20260811230000 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.4/10
 · Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -274,7 +250,7 @@
   </programme>
   <programme start="20260811230000 +0200" stop="20260812004000 +0200" channel="La 1">
     <title>Al cielo con ella</title>
-    <desc>Entretenimiento,Tertulia | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Tertulia | 2026 | ⑯ | ★6.2/10
 · Henar Álvarez presenta un programa de entrevistas gamberras y reivindicativas.
 · País: España
 · Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
@@ -687,85 +663,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260810002055 +0000" stop="20260810020052 +0000">
-    <title>Arturo y Merlín: Caballeros de Camelot</title>
-    <episode-num system="original-air-date">20200101000000 +0000</episode-num>
-    <desc>El rey Arturo regresa tras la guerra y descubre que su hijo ilegítimo ha usurpado el trono de Camelot, por lo que deberá reunirse con Merlín y los Caballeros de la Mesa Redonda para recuperarlo.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b4159df4ded48bc7d9931/poster_1779122522381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20200101</date>
-    <series-id system="pluto">6a0b4158df4ded48bc7d9912</series-id>
-    <category>Adventure</category>
-    <category>Movie</category>
-    <category>Action</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810020052 +0000" stop="20260810034923 +0000">
-    <title>Ir a perderlo y perderse</title>
-    <episode-num system="original-air-date">19820820000000 +0000</episode-num>
-    <desc>En 1965, cuatro adolescentes viajan a Tijuana para pasar una noche de fiesta, cuando se les une un ama de casa con el corazón roto que está en la ciudad buscando un rápido divorcio.</desc>
-    <icon src="https://images.pluto.tv/episodes/69a16df16607b6b727172b47/poster_1772553584561.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19820820</date>
-    <series-id system="pluto">69a16df06607b6b727172b27</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810034923 +0000" stop="20260810035723 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E105</episode-num>
-    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810035723 +0000" stop="20260810055323 +0000">
-    <title>Transsiberian</title>
-    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Tras una temporada en Pekín, Roy y Jessie deciden viajar a Moscú en el Transiberiano, el ferrocarril que une la Rusia europea con las provincias rusas del Lejano Oriente.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20080101</date>
-    <series-id system="pluto">62876ae4e26cc40014b29aa5</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810055323 +0000" stop="20260810060123 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E105</episode-num>
-    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810060123 +0000" stop="20260810080358 +0000">
-    <title>Albert Nobbs</title>
-    <episode-num system="original-air-date">20110831000000 +0000</episode-num>
-    <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110831</date>
-    <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260810080358 +0000" stop="20260810093904 +0000">
-    <title>Código fuente</title>
-    <episode-num system="original-air-date">20110420000000 +0000</episode-num>
-    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
-    <icon src="https://images.pluto.tv/episodes/672dcc142678a50014518e59/poster_1776175563370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110420</date>
-    <series-id system="pluto">672dcc122678a50014518e37</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
-    <category>Action</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260810093904 +0000" stop="20260810111147 +0000">
     <title>Aprendiz de gigoló</title>
     <episode-num system="original-air-date">20130831000000 +0000</episode-num>
@@ -784,8 +681,8 @@
     <date>20150118</date>
     <series-id system="pluto">60d0438228f1d30013ed3e9b</series-id>
     <category>Drama</category>
-    <category>Independent Drama</category>
     <category>Movie</category>
+    <category>Independent Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260810130647 +0000" stop="20260810152017 +0000">
     <title>La casa de la esperanza</title>
@@ -795,8 +692,8 @@
     <date>20170324</date>
     <series-id system="pluto">672dcaa04ad856001364e544</series-id>
     <category>Drama</category>
-    <category>Historical Drama</category>
     <category>Movie</category>
+    <category>Historical Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260810152017 +0000" stop="20260810171434 +0000">
     <title>La felicidad nunca viene sola</title>
@@ -817,5 +714,46 @@
     <series-id system="pluto">5f523c65db45a1001a79adc9</series-id>
     <category>Movie</category>
     <category>Comedy</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260810185434 +0000" stop="20260810205005 +0000">
+    <title>Por la piel de un policía</title>
+    <episode-num system="original-air-date">19810909000000 +0000</episode-num>
+    <desc>Víctima de manipulación, todos los policías de la ciudad buscan al policía Choucas por dos asesinatos.</desc>
+    <icon src="https://images.pluto.tv/episodes/695b7d93b259a78ff014f731/poster_1767628446268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19810909</date>
+    <series-id system="pluto">695b7d93b259a78ff014f710</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260810205005 +0000" stop="20260810234113 +0000">
+    <title>Calígula</title>
+    <episode-num system="original-air-date">19790814000000 +0000</episode-num>
+    <desc>Detalla la historia impactante, pero innegablemente trágica, del césar más infame de Roma, Calígula.</desc>
+    <icon src="https://images.pluto.tv/episodes/695b8063bd4e7744e7336434/poster_1767604325302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19790814</date>
+    <series-id system="pluto">695b8062bd4e7744e7336413</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+    <category>Adventure</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260810234113 +0000" stop="20260811012356 +0000">
+    <title>Mátalos suavemente</title>
+    <episode-num system="original-air-date">20120101000000 +0000</episode-num>
+    <desc>Un sicario es contratado para investigar un robo relacionado con la mafia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef4751a68b1a2a811c8917/poster_1777987081928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20120101</date>
+    <series-id system="pluto">69ef4750a68b1a2a811c88f8</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260811012356 +0000" stop="20260811030408 +0000">
+    <title>La fuerza de la sangre</title>
+    <episode-num system="original-air-date">19950513000000 +0000</episode-num>
+    <desc>Cuando una operación sale mal y el compañero del agente del FBI Zack muere, su búsqueda del responsable le lleva hasta una yakuza en Japón. Un jefe de la mafia quiere vengarse por la muerte de su hijo y Zack es su objetivo.</desc>
+    <icon src="https://images.pluto.tv/episodes/69a068616d7de5ca369b4b1e/poster_1772463641971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19950513</date>
+    <series-id system="pluto">69a068606d7de5ca369b4afe</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
   </programme>
 </tv>
