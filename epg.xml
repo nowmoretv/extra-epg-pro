@@ -11,34 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260814013000 +0200" stop="20260814024500 +0200" channel="La 1">
-    <title>Ordena tu vida T1 E2 · Sin visitas por vergüenza</title>
-    <desc>Series,Drama | 2026 | TP | ★6.8/10
-· Inés Hernand y su equipo se enfrentan al reto de ordenar el hogar de Pachi y sus hijas.
-· País: España
-· Presenta: Inés Hernand.
-· Productora: Radio Televisión Española (RTVE), Lavinia Audiovisual.</desc>
-  </programme>
-  <programme start="20260814024500 +0200" stop="20260814040000 +0200" channel="La 1">
-    <title>Ordena tu vida T1 E1 · Acumuladores profesionales</title>
-    <desc>Series,Drama | 2026 | TP | ★6.2/10
-· Aitana y Nasser han formado una familia numerosa con 4 hijos. Son padres trabajadores, y el poco tiempo libre lo dedican a estar en familia, no a ordenar. El resultado: objetos acumulados y zapatos desparejados.
-· País: España
-· Presenta: Inés Hernand.
-· Productora: Radio Televisión Española (RTVE), Lavinia Audiovisual.</desc>
-  </programme>
-  <programme start="20260814040000 +0200" stop="20260814060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260814060000 +0200" stop="20260814070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260814070000 +0200" stop="20260814083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
@@ -49,7 +21,7 @@
   </programme>
   <programme start="20260814083000 +0200" stop="20260814103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 E160</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -117,11 +89,11 @@
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260814202500 +0200" stop="20260814205500 +0200" channel="La 1">
-    <title>Aquí la Tierra T15</title>
-    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+    <title>Aquí la Tierra T15 E801</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★5.8/10
 · Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Marc Santandreu.</desc>
   </programme>
   <programme start="20260814205500 +0200" stop="20260814214000 +0200" channel="La 1">
     <title>Telediario 2</title>
@@ -164,46 +136,52 @@
   </programme>
   <programme start="20260815013500 +0200" stop="20260815060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
   <programme start="20260815060000 +0200" stop="20260815070000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260815070000 +0200" stop="20260815111500 +0200" channel="La 1">
+  <programme start="20260815070000 +0200" stop="20260815100000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260815111500 +0200" stop="20260815114500 +0200" channel="La 1">
-    <title>Audiencia abierta</title>
-    <desc>Información,Política | 2012 | TP | ★6.0/10
-· Espacio semanal de servicio público sobre la Jefatura del Estado.
-· País: España
-· Dirección: Miguel Ángel Sacaluga.</desc>
-  </programme>
-  <programme start="20260815114500 +0200" stop="20260815133000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele</title>
-    <desc>Entretenimiento,Zapping | 2024 | TP | ★6.0/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+  <programme start="20260815100000 +0200" stop="20260815110000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T10 · Programación infantil</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.0/10
+· "Viaje al centro de la tele" quiere que rememoremos los programas infantiles.
 · País: España
 · Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260815133000 +0200" stop="20260815145500 +0200" channel="La 1">
-    <title>D Corazón T3</title>
+  <programme start="20260815110000 +0200" stop="20260815120500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele exprés T1 · Especial tocata, ilustres visitantes (Primera parte)</title>
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.4/10
+· Primera entrega dedicada al programa musical Tocata.
+· País: España</desc>
+  </programme>
+  <programme start="20260815120500 +0200" stop="20260815130500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T10 · De todo corazón, corazón</title>
+    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.2/10
+· Un viaje por los mejores momentos de los diecisiete años de emisión del programa Corazón.
+· País: España
+· Dirección: Pedro Santos.</desc>
+  </programme>
+  <programme start="20260815130500 +0200" stop="20260815145500 +0200" channel="La 1">
+    <title>D Corazón T3 E65</title>
     <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.0/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+· Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
   <programme start="20260815145500 +0200" stop="20260815154500 +0200" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | ★4.2/10
+    <desc>Información,Informativo | 2021 | ★4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -224,24 +202,53 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260815155500 +0200" stop="20260815174000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260815155500 +0200" stop="20260815173000 +0200" channel="La 1">
+    <title>Amor con preaviso</title>
+    <desc>Cine,Comedia romántica | 2002 | TP | ★7.0/10
+· Lucy Kelson, una brillante abogada educada en Harvard, con una mente estratégica y concienciada socialmente, entra a trabajar, a regañadientes, para el millonario George Wade, un solterón machista que encarna todo lo que ella odia.
+· País: Australia y Estados Unidos
+· Dirección: Marc Lawrence.
+· Reparto: Hugh Grant, Sandra Bullock, Dana Ivey, Robert Klein, David Haig, Dorian Missick, Jason Antoon, Heather Burns, Alicia Witt.
+· Guion: Marc Lawrence.
+· Música: John Powell.
+· Producción: Sandra Bullock.
+· Productora: Warner Bros. Pictures, Castle Rock Entertainment, Village Roadshow Pictures, Fortis Films Productions, NPV Entertainment.</desc>
   </programme>
-  <programme start="20260815174000 +0200" stop="20260815201500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260815173000 +0200" stop="20260815190500 +0200" channel="La 1">
+    <title>Loca obsesión</title>
+    <desc>Cine,Comedia | 2009 | TP | ★6.0/10
+· Para Mary, nada es normal, sobre todo su relación con los demás. Cuando le organizan una cita a ciegas con el apuesto operador de cámara Steve, Mary cree que la química entre ellos es evidente...mientras que Steve piensa que Mary está completamente loca.
+· País: Estados Unidos
+· Dirección: Phil Traill, Philip Traill.
+· Reparto: Sandra Bullock, Howard Hesseman, Keith David, DJ Qualls, Bradley Cooper, Beth Grant, Thomas Haden Church, Katy Mixon, Ken Jeong.
+· Guion: Kim Barker.
+· Música: Christophe Beck.
+· Producción: Sandra Bullock, Mary McLaglen.
+· Productora: Fortis Films Productions, Fox 2000 Pictures, Radar Pictures Inc.</desc>
   </programme>
-  <programme start="20260815201500 +0200" stop="20260815205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+  <programme start="20260815190500 +0200" stop="20260815192000 +0200" channel="La 1">
+    <title>Cine de barrio</title>
+    <desc>Cine,Programa de cine | 1995 | TP | ★6.0/10
+· Proyección de una película española y tertulia relajada y amistosa con los protagonistas de la misma. Los invitados son actores de la gran pantalla de toda la vida, que a parte de presentar el filme, informan de sus planes profesionales.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Inés Ballester.
+· Dirección: Francisco Quintanar.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260815192000 +0200" stop="20260815205500 +0200" channel="La 1">
+    <title>Los pecados de una chica casi decente</title>
+    <desc>Cine,Comedia | 1975 | ⑫ | ★6.2/10
+· En un pueblo italiano, el cura intenta que nadie cuente al obispo que el novio de su hermana apareció muerto en la cama de su suegra.
+· País: España
+· Dirección: Mariano Ozores.
+· Reparto: Lina Morgan, Alfredo Landa, Antonio Ferrandis, Queta Claver, Rafael R. Téllez, Ángel Menéndez, Francisco Camoiras, Adrián Ortega, Joaquín Roa, Pedro Valentín.
+· Guion: Mariano Ozores, Pedro Mario Herrero.
+· Producción: Julián Esteban.
+· Productora: Producciones Cinematográficas D.I.A., Lotus Films.</desc>
   </programme>
   <programme start="20260815205500 +0200" stop="20260815212500 +0200" channel="La 1">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | TP | ★4.0/10
+    <desc>Información,Informativo | 2017 | ★4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -255,27 +262,48 @@
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
   <programme start="20260815213000 +0200" stop="20260815220500 +0200" channel="La 1">
-    <title>Informe Semanal T25/26</title>
-    <desc>Información,Reportaje | 2025 | ⑦ | ★6.0/10
+    <title>Informe Semanal T25/26 E46</title>
+    <desc>Información,Reportaje | 2026 | ⑦ | ★6.0/10
 · Cuatro reportajes de media hora de la actualidad nacional e internacional.
 · País: España
 · Presenta: Lourdes Maldonado.
 · Dirección: Jenaro Castro Muiña.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260815220500 +0200" stop="20260815234000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260815220500 +0200" stop="20260815235500 +0200" channel="La 1">
+    <title>Pídeme lo que quieras</title>
+    <desc>Cine,Drama | 2024 | ⑯ | ★6.2/10
+· Eric Zimmerman viaja a España. En Madrid, se enamora de Judith y viven una relación intensa. Pero Eric teme que su secreto pueda terminar su romance.
+· País: España
+· Dirección: Lucía Alemany.
+· Reparto: Gabriela Andrada, Mario Ermito, Celia Freijeiro, David Solans, Alba Ribas.
+· Guion: Ivy Hesh.
+· Música: Vanessa Garde.
+· Productora: Versus Entertainment.</desc>
   </programme>
-  <programme start="20260815234000 +0200" stop="20260816015500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260815235500 +0200" stop="20260816013000 +0200" channel="La 1">
+    <title>Poliamor para principiantes</title>
+    <desc>Cine,Comedia | 2021 | ⑫ | ★5.6/10
+· Manu, 28 años, es un friki romántico e intento de youtuber que aún vive con sus padres. Conoce a Amanda, doctora que practica el poliamor, de la que no puede evitar enamorarse. Tendrá pues que pelearse por convertirse en protagonista de esta relación.
+· País: España y Francia
+· Dirección: Fernando Colomo.
+· Reparto: Karra Elejalde, Quim Àvila, María Pedraza, Toni Acosta.
+· Guion: Fernando Colomo, Casandra Macías Gago, Marina Maesso.
+· Productora: Morena Films S.L, Ran Entertainment, Amazon Prime Video.</desc>
   </programme>
-  <programme start="20260816015500 +0200" stop="20260816032500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260816013000 +0200" stop="20260816025500 +0200" channel="La 1">
+    <title>Anacleto: Agente secreto</title>
+    <desc>Cine,Comedia | 2015 | ⑯ | ★6.2/10
+· Adolfo, un desventurado guardia de seguridad, se convierte en el objetivo de un peligroso criminal.
+· País: España
+· Dirección: Javier Ruiz Caldera.
+· Reparto: Imanol Arias, Quim Gutiérrez, Berto Romero, Alexandra Jiménez, Emilio Gutiérrez Caba, Carlos Areces.
+· Guion: Pablo Alén, Breixo Corral, Fernando Navarro.
+· Música: Javier Rodero.
+· Producción: Francisco Ramos, Gabriel Arias-Salgado, Axel Kuschevatzky.
+· Productora: Telefonica Studios, Zeta Audiovisual, Agente Secreto 2015.</desc>
   </programme>
-  <programme start="20260816032500 +0200" stop="20260816060000 +0200" channel="La 1">
+  <programme start="20260816025500 +0200" stop="20260816060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
@@ -613,82 +641,87 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260814004019 +0000" stop="20260814030431 +0000">
-    <title>Vikingos</title>
-    <episode-num system="original-air-date">20160101000000 +0000</episode-num>
-    <desc>Finales del siglo X. Tras la muerte de su padre Sviatoslav I, gobernante de la Rus de Kiev, el joven príncipe vikingo Vladimir se ve obligado a exiliarse en el mar helado para escapar de su hermanastro traidor Yaropolk.</desc>
-    <icon src="https://images.pluto.tv/episodes/64fb00253b20050013642ccb/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160101</date>
-    <series-id system="pluto">64fb00243b20050013642cac</series-id>
+  <programme channel="Pluto TV Cine Estelar" start="20260814095658 +0000" stop="20260814120041 +0000">
+    <title>ISRA-88</title>
+    <episode-num system="original-air-date">20170207000000 +0000</episode-num>
+    <desc>Un científico y un piloto se ofrecen voluntarios para una misión de alto nivel destinada a llegar al fin del universo. Después de 13 años, la nave se estrella en el fin del universo y se adentra en lo desconocido.</desc>
+    <icon src="https://images.pluto.tv/episodes/6a2827a5a87694f996fd4c17/poster_1781016486208.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20170207</date>
+    <series-id system="pluto">6a2827a3a87694f996fd4bf7</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260814120041 +0000" stop="20260814141525 +0000">
+    <title>The Ghost Writer</title>
+    <episode-num system="original-air-date">20100218000000 +0000</episode-num>
+    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+    <icon src="https://images.pluto.tv/episodes/6735d3ffb7ea5e0013a6a2e2/poster_1781251202413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100218</date>
+    <series-id system="pluto">6735d3fdb7ea5e0013a6a2c0</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260814141525 +0000" stop="20260814154722 +0000">
+    <title>La puerta</title>
+    <episode-num system="original-air-date">19870421000000 +0000</episode-num>
+    <desc>La tala de un árbol revela un misterioso agujero en el jardín de Glen, que conduce a una cámara subterránea de terror demoníaco.</desc>
+    <icon src="https://images.pluto.tv/episodes/68c03881a64d66fd0ba4156d/poster_1757659172375.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19870421</date>
+    <series-id system="pluto">68c03880a64d66fd0ba4154d</series-id>
+    <category>Movie</category>
+    <category>Cult Horror</category>
+    <category>Horror</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260814183122 +0000" stop="20260814202540 +0000">
+    <title>Negación</title>
+    <episode-num system="original-air-date">20160930000000 +0000</episode-num>
+    <desc>La prestigiosa escritora e historiadora Deborah E. Lipstadt debe luchar por la verdad histórica para demostrar que el Holocausto ocurrió realmente cuando David Irving, un renombrado negacionista, la demanda por difamación.</desc>
+    <icon src="https://images.pluto.tv/episodes/673c49ba882f6d0013a70e7c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160930</date>
+    <series-id system="pluto">673c49b8882f6d0013a70e5b</series-id>
+    <category>Movie</category>
+    <category>Biographical Drama</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260814202540 +0000" stop="20260814220552 +0000">
+    <title>La fuerza de la sangre</title>
+    <episode-num system="original-air-date">19950513000000 +0000</episode-num>
+    <desc>Cuando una operación sale mal y el compañero del agente del FBI Zack muere, su búsqueda del responsable le lleva hasta una yakuza en Japón. Un jefe de la mafia quiere vengarse por la muerte de su hijo y Zack es su objetivo.</desc>
+    <icon src="https://images.pluto.tv/episodes/69a068616d7de5ca369b4b1e/poster_1772463641971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19950513</date>
+    <series-id system="pluto">69a068606d7de5ca369b4afe</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260814220552 +0000" stop="20260815003152 +0000">
+    <title>Los amos de Brooklyn</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Tres policías (Richard Gere, Ethan Hawke y Don Cheadle), con carreras muy diferentes entre sí, coincidirán durante una redada en la zona más peligrosa de Brooklyn. Del director de la saga Equalizer y guionista de Training Day, Antoine Fuqua.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4e181efa72a5001a5fa4b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090101</date>
+    <series-id system="pluto">5f4e181dfa72a5001a5fa4ac</series-id>
+    <category>Movie</category>
     <category>Action</category>
-    <category>Foreign Action &amp; Adventure</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260815003152 +0000" stop="20260815021507 +0000">
+    <title>El último hijo</title>
+    <episode-num system="original-air-date">20210813000000 +0000</episode-num>
+    <desc>El forajido Isaac LeMay está en las últimas, perseguido como un perro. Está dispuesto a acabar con todo, pero su maldición permanece. Su hijo Cal es aún peor que él, y deja un reguero de sangre y destrucción por donde pasa.</desc>
+    <icon src="https://images.pluto.tv/episodes/685297f9b66727eb74e9e7f5/poster_1750243323978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20210813</date>
+    <series-id system="pluto">685297f8b66727eb74e9e7d5</series-id>
     <category>Movie</category>
+    <category>Adventure</category>
+    <category>Action</category>
   </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814030431 +0000" stop="20260814031231 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E105</episode-num>
-    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814031231 +0000" stop="20260814044514 +0000">
-    <title>Aprendiz de gigoló</title>
-    <episode-num system="original-air-date">20130831000000 +0000</episode-num>
-    <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b31e59db2f8937b420af3/poster_1779118566155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20130831</date>
-    <series-id system="pluto">6a0b31e49db2f8937b420ad4</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814044514 +0000" stop="20260814045014 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814045014 +0000" stop="20260814064358 +0000">
-    <title>Amor de ida y vuelta</title>
-    <episode-num system="original-air-date">20181107000000 +0000</episode-num>
-    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
-    <icon src="https://images.pluto.tv/episodes/69fb6f5f4c1064447fbcb0ae/poster_1778085728331.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20181107</date>
-    <series-id system="pluto">69fb6f5e4c1064447fbcb08f</series-id>
-    <category>Science fiction</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814064358 +0000" stop="20260814081358 +0000">
-    <title>Tapas</title>
-    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
-    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20050101</date>
-    <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
-    <category>Comedy</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260814081358 +0000" stop="20260814095658 +0000">
-    <title>Nunca es tarde para enamorarse</title>
+  <programme channel="Pluto TV Cine Estelar" start="20260815021507 +0000" stop="20260815040207 +0000">
+    <title>Siempre a tu lado Hachiko</title>
     <episode-num system="original-air-date">20080101000000 +0000</episode-num>
-    <desc>Narra la historia de Harvey (Dustin Hoffman), un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer (Emma Thompson) que le cambiará la vida.</desc>
-    <icon src="https://images.pluto.tv/episodes/5f523c1adb45a1001a79ab0b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <desc>Basada en una historia real, la película narra la historia de amistad entre un profesor universitario y Hachi, el perro de Akita. Hachi, símbolo de la lealtad y la amistad, esperará en la estación pacientemente a un dueño que puede que no vuelva nunca.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5cccfa72a5001a5fd796/poster_1769032801832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20080101</date>
-    <series-id system="pluto">5f523c19db45a1001a79ab03</series-id>
-    <category>African-American Romance</category>
-    <category>Romance</category>
+    <series-id system="pluto">5f4f5ccafa72a5001a5fd78e</series-id>
     <category>Movie</category>
+    <category>Drama</category>
   </programme>
 </tv>
