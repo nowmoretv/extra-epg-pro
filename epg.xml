@@ -11,33 +11,9 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260816013000 +0200" stop="20260816025500 +0200" channel="La 1">
-    <title>Anacleto: Agente secreto</title>
-    <desc>Cine,Comedia | 2015 | ⑯ | ★6.2/10
-· Adolfo, un desventurado guardia de seguridad, se convierte en el objetivo de un peligroso criminal.
-· País: España
-· Dirección: Javier Ruiz Caldera.
-· Reparto: Imanol Arias, Quim Gutiérrez, Berto Romero, Alexandra Jiménez, Emilio Gutiérrez Caba, Carlos Areces.
-· Guion: Pablo Alén, Breixo Corral, Fernando Navarro.
-· Música: Javier Rodero.
-· Producción: Francisco Ramos, Gabriel Arias-Salgado, Axel Kuschevatzky.
-· Productora: Telefonica Studios, Zeta Audiovisual, Agente Secreto 2015.</desc>
-  </programme>
-  <programme start="20260816025500 +0200" stop="20260816060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260816060000 +0200" stop="20260816070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260816070000 +0200" stop="20260816100500 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -64,14 +40,14 @@
   </programme>
   <programme start="20260816130500 +0200" stop="20260816145500 +0200" channel="La 1">
     <title>D Corazón T3 E66</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.0/10
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | ★6.2/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
   </programme>
   <programme start="20260816145500 +0200" stop="20260816152000 +0200" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | ★4.2/10
+    <desc>Información,Informativo | 2021 | TP | ★4.2/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -180,13 +156,13 @@
   </programme>
   <programme start="20260817034500 +0200" stop="20260817060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
   <programme start="20260817060000 +0200" stop="20260817070000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -200,21 +176,21 @@
   </programme>
   <programme start="20260817083000 +0200" stop="20260817103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 E161</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★4.8/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.4/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260817103500 +0200" stop="20260817145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+    <title>Mañaneros 360 T2 E246</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.4/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
   </programme>
   <programme start="20260817145500 +0200" stop="20260817153000 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -264,22 +240,22 @@
 · Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260817193500 +0200" stop="20260817202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E233</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260817202500 +0200" stop="20260817205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra T15 E803</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Marc Santandreu.</desc>
   </programme>
   <programme start="20260817205500 +0200" stop="20260817214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -801,58 +777,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260816010204 +0000" stop="20260816030242 +0000">
-    <title>El hombre del klan</title>
-    <episode-num system="original-air-date">19770101000000 +0000</episode-num>
-    <desc>Finales de los años sesenta. Aunque la mayoría de la población de Atoka (Alabama) es negra, está dominada por los blancos, muchos de los cuales pertenecen al "Ku-Klux-Klan", una organización racista que impone el terror.</desc>
-    <icon src="https://images.pluto.tv/episodes/695b8066bd4e7744e733da69/poster_1767604327170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19770101</date>
-    <series-id system="pluto">695b8065bd4e7744e733da49</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260816030242 +0000" stop="20260816045542 +0000">
-    <title>Mi pie izquierdo</title>
-    <episode-num system="original-air-date">19890101000000 +0000</episode-num>
-    <desc>Ganadora de Oscars (1989): Mejor Actor y Actriz secundaria. Basada en la biografía de Christy Brown. Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió su integración en la sociedad.</desc>
-    <icon src="https://images.pluto.tv/episodes/62384c89ff21e500131cb453/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19890101</date>
-    <series-id system="pluto">62384c88ff21e500131cb44c</series-id>
-    <category>Movie</category>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260816045542 +0000" stop="20260816071142 +0000">
-    <title>Pride</title>
-    <episode-num system="original-air-date">20150318000000 +0000</episode-num>
-    <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d2d7c1fad1f80013b310b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20150318</date>
-    <series-id system="pluto">60d2d7c0fad1f80013b310ae</series-id>
-    <category>Movie</category>
-    <category>Biographical Drama</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260816071142 +0000" stop="20260816090559 +0000">
-    <title>La felicidad nunca viene sola</title>
-    <episode-num system="original-air-date">20120627000000 +0000</episode-num>
-    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3aa8598bd1d6b49aee5c/poster_1777285801867.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20120627</date>
-    <series-id system="pluto">69ef3aa8598bd1d6b49aee3d</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260816090559 +0000" stop="20260816104147 +0000">
-    <title>La Mirada</title>
-    <episode-num system="original-air-date">20121121000000 +0000</episode-num>
-    <desc>Dramaturga duda entre manipulación y perder la realidad.</desc>
-    <icon src="https://images.pluto.tv/episodes/68ff8ea669032f4edf06e0e6/poster_1761579274321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20121121</date>
-    <series-id system="pluto">68ff8ea569032f4edf06e0c7</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260816104147 +0000" stop="20260816124547 +0000">
     <title>Viaje a Italia</title>
     <episode-num system="original-air-date">20140101000000 +0000</episode-num>
@@ -870,8 +794,8 @@
     <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20171225</date>
     <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
-    <category>Foreign Drama</category>
     <category>Movie</category>
+    <category>Foreign Drama</category>
     <category>Drama</category>
   </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260816150216 +0000" stop="20260816171616 +0000">
@@ -881,7 +805,60 @@
     <icon src="https://images.pluto.tv/episodes/5f4e17f1fa72a5001a5fa195/poster_1778251681980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20070101</date>
     <series-id system="pluto">5f4e17f0fa72a5001a5fa18d</series-id>
-    <category>Movie</category>
     <category>Western</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260816171616 +0000" stop="20260816190416 +0000">
+    <title>Leyenda</title>
+    <episode-num system="original-air-date">19851025000000 +0000</episode-num>
+    <desc>En una tierra donde la belleza se preserva con la inocencia de sus habitantes, dos jóvenes se encuentran en una encrucijada entre el bien y el mal.</desc>
+    <icon src="https://images.pluto.tv/episodes/6076b67c235736001ac4453d/poster_1778889602164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19851025</date>
+    <series-id system="pluto">6076b67b235736001ac44537</series-id>
+    <category>Science fiction</category>
+    <category>Movie</category>
+    <category>Classic Sci-Fi &amp; Fantasy</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260816190416 +0000" stop="20260816205916 +0000">
+    <title>Adivina quién</title>
+    <episode-num system="original-air-date">20050308000000 +0000</episode-num>
+    <desc>Un padre sarcástico (Bernie Mac) tiene mucho que decirle a su hija sobre su prometido blanco (Ashton Kutcher).</desc>
+    <icon src="https://images.pluto.tv/episodes/6076b675235736001ac4448d/poster_1779129721882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20050308</date>
+    <series-id system="pluto">6076b674235736001ac44487</series-id>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260816205916 +0000" stop="20260816233114 +0000">
+    <title>Warrior</title>
+    <episode-num system="original-air-date">20110909000000 +0000</episode-num>
+    <desc>Warrior narra la inspiradora historia de una familia rota que encuentra la redención en el lugar más insospechado: un ring de Artes Marciales Mixtas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6909c095c59f905cb0aee343/poster_1778142606203.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20110909</date>
+    <series-id system="pluto">6909c093c59f905cb0aee324</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260816233114 +0000" stop="20260817012414 +0000">
+    <title>Los Mercenarios</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>Barney Ross (Stallone) es un veterano de guerra que ha reunido a un grupo de mercenarios de élite para operaciones puntuales de rescate. No dudan en matar para conseguir sus objetivos, si bien tienen un lema muy claro: "sólo a quienes lo merezcan".</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ce0fa72a5001a5fd8f0/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100101</date>
+    <series-id system="pluto">5f4f5cdffa72a5001a5fd8e8</series-id>
+    <category>Movie</category>
+    <category>Action</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817012414 +0000" stop="20260817030015 +0000">
+    <title>Near Dark</title>
+    <episode-num system="original-air-date">19870101000000 +0000</episode-num>
+    <desc>Un joven cowboy, seducido por una chica nueva en la ciudad, descubre que ha sido mordido por un vampiro. Lentamente se convierte en una criatura de la noche alimentándose con la sangre de sus víctimas.</desc>
+    <icon src="https://images.pluto.tv/episodes/655c935212fb500013274b5d/poster_1771514391553.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19870101</date>
+    <series-id system="pluto">655c935012fb500013274b3e</series-id>
+    <category>Vampires</category>
+    <category>Movie</category>
+    <category>Horror</category>
   </programme>
 </tv>
