@@ -11,33 +11,9 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260817014500 +0200" stop="20260817034500 +0200" channel="La 1">
-    <title>La gran apuesta</title>
-    <desc>Cine,Drama | 2015 | ⑫ | ★6.8/10
-· Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: "La gran apuesta".
-· País: Estados Unidos
-· Dirección: Adam McKay.
-· Reparto: Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt, John Magaro.
-· Guion: Charles Randolph, Adam McKay.
-· Música: Nicholas Britell.
-· Producción: Brad Pitt.
-· Productora: Paramount Pictures, Regency Enterprises, Plan B Entertainment.</desc>
-  </programme>
-  <programme start="20260817034500 +0200" stop="20260817060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260817060000 +0200" stop="20260817070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
   <programme start="20260817070000 +0200" stop="20260817083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | ★6.0/10
+    <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -45,14 +21,14 @@
   </programme>
   <programme start="20260817083000 +0200" stop="20260817103500 +0200" channel="La 1">
     <title>La hora de La 1: La hora de la actualidad T9 E161</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260817103500 +0200" stop="20260817145500 +0200" channel="La 1">
     <title>Mañaneros 360 T2 E246</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
@@ -86,14 +62,14 @@
   </programme>
   <programme start="20260817155000 +0200" stop="20260817174500 +0200" channel="La 1">
     <title>Directo al grano T2 E161</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.6/10
 · Magacín conducido por Martín Barreiro y Marta Flich que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Martín Barreiro, Marta Flich.</desc>
   </programme>
   <programme start="20260817174500 +0200" stop="20260817183500 +0200" channel="La 1">
     <title>Valle Salvaje T4 E46</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★5.6/10
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.0/10
 · Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -110,7 +86,7 @@
   </programme>
   <programme start="20260817193500 +0200" stop="20260817202500 +0200" channel="La 1">
     <title>Malas lenguas T2 E233</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.6/10
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -124,7 +100,7 @@
   </programme>
   <programme start="20260817205500 +0200" stop="20260817214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -139,7 +115,7 @@
   </programme>
   <programme start="20260817214500 +0200" stop="20260818005500 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Muros vs Blanca</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.4/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.2/10
 · Muros y Blanca se enfrentan en la última batalla por una plaza en las semifinales.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -155,13 +131,13 @@
   </programme>
   <programme start="20260818032500 +0200" stop="20260818060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
   <programme start="20260818060000 +0200" stop="20260818075000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | ★6.0/10
+    <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
@@ -183,7 +159,7 @@
   </programme>
   <programme start="20260818145500 +0200" stop="20260818153500 +0200" channel="La 1">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -251,7 +227,7 @@
   </programme>
   <programme start="20260818205500 +0200" stop="20260818214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -771,108 +747,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260817012414 +0000" stop="20260817030015 +0000">
-    <title>Near Dark</title>
-    <episode-num system="original-air-date">19870101000000 +0000</episode-num>
-    <desc>Un joven cowboy, seducido por una chica nueva en la ciudad, descubre que ha sido mordido por un vampiro. Lentamente se convierte en una criatura de la noche alimentándose con la sangre de sus víctimas.</desc>
-    <icon src="https://images.pluto.tv/episodes/655c935212fb500013274b5d/poster_1771514391553.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19870101</date>
-    <series-id system="pluto">655c935012fb500013274b3e</series-id>
-    <category>Horror</category>
-    <category>Movie</category>
-    <category>Vampires</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817030015 +0000" stop="20260817030515 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817030515 +0000" stop="20260817044946 +0000">
-    <title>Perdidos en el sol</title>
-    <episode-num system="original-air-date">20151106000000 +0000</episode-num>
-    <desc>Delincuente y huérfano roban juntos.</desc>
-    <icon src="https://images.pluto.tv/episodes/68ff90046e0067f40d0d61c7/poster_1761582230902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20151106</date>
-    <series-id system="pluto">68ff90036e0067f40d0d61a8</series-id>
-    <category>Movie</category>
-    <category>Action</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817044946 +0000" stop="20260817045246 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E107</episode-num>
-    <episode-num system="pluto">685bc059156c3ca040eaeb9e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817045246 +0000" stop="20260817050046 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E105</episode-num>
-    <episode-num system="pluto">685bb385c28550566149060e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>News &amp; Information</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817050046 +0000" stop="20260817063046 +0000">
-    <title>Tapas</title>
-    <episode-num system="original-air-date">20050101000000 +0000</episode-num>
-    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
-    <icon src="https://images.pluto.tv/episodes/62876af6e26cc40014b2af56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20050101</date>
-    <series-id system="pluto">62876af4e26cc40014b2af4f</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817063046 +0000" stop="20260817082546 +0000">
-    <title>Siempre Alice</title>
-    <episode-num system="original-air-date">20150118000000 +0000</episode-num>
-    <desc>Ganadora del Oscar a Mejor Actriz (Julianne Moore), 2014. La doctora Alice Howland es una profesora casada y madre de 3 hijos, no da importancia a los pequeños lapsus hasta que debe comenzar a luchar para seguir siendo Alice.</desc>
-    <icon src="https://images.pluto.tv/episodes/60d0438328f1d30013ed3ea1/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20150118</date>
-    <series-id system="pluto">60d0438228f1d30013ed3e9b</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817082546 +0000" stop="20260817104659 +0000">
-    <title>Fahrenheit 11/9</title>
-    <episode-num system="original-air-date">20180906000000 +0000</episode-num>
-    <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
-    <icon src="https://images.pluto.tv/episodes/6a0b3a544a77e2cd15d917fa/poster_1779120725587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20180906</date>
-    <series-id system="pluto">6a0b3a534a77e2cd15d917da</series-id>
-    <category>Documentary</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260817104659 +0000" stop="20260817124117 +0000">
-    <title>Negación</title>
-    <episode-num system="original-air-date">20160930000000 +0000</episode-num>
-    <desc>La prestigiosa escritora e historiadora Deborah E. Lipstadt debe luchar por la verdad histórica para demostrar que el Holocausto ocurrió realmente cuando David Irving, un renombrado negacionista, la demanda por difamación.</desc>
-    <icon src="https://images.pluto.tv/episodes/673c49ba882f6d0013a70e7c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160930</date>
-    <series-id system="pluto">673c49b8882f6d0013a70e5b</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Biographical Drama</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260817124117 +0000" stop="20260817142834 +0000">
     <title>Juana de Arco</title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -883,8 +757,70 @@
     <date>19990516</date>
     <series-id system="pluto">68ef5b8833c9798391286c00</series-id>
     <sub-title>Parte 1</sub-title>
+    <category>Series</category>
     <category>Adventure</category>
     <category>Action</category>
-    <category>Series</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817142834 +0000" stop="20260817164434 +0000">
+    <title>Pride</title>
+    <episode-num system="original-air-date">20150318000000 +0000</episode-num>
+    <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
+    <icon src="https://images.pluto.tv/episodes/60d2d7c1fad1f80013b310b4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20150318</date>
+    <series-id system="pluto">60d2d7c0fad1f80013b310ae</series-id>
+    <category>Drama</category>
+    <category>Biographical Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817164434 +0000" stop="20260817185054 +0000">
+    <title>Rush</title>
+    <episode-num system="original-air-date">20130927000000 +0000</episode-num>
+    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
+    <icon src="https://images.pluto.tv/episodes/67371a41321c190013a008c1/poster_1776168361199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20130927</date>
+    <series-id system="pluto">67371a40321c190013a008a0</series-id>
+    <category>Blockbusters</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817185054 +0000" stop="20260817204654 +0000">
+    <title>Transsiberian</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Tras una temporada en Pekín, Roy y Jessie deciden viajar a Moscú en el Transiberiano, el ferrocarril que une la Rusia europea con las provincias rusas del Lejano Oriente.</desc>
+    <icon src="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">62876ae4e26cc40014b29aa5</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817204654 +0000" stop="20260817225854 +0000">
+    <title>¡Han llegado!</title>
+    <episode-num system="original-air-date">19960531000000 +0000</episode-num>
+    <desc>Zane, un astrónomo, descubre vida extraterrestre inteligente, pero los extraterrestres guardan un secreto mortal y harán cualquier cosa para evitar que Zane lo conozca.</desc>
+    <icon src="https://images.pluto.tv/episodes/61ea6dd2161b65001a9c2ad9/poster_1779052321138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19960531</date>
+    <series-id system="pluto">61ea6dd0161b65001a9c2ad3</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260817225854 +0000" stop="20260818004551 +0000">
+    <title>Espías desde el cielo</title>
+    <episode-num system="original-air-date">20160311000000 +0000</episode-num>
+    <desc>La coronel Katherine Powell, una oficial de la inteligencia militar británica, lidera una operación secreta para capturar a un grupo de terroristas en Nairobi, Kenia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69d8b671f22f20f768d946a7/poster_1775810171905.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160311</date>
+    <series-id system="pluto">69d8b670f22f20f768d94687</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260818004551 +0000" stop="20260818024629 +0000">
+    <title>El hombre del klan</title>
+    <episode-num system="original-air-date">19770101000000 +0000</episode-num>
+    <desc>Finales de los años sesenta. Aunque la mayoría de la población de Atoka (Alabama) es negra, está dominada por los blancos, muchos de los cuales pertenecen al "Ku-Klux-Klan", una organización racista que impone el terror.</desc>
+    <icon src="https://images.pluto.tv/episodes/695b8066bd4e7744e733da69/poster_1767604327170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19770101</date>
+    <series-id system="pluto">695b8065bd4e7744e733da49</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
   </programme>
 </tv>
