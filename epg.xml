@@ -11,21 +11,7 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260818005500 +0200" stop="20260818032500 +0200" channel="La 1">
-    <title>El Grand Prix del Verano T4 · Pravia vs Serraniillos del Valle</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★6.8/10
-· La quinta entrega enfrenta a Pravia (Asturias) y Serranillos del Valle (Madrid). La influencer Ivana Rodríguez es la madrina de los asturianos, mientras que el cómico Raúl Pérez es el padrino de los madrileños.
-· País: España
-· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
-· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
-  </programme>
-  <programme start="20260818032500 +0200" stop="20260818060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-  </programme>
-  <programme start="20260818060000 +0200" stop="20260818075000 +0200" channel="La 1">
+  <programme start="20260818070000 +0200" stop="20260818083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -33,21 +19,21 @@
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260818075000 +0200" stop="20260818103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T9</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
+  <programme start="20260818083000 +0200" stop="20260818103500 +0200" channel="La 1">
+    <title>La hora de La 1: La hora de la actualidad T9 E162</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.4/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260818103500 +0200" stop="20260818145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+    <title>Mañaneros 360 T2 E247</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
   </programme>
-  <programme start="20260818145500 +0200" stop="20260818153500 +0200" channel="La 1">
+  <programme start="20260818145500 +0200" stop="20260818153000 +0200" channel="La 1">
     <title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -55,69 +41,66 @@
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260818153500 +0200" stop="20260818154000 +0200" channel="La 1">
+  <programme start="20260818153000 +0200" stop="20260818153500 +0200" channel="La 1">
     <title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20260818154000 +0200" stop="20260818154500 +0200" channel="La 1">
+  <programme start="20260818153500 +0200" stop="20260818154000 +0200" channel="La 1">
     <title>El tiempo</title>
     <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260818154500 +0200" stop="20260818155500 +0200" channel="La 1">
+  <programme start="20260818154000 +0200" stop="20260818155000 +0200" channel="La 1">
     <title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
-  <programme start="20260818155500 +0200" stop="20260818174500 +0200" channel="La 1">
-    <title>Directo al grano T2</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+  <programme start="20260818155000 +0200" stop="20260818174500 +0200" channel="La 1">
+    <title>Directo al grano T2 E162</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Magacín conducido por Martín Barreiro y Marta Flich que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
-· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
-· Dirección: Óscar Cornejo, Ana Isabel Peces.
-· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
-· Productora: Radio Televisión Española (RTVE).</desc>
+· Presenta: Martín Barreiro, Marta Flich.</desc>
   </programme>
   <programme start="20260818174500 +0200" stop="20260818183500 +0200" channel="La 1">
-    <title>Valle Salvaje</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+    <title>Valle Salvaje T4 E47</title>
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.0/10
+· Don Hernando se presenta ante el duque para hacerle reflexionar sobre la cesión del título. ¿Conseguirá convencerle? Mientras, Bárbara y Luisa deciden contarle Rafael toda la verdad.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20260818183500 +0200" stop="20260818193500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
+    <title>La Promesa T1 E887</title>
+    <desc>Series,Drama | 2026 | ⑫ | ★6.0/10
+· Jacobo se contiene en el último momento y no golpea a Adriano. Este se lo cuenta a Martina: los enamorados se sienten perdidos, no saben qué hacer.
 · País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260818193500 +0200" stop="20260818202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E234</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.2/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260818202500 +0200" stop="20260818205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra T15 E804</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.0/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Marc Santandreu.</desc>
   </programme>
   <programme start="20260818205500 +0200" stop="20260818214000 +0200" channel="La 1">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -130,40 +113,49 @@
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20260818214500 +0200" stop="20260818230000 +0200" channel="La 1">
-    <title>El Grand Prix del Verano T4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★8.0/10
-· Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
+  <programme start="20260818214500 +0200" stop="20260818222500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T13 · Zoombados</title>
+    <desc>Entretenimiento,Zapping | 2023 | TP | ★6.0/10
+· Delirante viaje por las actuaciones musicales de los programas musicales realizados por Valerio Lazarov. Con sus llamativos zums, incrustaciones de imágenes por la técnica del croma y sus surrealistas puestas en escena.
 · País: España
-· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
-· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
+· Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260818230000 +0200" stop="20260819004000 +0200" channel="La 1">
-    <title>Al cielo con ella</title>
-    <desc>Entretenimiento,Tertulia | 2026 | ⑯ | ★6.2/10
-· Henar Álvarez presenta un programa de entrevistas gamberras y reivindicativas.
+  <programme start="20260818222500 +0200" stop="20260818230000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T14 · Música en femenino</title>
+    <desc>Entretenimiento,Zapping | 2025 | TP | ★6.0/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
-· Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
+· Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260819004000 +0200" stop="20260819014000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20260819014000 +0200" stop="20260819041500 +0200" channel="La 1">
-    <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2025 | ★6.2/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+  <programme start="20260818230000 +0200" stop="20260819010500 +0200" channel="La 1">
+    <title>Dog House T2 E5</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | ★6.0/10
+· Dos hermanas, una marcada por el bullying, una pareja que busca alegrar a su perro, una familia en plena tormenta, una mujer que adopta por primera vez, una madre e hija llegadas de Colombia y una pareja con gustos opuestos buscan al compañero perfecto.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Presenta: Chenoa.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
   </programme>
-  <programme start="20260819041500 +0200" stop="20260819060000 +0200" channel="La 1">
+  <programme start="20260819010500 +0200" stop="20260819031000 +0200" channel="La 1">
+    <title>Dog House T2 E4</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | ★6.6/10
+· Seis historias llegan al centro de adopción con la esperanza de encontrar a su compañero ideal.
+· País: España
+· Presenta: Chenoa.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+  </programme>
+  <programme start="20260819031000 +0200" stop="20260819060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260819060000 +0200" stop="20260819075000 +0200" channel="La 1">
+  <programme start="20260819060000 +0200" stop="20260819070000 +0200" channel="La 1">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20260819070000 +0200" stop="20260819083000 +0200" channel="La 1">
     <title>Telediario Matinal</title>
     <desc>Información,Informativo | 2023 | TP | ★6.0/10
 · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
@@ -171,21 +163,21 @@
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260819075000 +0200" stop="20260819103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T9</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
+  <programme start="20260819083000 +0200" stop="20260819103500 +0200" channel="La 1">
+    <title>La hora de La 1: La hora de la actualidad T9 E163</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20260819103500 +0200" stop="20260819145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+    <title>Mañaneros 360 T2 E248</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Aida Bao.</desc>
   </programme>
-  <programme start="20260819145500 +0200" stop="20260819153500 +0200" channel="La 1">
+  <programme start="20260819145500 +0200" stop="20260819153000 +0200" channel="La 1">
     <title>Telediario 1</title>
     <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
@@ -193,65 +185,62 @@
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260819153500 +0200" stop="20260819154000 +0200" channel="La 1">
+  <programme start="20260819153000 +0200" stop="20260819153500 +0200" channel="La 1">
     <title>Deportes 1</title>
     <desc>Deportes,Programa deportes | 2025 | ★6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20260819154000 +0200" stop="20260819154500 +0200" channel="La 1">
+  <programme start="20260819153500 +0200" stop="20260819154000 +0200" channel="La 1">
     <title>El tiempo</title>
     <desc>Información,Meteorología | 2014 | ★6.2/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260819154500 +0200" stop="20260819155500 +0200" channel="La 1">
+  <programme start="20260819154000 +0200" stop="20260819155000 +0200" channel="La 1">
     <title>Informativo territorial 2</title>
     <desc>Información,Informativo | 2023 | ★6.0/10
 · Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
   </programme>
-  <programme start="20260819155500 +0200" stop="20260819174500 +0200" channel="La 1">
-    <title>Directo al grano T2</title>
+  <programme start="20260819155000 +0200" stop="20260819174500 +0200" channel="La 1">
+    <title>Directo al grano T2 E163</title>
     <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
 · Magacín conducido por Martín Barreiro y Marta Flich que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
-· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
-· Dirección: Óscar Cornejo, Ana Isabel Peces.
-· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
-· Productora: Radio Televisión Española (RTVE).</desc>
+· Presenta: Martín Barreiro, Marta Flich.</desc>
   </programme>
   <programme start="20260819174500 +0200" stop="20260819183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+    <title>Valle Salvaje T4 E48</title>
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.0/10
+· Braulio confirma a don Hernando que Manuela y Alejo se acercan demasiado, así que el marqués toma medidas para que no vuelva a repetirse lo que ocurrió con Leonardo. Petra irrumpe ante Luisa y Bárbara con una confesión.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
   </programme>
   <programme start="20260819183500 +0200" stop="20260819193500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
+    <title>La Promesa T1 E888</title>
+    <desc>Series,Drama | 2026 | ⑫ | ★6.0/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
 · Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
   </programme>
   <programme start="20260819193500 +0200" stop="20260819202500 +0200" channel="La 1">
-    <title>Malas lenguas T2</title>
-    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+    <title>Malas lenguas T2 E235</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
 · Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
   </programme>
   <programme start="20260819202500 +0200" stop="20260819205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+    <title>Aquí la Tierra T15 E805</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.0/10
+· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+· Presenta: Marc Santandreu.</desc>
   </programme>
   <programme start="20260819205500 +0200" stop="20260819214000 +0200" channel="La 1">
     <title>Telediario 2</title>
@@ -268,37 +257,39 @@
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20260819214500 +0200" stop="20260819230000 +0200" channel="La 1">
-    <title>El Grand Prix del Verano T4</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | ★8.0/10
-· Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
+  <programme start="20260819214500 +0200" stop="20260819222500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T14 · Más 80 y Pop</title>
+    <desc>Entretenimiento,Zapping | 2024 | TP | ★5.8/10
+· Viaje por las canciones que se radiaron sin parar en la radio de los años 80.
 · País: España
-· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
-· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
+· Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260819230000 +0200" stop="20260820001500 +0200" channel="La 1">
-    <title>Operación África</title>
-    <desc>Documentales,Documental | 2026 | TP | ★6.0/10
-· El doctor Pedro Cavadas viaja a Tanzania para afrontar uno de los mayores retos de su carrera: operar a más de 100 pacientes con apenas recursos y en condiciones muy precarias en 10 días.
-· País: España</desc>
-  </programme>
-  <programme start="20260820001500 +0200" stop="20260820014500 +0200" channel="La 1">
-    <title>Operación África</title>
-    <desc>Documentales,Documental | 2026 | TP | ★6.0/10
-· El doctor Pedro Cavadas viaja a Tanzania para afrontar uno de los mayores retos de su carrera: operar a más de 100 pacientes con apenas recursos y en condiciones muy precarias en 10 días.
-· País: España</desc>
-  </programme>
-  <programme start="20260820014500 +0200" stop="20260820042000 +0200" channel="La 1">
-    <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2025 | ★6.2/10
-· Informativo diario nocturno que ofrece un análisis profundo y plural de la actualidad de la jornada.
+  <programme start="20260819222500 +0200" stop="20260819225500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele T15 · 70 artistas de los 90 express (1ª parte)</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | ★6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España
-· Dirección: Xabier Fortes.
-· Productora: Televisión Española (TVE).</desc>
+· Dirección: Pedro Santos.</desc>
   </programme>
-  <programme start="20260820042000 +0200" stop="20260820060000 +0200" channel="La 1">
+  <programme start="20260819225500 +0200" stop="20260820013500 +0200" channel="La 1">
+    <title>Maestros de la Costura Celebrity T2 E9</title>
+    <desc>Cultural/Educativo,Moda | 2026 | ⑦ | ★5.8/10
+· Un grupo de famosos se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.
+· País: España
+· Dirección: Raquel Sánchez Silva.
+· Productora: Radio Televisión Española (RTVE), Shine Iberia.</desc>
+  </programme>
+  <programme start="20260820013500 +0200" stop="20260820043000 +0200" channel="La 1">
+    <title>Maestros de la Costura Celebrity T2</title>
+    <desc>Cultural/Educativo,Moda | 2026 | ⑦ | ★5.8/10
+· Un grupo de famosos se enfrentan a diferentes pruebas en las que tienen que demostrar su creatividad y talento transformando prendas o cosiendo sus propias creaciones.
+· País: España
+· Dirección: Raquel Sánchez Silva.
+· Productora: Radio Televisión Española (RTVE), Shine Iberia.</desc>
+  </programme>
+  <programme start="20260820043000 +0200" stop="20260820060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -750,73 +741,6 @@
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260818004551 +0000" stop="20260818024629 +0000">
-    <title>El hombre del klan</title>
-    <episode-num system="original-air-date">19770101000000 +0000</episode-num>
-    <desc>Finales de los años sesenta. Aunque la mayoría de la población de Atoka (Alabama) es negra, está dominada por los blancos, muchos de los cuales pertenecen al "Ku-Klux-Klan", una organización racista que impone el terror.</desc>
-    <icon src="https://images.pluto.tv/episodes/695b8066bd4e7744e733da69/poster_1767604327170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19770101</date>
-    <series-id system="pluto">695b8065bd4e7744e733da49</series-id>
-    <category>Movie</category>
-    <category>Thriller</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260818024629 +0000" stop="20260818024929 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E107</episode-num>
-    <episode-num system="pluto">685bc059156c3ca040eaeb9e</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV ES</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260818024929 +0000" stop="20260818025429 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <episode-num system="onscreen">S01E106</episode-num>
-    <episode-num system="pluto">685bc319e454af924e33dee7</episode-num>
-    <episode-num system="original-air-date">19700101000000 +0000</episode-num>
-    <desc>Fillers Pluto TV</desc>
-    <icon src="https://images.pluto.tv/series/64c79bbda1c6130008f89738/tile_1784605518780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">64c79bbda1c6130008f89738</series-id>
-    <sub-title>Disponible en Pluto TV</sub-title>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260818025429 +0000" stop="20260818044121 +0000">
-    <title>El general murió al amanecer</title>
-    <episode-num system="original-air-date">19630101000000 +0000</episode-num>
-    <desc>En los años 30, en plena guerra civil china, el aventurero O'Hara, indignado por el trato que el general Yang dispensa a sus compatriotas, envía dinero al señor Wu para que compre en Shangai armas.</desc>
-    <icon src="https://images.pluto.tv/episodes/695b8061bd4e7744e7330244/poster_1767630056723.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19630101</date>
-    <series-id system="pluto">695b8060bd4e7744e7330225</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260818064521 +0000" stop="20260818084756 +0000">
-    <title>Albert Nobbs</title>
-    <episode-num system="original-air-date">20110831000000 +0000</episode-num>
-    <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
-    <icon src="https://images.pluto.tv/episodes/69ef3d7811a68f7704228cac/poster_1777286521911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110831</date>
-    <series-id system="pluto">69ef3d7811a68f7704228c8c</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260818084756 +0000" stop="20260818104141 +0000">
-    <title>El club de los incomprendidos</title>
-    <episode-num system="original-air-date">20141201000000 +0000</episode-num>
-    <desc>Basada en la novela de Francisco de Paula. Un grupo de adolescentes castigados en el instituto descubre la amistad y el amor mientras comparten sus problemas. En elenco podemos ver a Ivana Baquero, Patrick Criado, Aitana Sánchez-Gijón o Raúl Arévalo.</desc>
-    <icon src="https://images.pluto.tv/episodes/69fb677ddf4ded48bcb37e5c/poster_1778083710151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20141201</date>
-    <series-id system="pluto">69fb677cdf4ded48bcb37b40</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260818104141 +0000" stop="20260818125835 +0000">
     <title>El velo pintado</title>
     <episode-num system="original-air-date">20061213000000 +0000</episode-num>
@@ -848,5 +772,69 @@
     <series-id system="pluto">5f523c14db45a1001a79aac1</series-id>
     <category>Movie</category>
     <category>Romance</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260818163835 +0000" stop="20260818183445 +0000">
+    <title>El dulce porvenir</title>
+    <episode-num system="original-air-date">19970926000000 +0000</episode-num>
+    <desc>Un autobús escolar se despeña montaña abajo y se hunde en un lago helado. En el accidente mueren todos los niños del pueblo. El abogado Mitchell Stevens se entrevista con los padres y les propone llevar el caso a los tribunales.</desc>
+    <icon src="https://images.pluto.tv/episodes/65645a92620638001396e36a/poster_1782271108730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19970926</date>
+    <series-id system="pluto">65645a90620638001396e34b</series-id>
+    <category>Courtroom Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260818183445 +0000" stop="20260818204645 +0000">
+    <title>¡Han llegado!</title>
+    <episode-num system="original-air-date">19960531000000 +0000</episode-num>
+    <desc>Zane, un astrónomo, descubre vida extraterrestre inteligente, pero los extraterrestres guardan un secreto mortal y harán cualquier cosa para evitar que Zane lo conozca.</desc>
+    <icon src="https://images.pluto.tv/episodes/61ea6dd2161b65001a9c2ad9/poster_1779052321138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19960531</date>
+    <series-id system="pluto">61ea6dd0161b65001a9c2ad3</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260818204645 +0000" stop="20260818223342 +0000">
+    <title>Espías desde el cielo</title>
+    <episode-num system="original-air-date">20160311000000 +0000</episode-num>
+    <desc>La coronel Katherine Powell, una oficial de la inteligencia militar británica, lidera una operación secreta para capturar a un grupo de terroristas en Nairobi, Kenia.</desc>
+    <icon src="https://images.pluto.tv/episodes/69d8b671f22f20f768d946a7/poster_1775810171905.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20160311</date>
+    <series-id system="pluto">69d8b670f22f20f768d94687</series-id>
+    <category>Movie</category>
+    <category>Thriller</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260818223342 +0000" stop="20260819003851 +0000">
+    <title>Hannibal: El origen del mal</title>
+    <episode-num system="original-air-date">20070207000000 +0000</episode-num>
+    <desc>El joven Hannibal empieza a tramar una venganza después de que su hermanita sea asesinada durante la Segunda Guerra Mundial. Basada en la novela de Thomas Harris.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dc93da7fde50013c2e961/poster_1769190483169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20070207</date>
+    <series-id system="pluto">672dc93ba7fde50013c2e941</series-id>
+    <category>Horror</category>
+    <category>Slashers and Serial Killers</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260819003851 +0000" stop="20260819024316 +0000">
+    <title>El beso de la mujer araña</title>
+    <episode-num system="original-air-date">19850606000000 +0000</episode-num>
+    <desc>En una prisión sudamericana, Luis Molina (William Hurt) y Valentín Arregui (Raúl Julia) son compañeros de celda. Molina es un homosexual encarcelado por seducir a un menor. Valentín es un revolucionario de izquierdas torturado durante los interrogatorios.</desc>
+    <icon src="https://images.pluto.tv/episodes/655b7b7db8262d0013947166/poster_1782277208450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19850606</date>
+    <series-id system="pluto">655b7b7bb8262d0013947147</series-id>
+    <category>Foreign Drama</category>
+    <category>Movie</category>
+    <category>Drama</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260819024316 +0000" stop="20260819041751 +0000">
+    <title>El secreto del lago</title>
+    <episode-num system="original-air-date">20200710000000 +0000</episode-num>
+    <desc>Un adolescente descubre un oscuro secreto que desata una peligrosa cadena de acontecimientos.</desc>
+    <icon src="https://images.pluto.tv/episodes/69ef7b5df7413575bb4da580/poster_1777302366780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20200710</date>
+    <series-id system="pluto">69ef7b5df7413575bb4da561</series-id>
+    <category>Movie</category>
+    <category>Drama</category>
+    <category>Independent Drama</category>
   </programme>
 </tv>
