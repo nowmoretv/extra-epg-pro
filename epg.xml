@@ -11,126 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260821070000 +0200" stop="20260821083000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | ★6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20260821083000 +0200" stop="20260821103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T9 E165</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-  </programme>
-  <programme start="20260821103500 +0200" stop="20260821145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2 E250</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
-· Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Aida Bao.</desc>
-  </programme>
-  <programme start="20260821145500 +0200" stop="20260821153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | ★6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20260821153000 +0200" stop="20260821153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20260821153500 +0200" stop="20260821154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | ★6.2/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20260821154000 +0200" stop="20260821155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-    <desc>Información,Informativo | 2023 | ★6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-  </programme>
-  <programme start="20260821155000 +0200" stop="20260821174500 +0200" channel="La 1">
-    <title>Directo al grano T2 E165</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.6/10
-· Magacín conducido por Martín Barreiro y Marta Flich que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Martín Barreiro, Marta Flich.</desc>
-  </programme>
-  <programme start="20260821174500 +0200" stop="20260821183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4 E50</title>
-    <desc>Series,Telenovela | 2026 | ⑫ | ★6.0/10
-· Todos los secretos estallan en el Valle y Pura y Petra aceptan que su destino está sellado. Pero antes de que nadie pueda reaccionar, Rosalía se rompe ante el duque y le cuenta una verdad devastadora. ¿Se atreverá a contarle que María es su hija?
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-  </programme>
-  <programme start="20260821183500 +0200" stop="20260821193500 +0200" channel="La 1">
-    <title>La Promesa T1 E890</title>
-    <desc>Series,Drama | 2026 | ⑫ | ★6.0/10
-· Petra cuenta a Pía que ella misma provocó que mandaran a Tomasa a trabajar con los Buenaventura, pero… ¡aún oculta algo más grave! Pía intercede ahora por María Fernández ante Carlo para que la entienda y puedan reconciliarse.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-  </programme>
-  <programme start="20260821193500 +0200" stop="20260821202500 +0200" channel="La 1">
-    <title>Malas lenguas T2 E237</title>
-    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
-· Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-  </programme>
-  <programme start="20260821202500 +0200" stop="20260821205500 +0200" channel="La 1">
-    <title>Aquí la Tierra T15</title>
-    <desc>Entretenimiento,Magacín | 2026 | TP | ★6.2/10
-· Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
-  </programme>
-  <programme start="20260821205500 +0200" stop="20260821214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-  </programme>
-  <programme start="20260821214000 +0200" stop="20260821214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-  </programme>
-  <programme start="20260821214500 +0200" stop="20260821222500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele: La noche temática T1 · Famosos tan jóvenes</title>
-    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.0/10
-· Un divertido viaje para ver a primera vez de nuestros famosos cuando eran unos auténticos desconocidos. Políticos como Rajoy o Zapatero. Cantantes como Sergio Dalma o el Dúo Dinámico. Una lista tan larga como sorprendente.
-· País: España</desc>
-  </programme>
-  <programme start="20260821222500 +0200" stop="20260821231000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele: La noche temática T1 · Famosos con estrella</title>
-    <desc>Entretenimiento,Zapping | 2022 | TP | ★6.0/10
-· La primera vez de los famosos en TVE, personajes que ahora están en boca de todos y que tuvieron que enfrentarse a su primera actuación o a su primer cásting. Errores y aciertos de artistas que, de una forma u otra, han dejado huella.
-· País: España</desc>
-  </programme>
-  <programme start="20260821231000 +0200" stop="20260822000000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele: La noche temática T1 · La música conserva</title>
-    <desc>Entretenimiento,Zapping | 2022 | TP | ★5.6/10
-· Un sorprendente viaje saltando del pasado al futuro y viceversa.
-· País: España</desc>
-  </programme>
   <programme start="20260822000000 +0200" stop="20260822004000 +0200" channel="La 1">
     <title>Viaje al centro de la tele: La noche temática T1 · Un paso adelante</title>
     <desc>Entretenimiento,Zapping | 2022 | TP | ★6.2/10
@@ -145,19 +25,19 @@
   </programme>
   <programme start="20260822012000 +0200" stop="20260822060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
   <programme start="20260822060000 +0200" stop="20260822070000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
   <programme start="20260822070000 +0200" stop="20260822100500 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | ★6.2/10
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -170,7 +50,7 @@
   </programme>
   <programme start="20260822110500 +0200" stop="20260822120500 +0200" channel="La 1">
     <title>Viaje al centro de la tele exprés T1 · Salto a la fama (primera parte)</title>
-    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.0/10
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
   </programme>
@@ -222,7 +102,7 @@
   </programme>
   <programme start="20260822173500 +0200" stop="20260822190500 +0200" channel="La 1">
     <title>Paz, amor y malentendidos</title>
-    <desc>Cine,Comedia | 2011 | ⑫ | ★5.6/10
+    <desc>Cine,Comedia | 2011 | ⑫ | ★5.8/10
 · Una abogada conservadora de Nueva York lleva a sus dos hijas adolescentes a Woodstock a conocer a su abuela 'hippie'. Lo que en principio iban a ser unas cortas vacaciones, se convertirá en una aventura veraniega llena de música, romance y secretos.
 · País: Estados Unidos
 · Dirección: Bruce Beresford.
@@ -320,31 +200,29 @@
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260823070000 +0200" stop="20260823103000 +0200" channel="La 1">
+  <programme start="20260823070000 +0200" stop="20260823100500 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
-  <programme start="20260823103000 +0200" stop="20260823111000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele exprés T1</title>
+  <programme start="20260823100500 +0200" stop="20260823110000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele exprés T1 · Especial Alejandro Sanz (Primera Parte)</title>
     <desc>Entretenimiento,Zapping | 2021 | TP | ★6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· Monográfico dedicado a Alejandro Sanz que incluye sus principios, los temas más emblemáticos, entrevistas al artista, duetos, versiones, su lado más personal, fenómeno fans y su faceta solidaria.
 · País: España</desc>
   </programme>
-  <programme start="20260823111000 +0200" stop="20260823120500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele</title>
-    <desc>Entretenimiento,Zapping | 2019 | TP | ★5.8/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+  <programme start="20260823110000 +0200" stop="20260823120000 +0200" channel="La 1">
+    <title>Viaje al centro de la tele exprés T1 · Otra cara de la moneda (primera parte)</title>
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★5.8/10
+· Una nueva selección de las versiones que se han hecho de canciones emblemáticas, dentro de la historia de la música pop y rock, desde las más convencionales a las que poco tienen que ver con el original.
+· País: España</desc>
   </programme>
-  <programme start="20260823120500 +0200" stop="20260823130500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele</title>
-    <desc>Entretenimiento,Zapping | 2016 | TP | ★6.4/10
+  <programme start="20260823120000 +0200" stop="20260823130500 +0200" channel="La 1">
+    <title>Viaje al centro de la tele exprés T1 · Top baladas (primera parte)</title>
+    <desc>Entretenimiento,Zapping | 2021 | TP | ★6.4/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
+· País: España</desc>
   </programme>
   <programme start="20260823130500 +0200" stop="20260823145500 +0200" channel="La 1">
     <title>D Corazón T3</title>
@@ -376,17 +254,27 @@
 · Presenta: Silvia Salgado.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
-  <programme start="20260823155500 +0200" stop="20260823172500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260823155500 +0200" stop="20260823173000 +0200" channel="La 1">
+    <title>Un buen partido</title>
+    <desc>Cine,Comedia romántica | 2012 | TP | ★6.6/10
+· George Dryer, una antigua estrella de fútbol en Europa, vive casi con lo puesto en un pueblo de Virginia con la intención de mejorar la relación con su hijo Lewis y su ex mujer Stacie. Todo cambia cuando acepta entrenar al equipo de fútbol de su hijo.</desc>
   </programme>
-  <programme start="20260823172500 +0200" stop="20260823190500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260823173000 +0200" stop="20260823191500 +0200" channel="La 1">
+    <title>Adivina quién</title>
+    <desc>Cine,Comedia romántica | 2005 | ⑦ | ★6.8/10
+· Una joven presenta a su prometido en la celebración de las bodas de plata de sus padres.
+· País: Estados Unidos
+· Dirección: Kevin Rodney Sullivan, Michael Spiller.
+· Reparto: Bernie Mac, Ashton Kutcher, Zoe Saldaña, Judith Scott, Nicholaus Iamaleava, Hal Williams.
+· Guion: Peter Tolan, Jay Scherick, David Ronn.
+· Música: John Murphy.
+· Producción: Jason Goldberg, Jenno Topping, Erwin Stoff.
+· Productora: Erwin Stoff, Jenno Topping, J. Roberts, Steven Greener, Joseph M Caracciolo, Jason Goldberg.</desc>
   </programme>
-  <programme start="20260823190500 +0200" stop="20260823203500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260823191500 +0200" stop="20260823203500 +0200" channel="La 1">
+    <title>Míos, tuyos, nuestros</title>
+    <desc>Cine,Comedia | 2005 | TP | ★6.8/10
+· Narra las peripecias de dos padres divorciados con diez y ocho hijos respectivamente, y cómo sus planes de matrimonio (que incluyen encontrar una casa para todos ellos) se verán saboteados.</desc>
   </programme>
   <programme start="20260823203500 +0200" stop="20260823205500 +0200" channel="La 1">
     <title>Aquí la Tierra</title>
@@ -396,11 +284,11 @@
 · Presenta: Jacob Petrus, Marc Santandreu.</desc>
   </programme>
   <programme start="20260823205500 +0200" stop="20260823215000 +0200" channel="La 1">
-    <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | TP | ★4.0/10
-· Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
-· Presenta: Marc Sala, Lourdes Maldonado.
+· Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20260823215000 +0200" stop="20260823220000 +0200" channel="La 1">
@@ -410,21 +298,43 @@
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
   </programme>
-  <programme start="20260823220000 +0200" stop="20260823235500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260823220000 +0200" stop="20260823235000 +0200" channel="La 1">
+    <title>Despierta la furia</title>
+    <desc>Cine,Acción | 2021 | ⑯ | ★7.0/10
+· Un hombre misterioso, llamado H, trabaja en una empresa de camiones que se dedica a trasladar, cada semana, cientos de millones de dólares por Los Ángeles.
+· País: Estados Unidos y Reino Unido
+· Dirección: Guy Ritchie.
+· Reparto: Jason Statham, Holt McCallany, Josh Hartnett, Scott Eastwood, Rebecca Calder, Josh Cowdery.
+· Guion: Nicolas Boukhrief, Éric Besnard, Guy Ritchie, Marn Davies, Ivan Atkinson.
+· Música: Christopher Benstead.
+· Productora: Louise Killin, Abby Mills, Jack Ivins, Joshua Throne, Steve Chasman, Andrew Golov.</desc>
   </programme>
-  <programme start="20260823235500 +0200" stop="20260824012500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260823235000 +0200" stop="20260824014000 +0200" channel="La 1">
+    <title>Eraser (Eliminador)</title>
+    <desc>Cine,Acción | 1996 | ⑱ | ★6.6/10
+· Eraser es un agente del Programa de Protección de Testigos. Ahora debe proteger a una mujer que ha descubierto algo importante.
+· País: Estados Unidos
+· Dirección: Chuck Russell.
+· Reparto: Arnold Schwarzenegger, James Caan, Vanessa Williams, James Coburn, Robert Pastorelli.
+· Guion: Tony Puryear, Walon Green.
+· Música: Alan Silvestri.
+· Productora: Warner Bros.</desc>
   </programme>
-  <programme start="20260824012500 +0200" stop="20260824030500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
+  <programme start="20260824014000 +0200" stop="20260824035500 +0200" channel="La 1">
+    <title>Huérfanos de Brooklyn</title>
+    <desc>Cine,Thriller | 2019 | ⑯ | ★7.4/10
+· Lionel Essrog, un detective privado con síndrome de Tourette, intenta resolver el asesinato de su mejor amigo con la fuerza de su obsesiva mente.
+· País: Estados Unidos
+· Dirección: Edward Norton.
+· Reparto: Edward Norton, Bruce Willis, Gugu Mbatha-Raw, Alec Baldwin, Willem Dafoe, Bobby Cannavale, Cherry Jones.
+· Guion: Edward Norton.
+· Música: Daniel Pemberton.
+· Producción: Edward Norton, Gigi Pritzker, Michael Bederman, Rachel Shane, Bill Migliore.
+· Productora: Warner Bros. Pictures, Class 5 Films, MWM Studios.</desc>
   </programme>
-  <programme start="20260824030500 +0200" stop="20260824060000 +0200" channel="La 1">
+  <programme start="20260824035500 +0200" stop="20260824060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
   </programme>
@@ -548,112 +458,143 @@
 · País: España
 · Productora: ShineIberia.</desc>
   </programme>
+  <programme start="20260825020500 +0200" stop="20260825045500 +0200" channel="La 1">
+    <title>MasterChef</title>
+    <desc>Entretenimiento,Concurso | 2026 | ⑦ | ★6.0/10
+· La cocina se convierte en el campo de batalla para quince aspirantes a chefs.
+· País: España
+· Productora: ShineIberia.</desc>
+  </programme>
+  <programme start="20260825045500 +0200" stop="20260825060000 +0200" channel="La 1">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+  </programme>
+  <programme start="20260825060000 +0200" stop="20260825075000 +0200" channel="La 1">
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260825075000 +0200" stop="20260825103500 +0200" channel="La 1">
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★5.8/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+  </programme>
+  <programme start="20260825103500 +0200" stop="20260825145500 +0200" channel="La 1">
+    <title>Mañaneros 360 T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.0/10
+· Magazín de actualidad conducido por Adela González y Aída Bao, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Aida Bao.</desc>
+  </programme>
+  <programme start="20260825145500 +0200" stop="20260825153500 +0200" channel="La 1">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | ★6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260825153500 +0200" stop="20260825154000 +0200" channel="La 1">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20260825154000 +0200" stop="20260825154500 +0200" channel="La 1">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | ★6.2/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260825154500 +0200" stop="20260825155500 +0200" channel="La 1">
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | ★6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+  </programme>
+  <programme start="20260825155500 +0200" stop="20260825174500 +0200" channel="La 1">
+    <title>Directo al grano T2</title>
+    <desc>Entretenimiento,Magacín | 2026 | ⑯ | ★6.0/10
+· Magacín conducido por Martín Barreiro y Marta Flich que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Martín Barreiro, Gonzalo Miró.
+· Dirección: Óscar Cornejo, Ana Isabel Peces.
+· Reparto: Rosa Villacastín, Ada Colau, Marta Flich.
+· Productora: Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20260825174500 +0200" stop="20260825183500 +0200" channel="La 1">
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | ⑫ | ★6.4/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+  </programme>
+  <programme start="20260825183500 +0200" stop="20260825193500 +0200" channel="La 1">
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | ⑫ | ★6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+  </programme>
+  <programme start="20260825193500 +0200" stop="20260825202500 +0200" channel="La 1">
+    <title>Malas lenguas T2</title>
+    <desc>Entretenimiento,Magacín | 2025 | ⑯ | ★6.2/10
+· Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+  </programme>
+  <programme start="20260825202500 +0200" stop="20260825205500 +0200" channel="La 1">
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | ★6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+  </programme>
+  <programme start="20260825205500 +0200" stop="20260825214000 +0200" channel="La 1">
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | ★6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+  </programme>
+  <programme start="20260825214000 +0200" stop="20260825214500 +0200" channel="La 1">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | ★6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+  </programme>
+  <programme start="20260825214500 +0200" stop="20260825230000 +0200" channel="La 1">
+    <title>El Grand Prix del Verano T4</title>
+    <desc>Entretenimiento,Concurso | 2026 | TP | ★8.0/10
+· Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.
+· País: España
+· Presenta: Ramón García, Gorka Rodríguez, Lalachus.
+· Productora: Radio Televisión Española (RTVE), EuroTV Producciones.</desc>
+  </programme>
+  <programme start="20260825230000 +0200" stop="20260826004000 +0200" channel="La 1">
+    <title>Al cielo con ella</title>
+    <desc>Entretenimiento,Tertulia | 2026 | ⑯ | ★6.2/10
+· Henar Álvarez presenta un programa de entrevistas gamberras y reivindicativas.
+· País: España
+· Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
+  </programme>
   <channel id="La 1 Light">
     <display-name>La 1 Light</display-name>
     <icon src="https://images.open-epg.com/12901077.png" />
   </channel>
-  <programme start="20260821023000 +0000" stop="20260821040000 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-    <sub-title />
-    <desc>Noticias 24H</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821040000 +0000" stop="20260821050000 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-    <sub-title />
-    <desc>Información</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821050000 +0000" stop="20260821063000 +0000" channel="La 1 Light">
-    <title>Telediario Matinal</title>
-    <sub-title />
-    <desc>Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821063000 +0000" stop="20260821083500 +0000" channel="La 1 Light">
-    <title>La hora de La 1: La hora de la actualidad</title>
-    <sub-title />
-    <desc>Episodio 163, Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821083500 +0000" stop="20260821125500 +0000" channel="La 1 Light">
-    <title>Mañaneros 360</title>
-    <sub-title />
-    <desc>Episodio 248, Información</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821125500 +0000" stop="20260821135000 +0000" channel="La 1 Light">
-    <title>Telediario 1</title>
-    <sub-title />
-    <desc>Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821135000 +0000" stop="20260821154500 +0000" channel="La 1 Light">
-    <title>Directo al grano</title>
-    <sub-title />
-    <desc>Episodio 163, Series</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821154500 +0000" stop="20260821163500 +0000" channel="La 1 Light">
-    <title>Valle Salvaje (T4)</title>
-    <sub-title />
-    <desc>Episodio 48, Series</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821163500 +0000" stop="20260821173500 +0000" channel="La 1 Light">
-    <title>La Promesa (T1)</title>
-    <sub-title />
-    <desc>Episodio 888, Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821173500 +0000" stop="20260821182500 +0000" channel="La 1 Light">
-    <title>Malas lenguas</title>
-    <sub-title />
-    <desc>Episodio 235, Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821182500 +0000" stop="20260821185500 +0000" channel="La 1 Light">
-    <title>Aquí la Tierra</title>
-    <sub-title />
-    <desc>Información</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821185500 +0000" stop="20260821194500 +0000" channel="La 1 Light">
-    <title>Telediario 2</title>
-    <sub-title />
-    <desc>Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821194500 +0000" stop="20260821202500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
-    <sub-title />
-    <desc>Más 80 y Pop, Entretenimiento</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821202500 +0000" stop="20260821205500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
-    <sub-title />
-    <desc>70 artistas de los 90 express (1ª parte), Cultural/Educativo</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821205500 +0000" stop="20260821233500 +0000" channel="La 1 Light">
-    <title>Maestros de la Costura Celebrity</title>
-    <sub-title />
-    <desc>Episodio 9, Cultural/Educativo</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260821233500 +0000" stop="20260822023000 +0000" channel="La 1 Light">
-    <title>Maestros de la Costura Celebrity</title>
-    <sub-title />
-    <desc>Episodio 8, Información</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
-  <programme start="20260822023000 +0000" stop="20260822040000 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-    <sub-title />
-    <desc>Noticias 24H</desc>
-    <episode-num system="xmltv_ns" />
-  </programme>
   <programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
     <sub-title />
@@ -669,13 +610,13 @@
   <programme start="20260822063000 +0000" stop="20260822083500 +0000" channel="La 1 Light">
     <title>La hora de La 1: La hora de la actualidad</title>
     <sub-title />
-    <desc>Episodio 163, Entretenimiento</desc>
+    <desc>Episodio 165, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822083500 +0000" stop="20260822125500 +0000" channel="La 1 Light">
     <title>Mañaneros 360</title>
     <sub-title />
-    <desc>Episodio 248, Información</desc>
+    <desc>Episodio 250, Información</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822125500 +0000" stop="20260822135000 +0000" channel="La 1 Light">
@@ -687,25 +628,25 @@
   <programme start="20260822135000 +0000" stop="20260822154500 +0000" channel="La 1 Light">
     <title>Directo al grano</title>
     <sub-title />
-    <desc>Episodio 163, Series</desc>
+    <desc>Episodio 165, Series</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822154500 +0000" stop="20260822163500 +0000" channel="La 1 Light">
     <title>Valle Salvaje (T4)</title>
     <sub-title />
-    <desc>Episodio 48, Series</desc>
+    <desc>Episodio 50, Series</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822163500 +0000" stop="20260822173500 +0000" channel="La 1 Light">
     <title>La Promesa (T1)</title>
     <sub-title />
-    <desc>Episodio 888, Entretenimiento</desc>
+    <desc>Episodio 890, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822173500 +0000" stop="20260822182500 +0000" channel="La 1 Light">
     <title>Malas lenguas</title>
     <sub-title />
-    <desc>Episodio 235, Entretenimiento</desc>
+    <desc>Episodio 237, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822182500 +0000" stop="20260822185500 +0000" channel="La 1 Light">
@@ -721,30 +662,36 @@
     <episode-num system="xmltv_ns" />
   </programme>
   <programme start="20260822194500 +0000" stop="20260822202500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
+    <title>Viaje al centro de la tele: La noche temática</title>
     <sub-title />
-    <desc>Más 80 y Pop, Entretenimiento</desc>
+    <desc>Famosos tan jóvenes, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <programme start="20260822202500 +0000" stop="20260822205500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
+  <programme start="20260822202500 +0000" stop="20260822211000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
     <sub-title />
-    <desc>70 artistas de los 90 express (1ª parte), Cultural/Educativo</desc>
+    <desc>Famosos con estrella, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <programme start="20260822205500 +0000" stop="20260822233500 +0000" channel="La 1 Light">
-    <title>Maestros de la Costura Celebrity</title>
+  <programme start="20260822211000 +0000" stop="20260822220000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
     <sub-title />
-    <desc>Episodio 9, Cultural/Educativo</desc>
+    <desc>La música conserva, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <programme start="20260822233500 +0000" stop="20260823023000 +0000" channel="La 1 Light">
-    <title>Maestros de la Costura Celebrity</title>
+  <programme start="20260822220000 +0000" stop="20260822224000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
     <sub-title />
-    <desc>Episodio 8, Información</desc>
+    <desc>Un paso adelante, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
-  <programme start="20260823023000 +0000" stop="20260823040000 +0000" channel="La 1 Light">
+  <programme start="20260822224000 +0000" stop="20260822232000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>Camino a la fama, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260822232000 +0000" stop="20260823040000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
     <sub-title />
     <desc>Noticias 24H</desc>
@@ -765,87 +712,115 @@
   <programme start="20260823063000 +0000" stop="20260823083500 +0000" channel="La 1 Light">
     <title>La hora de La 1: La hora de la actualidad</title>
     <sub-title />
-    <desc>Episodio 163, Entretenimiento</desc>
+    <desc>Episodio 165, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823083500 +0000" stop="20260823125500 +0000" channel="La 1 Light">
+    <title>Mañaneros 360</title>
+    <sub-title />
+    <desc>Episodio 250, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823125500 +0000" stop="20260823135000 +0000" channel="La 1 Light">
+    <title>Telediario 1</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823135000 +0000" stop="20260823154500 +0000" channel="La 1 Light">
+    <title>Directo al grano</title>
+    <sub-title />
+    <desc>Episodio 165, Series</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823154500 +0000" stop="20260823163500 +0000" channel="La 1 Light">
+    <title>Valle Salvaje (T4)</title>
+    <sub-title />
+    <desc>Episodio 50, Series</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823163500 +0000" stop="20260823173500 +0000" channel="La 1 Light">
+    <title>La Promesa (T1)</title>
+    <sub-title />
+    <desc>Episodio 890, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823173500 +0000" stop="20260823182500 +0000" channel="La 1 Light">
+    <title>Malas lenguas</title>
+    <sub-title />
+    <desc>Episodio 237, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823182500 +0000" stop="20260823185500 +0000" channel="La 1 Light">
+    <title>Aquí la Tierra</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823185500 +0000" stop="20260823194500 +0000" channel="La 1 Light">
+    <title>Telediario 2</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823194500 +0000" stop="20260823202500 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>Famosos tan jóvenes, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823202500 +0000" stop="20260823211000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>Famosos con estrella, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823211000 +0000" stop="20260823220000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>La música conserva, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823220000 +0000" stop="20260823224000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>Un paso adelante, Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823224000 +0000" stop="20260823232000 +0000" channel="La 1 Light">
+    <title>Viaje al centro de la tele: La noche temática</title>
+    <sub-title />
+    <desc>Camino a la fama, Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260823232000 +0000" stop="20260824040000 +0000" channel="La 1 Light">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Noticias 24H</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260824040000 +0000" stop="20260824050000 +0000" channel="La 1 Light">
+    <title>Noticias 24H</title>
+    <sub-title />
+    <desc>Información</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260824050000 +0000" stop="20260824063000 +0000" channel="La 1 Light">
+    <title>Telediario Matinal</title>
+    <sub-title />
+    <desc>Entretenimiento</desc>
+    <episode-num system="xmltv_ns" />
+  </programme>
+  <programme start="20260824063000 +0000" stop="20260824083500 +0000" channel="La 1 Light">
+    <title>La hora de La 1: La hora de la actualidad</title>
+    <sub-title />
+    <desc>Episodio 165, Entretenimiento</desc>
     <episode-num system="xmltv_ns" />
   </programme>
   <channel id="Pluto TV Cine Estelar">
     <display-name>Pluto TV Cine Estelar</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto TV Cine Estelar" start="20260821094756 +0000" stop="20260821112733 +0000">
-    <title>Irrational Man</title>
-    <episode-num system="original-air-date">20150709000000 +0000</episode-num>
-    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
-    <icon src="https://images.pluto.tv/episodes/67371fe7a7fde5001326babc/poster_1779180383436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20150709</date>
-    <series-id system="pluto">67371fe5a7fde5001326ba9b</series-id>
-    <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821112733 +0000" stop="20260821132535 +0000">
-    <title>El juego de Ender</title>
-    <episode-num system="original-air-date">20131024000000 +0000</episode-num>
-    <desc>Harrison Ford, Asa Butterfield, Hailee Steinfeld, Ben Kingsley, Viola Davis y Abigail Breslin protagonizan esta aventura de ciencia ficción repleta de acción basada en la novela superventas.</desc>
-    <icon src="https://images.pluto.tv/episodes/6751648aa7fde50013705bae/poster_1777997882339.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20131024</date>
-    <series-id system="pluto">67516488a7fde50013705b8d</series-id>
-    <category>Science fiction</category>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821132535 +0000" stop="20260821152935 +0000">
-    <title>Viaje a Italia</title>
-    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
-    <desc>Steve Coogan y Rob Brydon reciben el encargo de un nuevo viaje gastronómico, esta vez por Italia. Estos dos improbables amigos conducen por todo el país mientras vuelven a discutir sobre la vida, el amor y el cine.</desc>
-    <icon src="https://images.pluto.tv/episodes/618263c1b5d0e9001a8ca993/poster_1768603331067.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20140101</date>
-    <series-id system="pluto">618263bfb5d0e9001a8ca98d</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821152935 +0000" stop="20260821181035 +0000">
-    <title>1492: La conquista del paraíso</title>
-    <episode-num system="original-air-date">19920101000000 +0000</episode-num>
-    <desc>Retrata la vida del atrevido explorador Cristóbal Colón. Un difícil y sorprendente viaje hasta una tierra desconocida por el mundo, América; el efecto sobre las tribus indígenas y la vuelta del héroe a España hasta su muerte.</desc>
-    <icon src="https://images.pluto.tv/episodes/636e431f576be6001373af90/poster_1769194448855.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>19920101</date>
-    <series-id system="pluto">636e431e576be6001373af88</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-    <category>Adventure</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821181035 +0000" stop="20260821202704 +0000">
-    <title>El duodécimo hombre</title>
-    <episode-num system="original-air-date">20171225000000 +0000</episode-num>
-    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
-    <icon src="https://images.pluto.tv/episodes/67b5b84a5d2668ecc5083e62/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20171225</date>
-    <series-id system="pluto">67b5b8485d2668ecc5083e40</series-id>
-    <category>Drama</category>
-    <category>Movie</category>
-    <category>Foreign Drama</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821202704 +0000" stop="20260821220304 +0000">
-    <title>Policías de Queens</title>
-    <episode-num system="original-air-date">20110709000000 +0000</episode-num>
-    <desc>Al Pacino, Channing Tatum y Ray Liotta protagonizan un thriller criminal. Un joven policía (Channing Tatum) es destinado a una comisaría del barrio en el que se crio, donde un antiguo secreto amenaza con destruir a su familia.</desc>
-    <icon src="https://images.pluto.tv/episodes/6729fd85c394bf0013295ea4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20110709</date>
-    <series-id system="pluto">6729fd84c394bf0013295e82</series-id>
-    <category>Action</category>
-    <category>Movie</category>
-  </programme>
-  <programme channel="Pluto TV Cine Estelar" start="20260821220304 +0000" stop="20260822000648 +0000">
-    <title>Escobar: Paraíso perdido</title>
-    <episode-num system="original-air-date">20141105000000 +0000</episode-num>
-    <desc>El joven surfista Nick (Josh Hutcherson) se enamora perdidamente de una hermosa chica. Todo parece perfecto hasta que conoce al tío de ella, el famoso capo de la droga Pablo Escobar (Benicio Del Toro).</desc>
-    <icon src="https://images.pluto.tv/episodes/674ef9d33b8ac60013ac0773/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20141105</date>
-    <series-id system="pluto">674ef9d23b8ac60013ac0752</series-id>
-    <category>Thriller</category>
-    <category>Movie</category>
-  </programme>
   <programme channel="Pluto TV Cine Estelar" start="20260822000648 +0000" stop="20260822021542 +0000">
     <title>El Lobo</title>
     <episode-num system="original-air-date">20040101000000 +0000</episode-num>
@@ -864,6 +839,61 @@
     <date>20120101</date>
     <series-id system="pluto">69ef4750a68b1a2a811c88f8</series-id>
     <category>Thriller</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260822035825 +0000" stop="20260822055125 +0000">
+    <title>New York, I Love You</title>
+    <episode-num system="original-air-date">20080101000000 +0000</episode-num>
+    <desc>Siguiendo los pasos del éxito de "Paris, je t'aime" doce directores y varios actores de primera línea toman la ciudad de Nueva York como set y narran diferentes historias de amor.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4ead37db45a1001a795479/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20080101</date>
+    <series-id system="pluto">5f4ead34db45a1001a795471</series-id>
+    <category>Romance</category>
+    <category>African-American Romance</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260822055125 +0000" stop="20260822090425 +0000">
+    <title>Moby Dick</title>
+    <episode-num system="original-air-date">20100101000000 +0000</episode-num>
+    <desc>El Pequod es un barco ballenero cuyo objetivo principal es cazar a la mítica ballena blanca. Al mando de la nave está el tiránico capitán Ahab, que vive obsesionado con la idea de capturar al animal que consiguió escapar después de arrancarle una pierna.</desc>
+    <icon src="https://images.pluto.tv/episodes/627b5b82e500b000135db30f/poster_1779202147943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20100101</date>
+    <series-id system="pluto">627b5b7fe500b000135db308</series-id>
+    <category>Adventure</category>
+    <category>Action</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260822090425 +0000" stop="20260822111755 +0000">
+    <title>La casa de la esperanza</title>
+    <episode-num system="original-air-date">20170324000000 +0000</episode-num>
+    <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
+    <icon src="https://images.pluto.tv/episodes/672dcaa24ad856001364e565/poster_1769190483091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20170324</date>
+    <series-id system="pluto">672dcaa04ad856001364e544</series-id>
+    <category>Drama</category>
+    <category>Historical Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260822111755 +0000" stop="20260822132055 +0000">
+    <title>La carretera</title>
+    <episode-num system="original-air-date">20090101000000 +0000</episode-num>
+    <desc>Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.</desc>
+    <icon src="https://images.pluto.tv/episodes/5f4f5ce5fa72a5001a5fd945/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20090101</date>
+    <series-id system="pluto">5f4f5ce4fa72a5001a5fd93d</series-id>
+    <category>Drama</category>
+    <category>Biographical Drama</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="Pluto TV Cine Estelar" start="20260822132055 +0000" stop="20260822150339 +0000">
+    <title>Life of Brian</title>
+    <episode-num system="original-air-date">19790101000000 +0000</episode-num>
+    <desc>Brian nace en un pesebre de Belén el mismo día que Jesucristo. Un cúmulo de desgraciados y tronchantes equívocos le harán llevar una vida paralela a la del verdadero Hijo de Dios.</desc>
+    <icon src="https://images.pluto.tv/episodes/67405a5ae07f280013146825/poster_1768602602218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19790101</date>
+    <series-id system="pluto">67405a58e07f280013146803</series-id>
+    <category>Best of British Humor</category>
+    <category>Comedy</category>
     <category>Movie</category>
   </programme>
 </tv>
